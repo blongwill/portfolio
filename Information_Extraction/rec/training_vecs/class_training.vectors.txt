@@ -1,0 +1,3634 @@
+died subsequ:1 unsuccess:2 also:2 mayor:1 ran:1 success:1
+born born:1
+occupation found:1 villag:1 also:1
+occupation offic:1 run:1 continu:1 unsuccess:1
+born member:1 repres:1 area:1 politician:1
+education attend:1 degre:1
+died famili:1 mother:1 born:1 singer:1 move:1
+born famili:1 mother:1 born:1 singer:1 move:1
+occupation role:1 known:2 best:1 probabl:1 reinterpret:1
+died life:1 jump:1 health:1 suffer:1 surviv:1 attempt:1 problem:1 suicid:1 cliff:1
+spouse(s) nativ:1 met:1 fell:1 love:1 student:1 act:1
+born nativ:1 model:1 film:1 work:1 appear:1 act:1 transit:1 youth:1
+occupation known:1 advoc:1 health:1 also:1
+occupation time:1 decad:1 cours:1 well:1 span:1 includ:1 win:2 nomin:1 career:1
+occupation part:1 year:1 role:1 earn:1
+occupation won:1 perform:1 role:1 birthday:1
+occupation time:1 perform:1 went:1 away:1 sinc:1 nomin:1
+occupation nomin:1 perform:1 guest:1 build:1 earn:1
+born left:1 attend:1 semest:2 fall:1 transfer:1
+occupation journalist:1 advoc:1
+occupation nomin:1 appear:1
+born journalist:1 actor:1 advoc:1
+born cricket:1 rule:1 play:1 sportsman:1 footbal:1
+born train:1 trainer:1 win:1 born:1 son:1
+died year:1 achiev:1 cup:1 also:1 won:1 victori:1
+born school:1 born:1
+occupation person:1 pitchman:1 televis:1
+occupation offer:1 store:1 protect:1 chain:1 integr:1 electron:2 bankruptci:1 acquir:1 compet:1 reemerg:1 success:1 file:1 furnitur:1
+occupation carpent:1 life:1 howev:1 lay:1 retail:1 blame:1 cross:1 say:1
+occupation borrow:1 idea:1 anoth:1
+spouse(s) account:1 store:1 duti:1 offic:1 daughter:1 becam:1 presid:1 resum:1
+born farm:1 govern:1 grew:1 born:1 worker:1
+died person:1 retail:1 pitchman:1 televis:1
+occupation award:1 produc:2 summer:1 sinc:1 includ:1 premier:1 categori:1 won:1 also:1 partner:1 number:1
+died die:1 near:1
+spouse(s) year:1 spent:1 attent:1 attract:1 togeth:1
+occupation anim:1 right:1 advoc:1
+education earn:1
+died die:1 age:1 nurs:1 home:1 upon:1
+spouse(s) busi:1 move:1 film:2 direct:1 marri:1 establish:1 agenc:1 director:1
+born educ:1 studi:1
+occupation finest:1 probabl:1 work:1 date:1 best:1 describ:1
+born nativ:1
+born graduat:1 attend:1
+died action:1 bei:1 kill:1
+died die:1 age:1
+born illegitim:1 child:1 born:1 name:1 given:1
+occupation mineralogist:1
+occupation expedit:1 mineralog:1 chemistri:1 particip:1 student:1
+occupation venom:1 chemistri:1 studi:1 snake:1 also:1 occurr:1 tear:1
+born born:1
+education graduat:1 attend:1 scholarship:1 soccer:1
+occupation televis:1 film:1 dancer:1 made:1 profession:1 known:1 singer:1 appear:1 seri:1
+spouse(s) televis:1 met:1 film:1 actor:1 marri:1
+born daughter:1 born:1
+occupation known:1 best:1
+born older:1 born:1 brother:1 son:1
+occupation governor:1 trooper:1 secur:1 serv:1 detail:1 state:1
+died live:1
+born immigr:1 born:1 year:1 state:1
+spouse(s) report:1 ceremoni:1 held:1 marri:1
+education graduat:1 engin:1 degre:1
+died die:1 cancer:1 age:1
+born sing:1 age:1 start:1
+died settl:1 first:1 live:1 final:1
+born mountain:1 born:1
+occupation repres:1 sinc:1
+born obtain:1 educ:1 born:1 degre:1
+education design:1 studi:1 earn:1
+occupation film:1 director:1
+occupation industri:1 star:1 actor:1 entertain:1 known:1 collect:1 televis:1 togeth:1 seri:1
+born grew:1 born:1
+born media:1 summer:1 born:1 announc:1 rais:1 forthcom:1
+died disturb:1 order:1 restor:1 sent:1
+spouse(s) wife:1 live:1 daughter:1
+born journalist:1 stori:1 born:1 novelist:1 writer:1
+occupation extens:1 throughout:1 also:1 fiction:1 work:1 life:1 gather:1 forti:1 pioneer:1 scienc:1 book:1 author:1
+occupation known:1 also:1
+spouse(s) split:1 follow:1 specul:1 rife:1 affair:1
+born born:1
+occupation produc:1 film:1 product:1 pictur:1 screenwrit:1 hous:1 author:1
+occupation movi:1 nollywood:1 industri:1 also:1 like:1 never:1 person:1 neighbour:1 produc:1 world:1 film:1 director:1 made:1 notic:1 largest:1 home:1
+occupation year:1 began:1 alongsid:1 book:1 commerci:1
+occupation writer:1 speaker:1 editor:1
+occupation area:1 grew:1 born:1 becom:1 musician:1 classic:1 educ:1 formal:1 greater:1
+occupation perhap:1 film:2 formerli:1 motion:1 captur:1 known:2 televis:1 mainli:1 part:1
+born nativ:1 heritag:1
+died riviera:1 attack:1 southwest:1 vacat:1 die:1 tourist:1 destin:1 heart:1
+occupation painter:1
+occupation member:2 becam:1
+born born:1
+born born:1
+born captain:1 year:1 onto:1 play:2 season:2 rugbi:1 start:1 career:1 end:1 transfer:1 becam:1 leagu:1
+born minist:1 call:1 born:1 serv:1 also:1 later:1 son:1 would:1
+occupation televis:1 singer:1 writer:1
+occupation anoth:1 teenag:1 take:1 age:1 start:1
+occupation won:1
+occupation won:1 time:1 outstand:1 anoth:1
+occupation produc:1 win:1 outstand:2
+born daughter:1 born:1
+died hit:1 bought:1 guitar:1 father:1 broke:1 local:1 manag:1 group:1 turn:1
+born youngest:1 born:1
+spouse(s) divorc:1 marri:1
+occupation produc:1 record:1 songwrit:1
+occupation known:1 best:1 band:1 lead:1 songwrit:1
+occupation worldwid:1 year:1 sold:1 record:1
+occupation replac:1 decid:1 need:1 lead:1
+occupation front:1 band:1 song:1 lead:1 work:1
+occupation want:1 stand:1 make:1 soon:1 look:1 lead:1 singer:1 transform:1 would:1 futur:1
+born born:1
+occupation model:1 film:2 formerli:1 screen:1 actress:1 often:1 credit:1
+born model:1 film:2 formerli:1 screen:1 actress:1 often:1 credit:1
+born born:1 villag:1 near:1
+born born:1
+born perhap:1 victim:1 season:1 win:1 success:1
+occupation child:1 film:1 director:1 produc:1 actor:1 televis:1
+occupation sibl:1 televis:1 film:1 actor:1 credit:1
+occupation depos:1 backfir:1 plot:1 conspir:1 told:1 also:1 council:1 involv:1 presid:1
+occupation columnist:1 sinc:1
+born nativ:1 attend:1
+born born:1 rais:1
+education studi:1
+died prepar:1 sought:1 retir:1 stand:1 die:1 elect:1 despit:1 offic:1 west:1 rumour:1 would:1
+born join:1 youth:1 born:1 caus:1 fact:1 rais:1 despit:1 won:1 strongli:1 nation:1 town:1
+born spent:1 year:1 born:1 famili:1
+occupation film:1
+occupation award:1 won:1 perform:1 includ:1 movi:1
+occupation led:1 film:1 school:1 becam:1 stint:1 eventu:1
+occupation start:2 stage:1 join:1 later:1 career:1 act:1
+occupation older:1 year:1 play:4 stage:1 age:1 children:1 even:1 direct:1 role:2 adapt:1 man:1 penchant:1
+occupation time:1 alongsid:1 act:1
+occupation portray:1 wife:1 role:1 award:1 play:1 lead:1 person:1 won:1 deaf:2 nomin:1 act:1
+occupation won:1 direct:1
+occupation remak:1 film:1 elev:1
+occupation remak:1 star:1 film:1 lead:2
+occupation demonstr:1 alway:1 take:1 willing:1 role:1 challeng:1
+occupation friend:1 produc:1 among:1 director:1 junior:1
+occupation year:1 reach:1 play:1 die:1 although:1 age:1 role:1
+occupation thrice:1 remain:1 nomin:1
+occupation award:1 won:1 shown:1 twice:1
+occupation auditorium:1 film:1 name:1
+occupation backstag:1 year:1 given:1 everi:1 memori:1 award:1 technician:1 prize:1 cash:1 best:1 actress:1 director:1
+died shortli:1 attack:1 elect:1 die:1 age:1 heart:1
+occupation worker:1 baker:1 retir:1 work:1
+occupation writer:1 director:1 artist:1
+occupation writer:1 dancer:1 father:1 produc:1 mother:1 actress:1
+occupation star:1 won:1 best:1 role:1 vehicl:1
+occupation won:1 year:1 role:1
+occupation also:1
+occupation won:1 da:1 film:1 adapt:1
+born writer:1 actor:1 dancer:1 father:1 produc:1 mother:1 actress:1
+occupation produc:1 screenwrit:1 film:1 director:1
+occupation dancer:1
+occupation whose:1 think:1 tend:1 care:1 spoken:1 weigh:1 write:1 word:1 refer:1 said:1
+occupation writer:1 help:1 establish:1 especi:1 acclaim:1 publish:1 gener:1
+born born:1 famili:1 move:1 week:1 outer:1 although:1 afterward:1 suburb:1
+born born:1 brother:1 son:1 rais:1
+occupation play:1
+born championship:1 won:1 player:1 era:1
+born playwright:1 born:1 novelist:1 essayist:1
+occupation born:1 playwright:1 essayist:1
+born born:1
+born profession:1 player:1 basketbal:1
+occupation member:1 affili:1 actor:1 group:1
+occupation join:1 group:1 shizon:1
+born member:1 affili:1 actor:2 group:1
+occupation founder:1 candid:1 philanthropist:1 politician:1
+occupation champion:1 administr:1 found:1 select:1
+occupation gener:1 resourc:1 work:1 acquisit:1 creat:3 citi:1 found:1 fellowship:1 equip:1 skill:1 program:1 follow:1 opportun:1 call:1 entrepreneur:1 mobil:1 job:1 began:1 mission:1 need:1
+occupation growth:1 help:1 goal:1 around:1 talent:1 distribut:1 ventur:1 incentiv:1 entrepreneurship:1 countri:1
+occupation acknowledg:1 alongsid:1
+born parent:1 immigr:1 born:1
+education graduat:1 attend:1 went:1 bachelor:1 art:1 econom:1 earn:1
+occupation known:1 best:1 write:1 thriller:1 direct:1
+born repres:2 year:1 portion:1
+education graduat:1
+died die:1 age:1
+born age:1 born:1 model:1 career:1 start:1
+occupation movi:1 like:1 theatr:1 work:1 sinc:1 televis:1 career:1 director:1
+born born:1
+died die:1
+spouse(s) transfer:1 attend:1 marri:1 graduat:3 school:2 morn:1
+born born:1 ancestri:1
+occupation leader:1
+occupation teach:1
+occupation portray:1 relat:1 work:1 deliveri:1 known:1 depart:1 televis:1 primarili:1 man:1
+occupation voic:1 perform:1
+born born:1 near:1
+born born:1 rais:1
+occupation varieti:1 compani:1 consult:1 work:1 app:1 industri:1 brand:1 digit:1 founder:1 organ:1 technolog:1 bring:1
+born born:1
+died releas:1 home:1 return:1 place:1 conservatori:1 later:1 year:1 audit:1
+occupation actor:1
+occupation love:1 soon:1 becam:1 admir:1 also:1 singer:1
+spouse(s) episod:1 wife:1 frequent:1
+died die:1 age:1
+spouse(s) met:1 serv:1 supervisor:1 swing:1 danc:1 colleg:1 marri:1 product:1 choreograph:1 dancer:1
+born state:1 born:1 children:1 youngest:1
+occupation teacher:1 dancer:1 stage:1 singer:1 choreograph:1 director:1
+occupation qualifi:1 born:1
+born boilermak:1 qualifi:1 born:1
+born born:1
+born footbal:1 colleg:1 coach:1 player:1
+born diploma:1 studi:1 aesthet:1 artist:1 train:1 histori:1
+education diploma:1 studi:1 aesthet:1 artist:1 train:1 histori:1
+born year:1 born:1 move:1
+died run:1 rail:1
+born graduat:1 wrestl:1 golf:1 team:1 footbal:1
+occupation model:1 actor:1 fit:1
+died die:1 age:1 resid:1
+born famili:1 grew:1 born:1 1960:1
+occupation poetri:1 work:1 becam:1 fiction:1 editor:2
+occupation regularli:1 repres:1 antholog:1 appear:1 poetri:1
+occupation translat:1 dramatis:1 stage:1 publish:1 version:1 radio:1
+occupation truste:1
+occupation won:1 volum:1 poetri:1
+occupation shortlist:1 poem:1 volum:1 includ:1 collect:1
+occupation known:1 best:1 role:1 charact:1
+occupation cast:1 part:1 perform:1 nomin:1
+occupation eye:1 vagu:1 play:1 shock:1 hair:1 featur:1 profil:1 height:1 typecast:1 villain:1 sneer:1 steer:1 prompt:1 give:1 although:1 tri:1 say:1 role:1 impos:1 sinist:1
+occupation wherev:1 consid:1 wide:1 respect:1 also:1 appear:1 boon:1 howev:1
+occupation earn:1 nomin:1 work:1
+occupation along:1 cast:1 ensembl:1 nomin:1 outstand:1
+occupation transit:1 greater:1 point:1 view:1 allow:1 reced:1 come:1 interview:1 actual:1 recognit:1 charact:1 make:1 role:1 fore:1
+occupation whose:1 mother:1 voic:1 coach:1 son:1
+born born:1 son:1
+born born:1
+occupation member:1 cat:1 band:1 singer:1 songwrit:1 guitarist:1
+occupation along:1 writer:1
+born grew:1 born:1
+born titlehold:1 born:1
+occupation seri:1 guest:1 decad:1 went:1 achiev:1 televis:1 began:1 final:1 virtual:1 nearli:1 role:1
+occupation team:1 televis:1 partner:1 seri:1
+occupation portray:1 receiv:1 star:1 movi:1 televis:1 prais:1
+spouse(s) marriag:1 life:1 actor:1 becom:1 asid:1 known:1 particularli:1 relationship:1 career:1 act:1
+born daughter:1 born:1 chemist:1 model:1
+occupation present:2 televis:1 radio:1
+occupation show:1 becom:1 present:1 began:1 well:1 career:1 alongsid:1
+occupation relief:1 becom:1 well:1 present:2 loss:1 becam:1 newsread:1
+born grew:1 born:1
+born drive:1
+born side:1 born:1
+education graduat:1 attend:1 histori:1 degre:1
+born cricket:2 play:1 team:1
+occupation accomplish:1 consult:1 start:1 incred:1 contribut:1 betray:1 core:1 arguabl:1 time:1 partner:1 chariti:1 lead:1 valu:1 wonder:1 highli:1 firm:1 would:1 prosecutor:1
+born born:1
+spouse(s) wife:1
+occupation equip:1 manufactur:1 entrepreneur:1 inventor:1 industri:1
+born born:1 rais:1
+died die:1
+born born:1 son:1
+occupation produc:1 film:1 director:2 screenwrit:1 televis:1
+spouse(s) design:1 marri:1
+died educ:1
+occupation known:1 pc:1
+spouse(s) film:1
+born member:1
+occupation like:1 collabor:1 director:1
+occupation member:1
+occupation work:1 son:1 also:1
+occupation televis:1 comedi:1 achiev:1 success:1
+occupation niec:1 daughter:1 execut:1
+occupation comedi:1 point:1 enjoy:1 prove:1 intend:1 realiz:1 role:1
+spouse(s) husband:1 conceiv:1
+born born:1 rais:1
+occupation comparison:1 answer:1 music:1 work:1 video:1 like:1 contemporari:1 earn:1
+occupation instal:1 box:1 work:1 photograph:1 strive:1 still:1 artist:1 outsid:1
+occupation region:1 market:1 femal:1 direct:1 also:1
+occupation fashion:1 advertis:1 hottest:1
+occupation along:1 titl:1 hum:1 expand:1 theme:1 back:1 scene:1 nostalg:1 move:1 direct:1 abandon:1 emot:1 casual:1 fact:1
+occupation invit:1
+occupation design:1 visual:1 project:1 creat:1 also:1
+born base:1 versatil:1 filmmak:1
+education studi:1 filmmak:1
+occupation predominantli:1 film:1 appear:1 also:1
+occupation relat:1
+occupation actor:1 studi:1 film:1 lead:2 tenth:1 featur:1 like:1 role:1 grade:1
+born born:1
+occupation model:1
+occupation closet:1 land:1 play:1 girlfriend:1 cast:1 join:1 season:1 role:1 breakout:1 appear:1
+occupation award:1 role:1 star:1 film:1 horror:1
+occupation best:1
+spouse(s) parent:1 estat:1 marri:1
+born born:1
+died zone:1 post:1 flame:1 lamp:1 near:1 crash:1 tree:1 speed:1 car:1 burst:1 mph:1
+born fashion:1 model:1 born:1 glove:1 champion:1 sewer:1 contractor:1 son:1 boxer:1
+education sibl:1 graduat:1 attend:1 school:1 rais:1 primarili:1 oldest:1 commun:1
+occupation philanthropist:1
+occupation opera:1 child:1 recognit:1 soap:1 first:1 featur:1 begun:1 televis:1 gain:1 career:1
+occupation fashion:1 model:1 born:1 glove:1 champion:1 sewer:1 contractor:1 son:1 boxer:1
+occupation race:1 1960:1 car:1 factori:1 grandfath:1
+occupation opera:1 outstand:1 nomin:1 soap:1 play:1
+occupation action:1 star:1 film:2 arriv:1 role:1 franchis:1
+occupation case:1 rule:1 father:1 estat:1 daughter:1 also:1 executor:1 file:1 bear:1
+died hous:1 move:1 sold:1 musician:1
+spouse(s) die:1 wife:1 actress:1 day:1
+occupation decad:1 film:1 appear:1 career:1 span:1
+occupation receiv:1 work:1
+occupation perform:1 earn:1
+occupation style:1 villag:1 won:1 idiot:1 role:1 departur:1
+occupation could:1 still:1 1970:1 film:1 shown:1 role:1 factor:1 get:1
+occupation becam:1 mother:1 later:1
+born born:1
+spouse(s) actress:1 ceremoni:1 marri:1
+born area:1 hospit:1 born:1 within:1 sector:1
+occupation crime:1 stori:1 empir:1 author:1 set:1 known:1 best:1 seri:1
+born born:1 degre:1 take:1 literatur:1 servant:1 becam:1
+born attend:1 remain:1 born:1 later:1 move:1
+occupation properti:1 busi:1 engin:1 director:1 founder:1 develop:1 compani:2
+occupation episod:1 show:1 director:1 work:1 sometim:1 anim:1 direct:1 televis:1 credit:1
+occupation screenwrit:1 film:1 director:1
+occupation produc:1 film:1 basebal:1 execut:1
+born attend:1
+died honor:1 villa:1 welcom:1 gave:1 travel:1 author:1
+born teacher:1 school:1 complet:1 father:1
+born citi:1 born:1 capit:1
+born graduat:1 born:1
+died die:1 hemorrhag:1 age:1 home:1 brain:1
+born born:1
+died offic:1 forc:1 serv:1
+born child:1 born:1 famili:1 move:1
+born born:1 rais:1
+died time:1 move:1 knock:1 lose:1 championship:1 lb:1 later:1
+born weav:1 rememb:1
+born oak:1 grew:1 region:1
+born born:1
+occupation comedi:1 spent:1 film:2 work:1 vehicl:1 much:1 career:1
+occupation base:1 known:1 wide:1 film:1 musician:1
+occupation want:1 stori:1 robot:1 talk:1 interest:1 becom:1 cop:1 love:1 profession:1 softwar:1
+born grew:1 found:1
+spouse(s) video:1 shoot:1 singer:1 met:1
+born born:1
+died die:1 age:1
+born made:1 age:1 born:1 film:1 debut:1
+occupation movi:1 film:2 horror:1 spaghetti:1 western:1 appear:1 sword:1
+occupation way:1 industri:1 model:1 advertis:1 studi:1 film:1 pave:1 televis:1 appear:1 entri:1
+spouse(s) star:1 found:1 success:1
+born childhood:1 spent:1 famili:1 move:1 daughter:1 youngest:1 born:1
+died farm:1 famili:1 addit:1 home:1 maintain:1
+spouse(s) time:1 establish:1 cinema:1 art:1 actress:1 attempt:1 wife:1 qualiti:1 film:1 featur:1 1960:1 highli:1
+born farm:1 sibl:1 born:1 son:1 rais:1
+education member:1 yearbook:1 film:1 work:1 studi:1 societi:1
+occupation model:1 videoblogg:1
+born born:1
+died section:1 buri:1 hand:1 work:1 die:1 took:1 live:1 age:1 wear:1 ring:1 far:1 serious:1 quot:1 notic:1 report:1 love:1
+born graduat:1 rais:1
+occupation join:1 chair:1
+occupation demot:1 retir:1 regular:1 work:1 journal:1 publish:1 assist:1 chair:1 credit:1 alleg:1 take:1 decad:1 investig:1 ago:1 research:1 articl:1
+education graduat:1 educ:1 respect:1 degre:1 bachelor:1
+occupation portray:1 drama:1 known:1 best:1 seri:1
+born educ:1 born:1 rais:1
+born appoint:1
+occupation cleric:1
+occupation repres:1 consid:1 poet:1
+occupation languag:1 invent:1 compar:1 poetri:1 especi:1 note:1 metaphor:1 vibranc:1 contemporari:1
+occupation along:1 rhythm:1 smooth:1 syntax:1 speech:1 reaction:1 mannerist:1 techniqu:1 eloqu:1 poetri:1 baroqu:1 featur:1 adapt:1
+occupation critic:1 met:1 poetri:1 mark:1 societi:1 knowledg:2 bore:1 career:1
+occupation spent:1 theoriz:1 time:1 idea:1 poetri:1 someth:1 theme:1 religion:1 consid:1 often:1 anoth:1
+occupation friend:1 year:1 heavili:1 talent:1 despit:1 educ:1 reli:1 live:1 poverti:1
+occupation patronag:1 met:1 period:1 gave:1 especi:1 friend:1 hous:1 written:1 apart:1 fashion:1 furnish:1 poetri:1 patron:2 famili:1 poem:1 seek:1 becam:1 mean:1
+occupation churchyard:1 bust:1 outsid:1
+occupation poet:1 corrupt:1 system:1 dealt:1 topic:1 satir:1 courtier:1
+occupation elegi:1 employ:1 compar:1 poetri:1 especi:1 flea:1 also:1 career:1 bite:1 lover:1 metaphor:1 sex:1
+occupation member:1 gener:1 consid:1 poet:1 phrase:1 coin:1 follow:1 comment:1
+occupation writer:1 race:1 poet:1 refer:1 may:1 begin:1 appear:1 centuri:1 term:1
+occupation successor:1 conceit:1 ambival:1 poet:1 poetri:1 work:1 metaphor:1 therefor:1 regard:2 tend:1 abus:1
+occupation reviv:2 critic:1 though:1 poet:2 approv:1 tend:1 like:1 portray:1 centuri:1 howev:1
+occupation comparison:1 greater:1 go:1 notabl:1 conceit:3 depth:1 found:1 form:1 poetri:1 compar:1 object:2 close:1 unlik:2 complet:1
+occupation repres:1 shift:1 form:1 poetri:2
+occupation metr:1 chang:1 structur:1 close:1 jag:1 note:1 speech:1 rhythm:1
+occupation year:1 believ:1 work:1 trend:1 life:1 satir:1 chang:1 youth:1 scholar:1 poetri:1 sermon:1 reflect:1
+occupation made:1 like:1
+occupation fashion:1 portrait:1 darkli:1 dress:1 brood:1 shown:1 earliest:1 love:1 author:1
+occupation death:1 tribut:1 friend:1 number:1 princip:1 paid:1
+occupation courtship:1 love:1 subject:1 novel:1
+occupation deal:1 treatment:1 includ:1 man:1 novel:1
+occupation disast:1 servic:1 avert:1 time:1 outwit:1 final:1 attempt:1 blackmail:1 spi:1 network:1
+died life:1 came:1 record:1 garden:1 industri:1 produc:1 move:1 know:1 knew:1 music:1 noth:1 resid:1 marri:1
+born school:1 left:1 year:1 born:1
+education born:1 studi:1 rais:1 univers:1 enrol:1 later:1
+occupation offer:1 gangster:1 money:1 work:2
+occupation still:1 taunt:1 ask:1
+died senat:1 shortli:1 met:1 fall:1 congressmen:1 vice:1 march:1 presid:1 group:1 togeth:1 rabbi:1
+born wife:1 born:1 brother:1
+occupation eat:1 eater:1 champion:1 dog:1 scholar:1 winner:1
+born born:1
+occupation literatur:1 writer:1 histori:1
+occupation current:1
+born beat:1 mark:1 hour:1 record:1 kilometr:1 set:2
+born titl:1 sinc:1 part:1 play:1 goalkeep:1 team:1 usual:1 won:1 time:1
+born rep:1 program:1 hockey:1 play:1
+spouse(s) year:1 later:1 marri:1
+died die:1 battl:1 cancer:1 age:1
+born born:1 engin:1 railway:1 son:1 driver:1
+born nativ:1
+born born:1 rais:1
+born union:1 play:1 club:1 rugbi:2 leagu:1 level:3
+occupation comedi:1 known:1 role:1
+born comedi:1 known:1 role:1
+born grew:1 born:1 attend:1
+born includ:1 exhibit:1 de:1 museum:1 art:1
+died even:1 junta:1 execut:1 island:1 despit:1 gallow:1 forgiv:1 plea:1
+born landown:1 origin:1 born:1 son:1
+occupation writer:1 televis:1 director:1
+occupation comedi:1 execut:1 stori:1 singer:1 hire:1 hope:1 creat:1 length:1 produc:1 celebr:1 director:1 journalist:1 interview:1 get:1 goe:1 land:1
+occupation parent:1 whatev:1 attend:1 school:1 becom:1 act:1 enrol:1 collabor:1 met:1 said:1
+spouse(s) writer:1 collabor:1 anoth:1 actor:1 marri:1
+born parent:1 daughter:1 born:1
+occupation writer:1 actor:1
+occupation comedi:1 move:1 aspir:1 age:1 career:1 pursu:1
+occupation move:1 product:1 work:1 state:1 intend:1 never:1 tv:1 act:1
+born born:1 rais:1
+born parent:1 born:1
+born lost:1 parent:1 born:1 ill:1
+died extermin:1 arrest:1 sent:1 camp:1 die:1 famili:1 nazi:1 would:1
+occupation produc:1 film:2 director:1 stage:1 freelanc:1 playwright:1
+occupation year:1 theatr:1 amateur:1 teenag:1 age:1 compani:1 born:1 becom:1 alreadi:1 educ:1 complet:1 direct:1
+occupation prepar:1 year:1 period:1 career:1
+occupation invit:1 join:1
+occupation produc:1 sinc:1 director:1
+occupation worldwid:1 languag:1 version:1 direct:1 acclaim:1 novel:1
+occupation amalgam:1 director:1 novel:1 stage:1 oeuvr:1 adapt:1 other:1
+occupation industri:1 film:2 script:1 fiction:1 start:1 includ:1 screenplay:1 televis:1 career:1 seri:1
+occupation writer:1 support:1 latter:1 object:1 creation:1 found:1 publish:1
+occupation whose:1 writer:1 busi:1 nearli:2 cours:1 oper:1 period:1 hundr:1 publish:2 book:2 consid:1
+occupation drama:1 chairman:1 divis:1
+born year:1 theatr:1 amateur:1 teenag:1 age:1 compani:1 writer:1 born:1 becom:1 alreadi:1 educ:1 complet:1 direct:1
+died succeed:1 die:1 year:1 nearli:1 protect:1 death:1 fell:1 regent:1 ill:1 son:1
+occupation screenwrit:1 novelist:1
+occupation writer:1 seri:1
+occupation miniseri:1 travel:1 film:1 writer:1
+born school:1 polic:1 divis:1 detect:1 teacher:1
+born born:1
+died die:1 cancer:1
+born direct:1 becam:1 seri:1 televis:1 involv:1 product:1
+spouse(s) writer:1 actor:1 togeth:1 daughter:1 coupl:1 son:1 marri:1
+born born:1
+born farm:1 grandpar:1 grew:1 hail:1
+occupation footbal:1 univers:1 player:1
+spouse(s) actress:1 marri:1
+born art:1 improv:1 studi:1 well:1
+born born:1
+died solo:1 led:1 art:1 collector:1 exhibit:1 meet:1
+born train:1 began:1 born:1 art:1
+born born:1 de:1 start:1 cyclist:1 team:1 becam:1 career:1
+occupation repres:1 agenc:1 actress:1 talent:1
+born born:1 southwest:1
+spouse(s) comedi:1 sketch:1 marri:1 show:1 radio:1 perform:1 meet:1 set:1
+born grew:1 born:1 near:1
+education educ:1
+born race:2 born:1 move:1 kart:1 track:1 age:1 began:1 career:1
+occupation model:1 right:1 activist:1
+occupation receiv:1 year:1 star:1 announc:1 would:1 model:1 thank:1
+occupation eastend:1 also:1 took:1 role:2 book:1
+spouse(s) life:2 releas:1 look:1 trial:1 celebr:1 sequel:1 thinli:1 book:1
+born waitress:1 repairman:1 daughter:1 born:1 furnac:1
+occupation screenwrit:1
+occupation kara:1 play:1 drama:1 known:1 best:1 televis:1
+occupation award:1 won:1 support:1 best:1
+born move:1 famili:1 north:1
+occupation poet:1 autobiograph:1 punk:1 musician:1
+spouse(s) marri:1
+born member:1 repres:1 born:1 parliament:1
+education went:1 youth:1 entranc:1 graduat:1 exam:1 school:1 examin:1 fail:1
+born graduat:1 school:1 basketbal:1 play:1
+born born:1
+occupation known:1 best:1 fiction:1
+born born:1
+occupation singer:1 voic:1 actress:1 dancer:1
+born perform:1 well:1 product:1 theater:1
+occupation origin:1 retir:1 go:1 given:2 time:1 honor:1 posit:1 instead:1 announc:1 refere:1 made:1 offici:3 sinc:1 umpir:1 year:1 debut:1
+occupation screenwrit:1 film:1 director:1
+born screenwrit:1 film:1 director:1
+born graduat:1 attend:1 briefli:1
+born grew:1 born:1
+born member:1 born:1 father:1
+born spent:1 childhood:1 born:1
+died attack:1 year:1 follow:1 die:1 live:1 heart:1
+born senat:1 congressman:1 year:1 born:1 becom:1 around:1 daughter:1 later:1 would:1
+occupation serv:1 woman:1
+occupation marriag:1 balkan:1 sent:1 cover:1
+occupation member:1 first:1 becam:1 join:1 later:1 involv:1
+occupation head:1 year:1 advertis:1 execut:1 campaign:1 relat:1 elect:1 known:1 best:1 role:1
+died die:1 night:1 arrest:1 pm:1
+spouse(s) children:1 marri:1
+born born:1
+born born:1 musician:1 rais:1
+died die:1 age:1 care:1 home:1
+born child:1 born:1
+occupation owner:1 comedi:1 play:1 woman:1 known:2 best:1 singer:1 seri:1
+occupation time:1 engin:1 factori:1 lorri:1 work:1 tractor:1 father:1 driver:1
+occupation mill:1 factori:2 work:2 tractor:1 wine:1 hospit:1 radio:1 textil:1
+occupation portray:1 includ:1 actor:1 charact:1
+occupation error:1 actor:1 type:1 spell:1 name:1 result:1
+born grew:1 follow:1 suburb:1 near:1 mathemat:1 studi:1 educ:1 school:1 year:1 son:1 physic:1
+occupation facil:1 locat:1 post:1 product:1
+spouse(s) wed:1
+born episod:1 host:1 program:1 born:1 substitut:1 began:1 show:1 televis:1 act:1
+died die:1 actor:1 surround:1 friend:1 famili:1 failur:1 hous:1 heart:1
+spouse(s) wife:1 known:1 divorc:1 film:1
+born industri:1 employ:1 immigr:1 teenag:1 state:1 found:1 textil:1 cloth:1
+born attend:1 born:1 elect:1 class:1 junior:1 year:1 presid:1 neighbor:1
+occupation filmmak:1
+occupation recognit:1 categori:1 nomin:1 gain:1 debut:1 earn:1
+occupation nomin:1 role:1 earn:1
+occupation comedi:1 anoth:1 role:1 nomin:1 earn:1
+occupation teacher:1 techniqu:1 actor:1 becom:1 encourag:1 role:1 student:1 describ:1
+occupation remark:1 knock:1 realli:1
+occupation critic:1 dub:1 compel:1 debut:1 charact:1 laud:1 one:1 perform:1 watch:1 complet:1 prais:1
+occupation film:1 won:1 nomin:1 role:1 categori:1
+occupation receiv:1 categori:1 nomin:1 won:1
+occupation perform:1 nomin:1
+occupation charact:1 enorm:1 also:1 laud:1 gift:1 pull:1 success:1
+occupation critic:1 perform:1 intellig:1 audienc:1 incis:1 receiv:1 call:1 everyth:1 actor:1 hold:1 attent:1 well:1 say:1
+occupation comedi:1 work:1 play:1 talent:1
+occupation won:1 pictur:1 film:1 nomin:1 earn:1
+occupation media:1 life:1 discuss:1 fulfil:1 believ:1 opt:1 distract:1 role:1 coverag:1
+occupation gener:1 regard:1 actor:1
+occupation gener:1 cling:1 tag:1 observ:1 wherev:1 goe:1
+occupation portray:1 magazin:1 rang:1 found:1 villain:1 success:1 lead:1 charact:1 character:1 comment:1 simpli:1 man:1 role:1
+occupation role:1 like:1 actor:1 work:1 would:1
+occupation portray:1 nod:1 interpret:1 perform:1 public:1 imag:1
+occupation award:1 support:1 best:1 nomin:1 win:1
+spouse(s) produc:1 child:1 film:1 marri:1
+born born:1 famili:1 rais:1
+spouse(s) wife:1 consort:1
+occupation interest:1 philanthropist:1 advoc:1 woman:1
+spouse(s) marri:1 later:1 alongsid:1 play:1 act:1
+occupation stage:1 director:1 playwright:1
+occupation industri:1 televis:1 film:1 theatr:1 work:1
+occupation grandmoth:1 version:1 film:1 play:1 made:1 role:1 actress:1
+occupation mother:1 role:1 play:2
+occupation mother:1
+spouse(s) tenni:1 coach:1 son:1 legend:1 name:1 marri:1
+born graduat:1
+born child:1 born:1 homemak:1 properti:1 develop:1 oldest:1
+education attend:1 age:1 famili:1 move:1
+occupation known:1 best:1 role:1 seri:1
+born born:1 son:1
+occupation school:1 mine:1 becom:1 work:1 left:1 secretari:1 age:2 branch:1 coal:1
+occupation side:1 line:1 descend:1 coalmin:1 father:1
+occupation leader:1 societi:2 miner:1 temper:1
+occupation childhood:1 spent:1 floor:1 miner:1 live:1 row:1 water:1
+occupation move:1 famili:1 subsequ:1 miner:1 row:1 becam:1 cooper:1 manag:1 foodstor:1
+occupation secretari:1 age:1 branch:1 elect:1
+occupation strike:1 leader:1 wide:1 failur:1 seen:1 miner:1
+occupation miner:1 support:2 like:1 union:1 candid:1
+occupation strike:1 miner:1 year:1 involv:1 anoth:1
+occupation way:1 arriv:1 made:1 miner:1 alreadi:1 coalfield:1 number:1
+occupation employ:1 union:1 mine:1 sink:1 miner:1 join:1 manag:1 began:1 shaft:1 success:1
+occupation presid:1 union:1 help:1 serv:1 continu:1 branch:1 term:1 involv:1 secretari:1 form:1
+occupation branch:1 becom:1 also:1
+spouse(s) daughter:1 marri:1 landladi:1 eventu:1 would:1
+born born:1
+resting_place buri:1
+died rent:1 properti:1 period:1 bought:1 home:1 near:1
+died die:1
+born born:1 part:1
+born born:1
+occupation irrig:1 writer:1
+occupation studi:1 went:1 engin:1 graduat:1
+occupation univers:1 work:1
+occupation start:1 work:1 return:1
+occupation built:1 base:1 templ:1 provid:1 tank:1 dam:1 water:1
+occupation continu:1 howev:1
+occupation section:1 engin:2 presid:2
+died die:1 heart:1 failur:1
+born born:1 move:1
+occupation won:1 project:1 expand:1 began:1 competit:1
+born born:1
+died famili:1 born:1 district:1
+born famili:1 born:1 district:1
+born apprais:1 sale:1 famili:1 work:1 estat:1 return:1 began:1
+education graduat:2 rocki:1
+born born:1
+born professor:1 materi:1
+occupation studi:1
+occupation associ:1 histori:1 work:1
+born parent:1 refuge:1 born:1 arriv:1 camp:1 escap:1 state:1 month:1
+spouse(s) physicist:1 marri:1
+born born:1
+occupation portray:1 known:1 best:1 well:1
+spouse(s) actress:1 marri:1
+occupation telenovela:1 star:1 actress:1 de:1
+occupation singer:1 guitarist:1 director:1 band:1
+spouse(s) journalist:1 daughter:1 sinc:1 call:1 marri:1
+born childhood:1 spend:1 boy:1 born:1 villag:1 older:1 youngest:1 brother:1
+born minist:1 born:1 turn:1 son:2
+occupation known:1 best:1 role:1
+occupation produc:1 orion:1 film:2 featur:1 partnership:1 execut:1 best:1 nomin:1 earn:1
+occupation wrote:1 help:1 cursor:1 display:2 center:4 publish:1 inherit:4 color:3 background:4 span:2 autobiographi:1 none:2 dot:1 pad:1 border:1
+spouse(s) teacher:1 work:1 drama:1 school:1 actress:1 marri:1
+died member:1 rule:1 cliqu:1 law:1 graduat:2 employ:1 school:1
+occupation base:1 singer:1
+born singer:1 actress:1 base:1
+died die:1 attack:1 heart:1
+died disput:1 studi:1 serv:1 taught:2 labor:1 mediat:1
+spouse(s) district:1 marri:1
+born born:1 son:1
+born de:1 pastor:1 neighborhood:1 born:1 son:1
+died erect:1 honour:1 live:1 plaqu:1
+born daughter:1 born:1
+occupation technologist:1 maker:1 film:1
+born born:1
+born brought:1 famili:1 hous:1 live:1 split:1 flat:1
+occupation activist:1
+occupation year:1 poet:1 figur:1 philosoph:1 frequent:1 artist:1 almost:1 1960:1
+occupation year:1 project:1 survey:1 held:1 work:1
+occupation media:1 gener:1 sinc:1 includ:1 work:1 perform:1 within:1 instal:1 art:2 taught:1 artist:1 lectur:1
+occupation throughout:1 includ:1 institut:1 professor:1 visit:1
+occupation ecolog:1 rethink:1 idea:1 republ:1 editor:1
+occupation produc:2 film:1 director:2 known:1 profession:1
+born born:1 famili:1
+born wife:1 born:1
+occupation inventor:1 engin:1
+born media:1 host:2 broadcast:1 best:1 show:1 produc:1 known:1 businessman:1 tv:2
+occupation singer:1 voic:1 actress:1
+born shortli:1 birth:1 born:1 famili:1 move:1
+born born:1
+born nativ:1 drum:1 loan:1 money:1 play:1 kit:1 age:1 began:1 grandmoth:1 buy:1
+born childhood:1 fight:1 got:1 often:1 rais:1
+born born:1
+spouse(s) met:1
+born born:1
+education transfer:1 attend:1
+born graduat:1 grew:1 born:1 famili:1 soon:1 move:1
+born entitl:1 age:1 interest:1 purchas:1 citi:1 began:1 born:1 book:1
+born graduat:1
+education graduat:1 attend:1 went:1
+born member:1 play:1 season:1
+occupation includ:1 novel:1 stage:1 work:1 swallow:1 mutant:1
+born born:1
+occupation use:1 style:1 film:1 footag:1 photograph:1 known:1
+occupation younger:1 brother:1
+occupation interview:1 state:1 admir:1 influenc:1
+born graduat:1 time:1 born:1 son:1 anthropolog:1 student:1
+spouse(s) wife:1 children:1
+born born:1
+born brook:1 play:1
+occupation credit:1 also:1
+born grew:1 born:1 act:1 start:1
+spouse(s) date:1 began:1 appear:1 costar:1
+spouse(s) wife:1 state:1
+born mile:1 born:1 near:1
+born born:1
+born born:1 complet:1 degre:1
+died die:1
+born born:1
+died reach:1 song:1 novelti:1 record:1 chart:1 group:1 credit:1
+born actor:1 son:1 charact:1
+died death:1 live:1 children:1 time:1 marri:1
+born born:1 local:1 later:1 educ:1 becam:1 councillor:1
+spouse(s) politician:1 marri:1
+born daughter:1 born:1 oldest:1
+education vereenig:1 week:1 work:1 class:1 record:1 drove:1 held:1 banker:1 even:1 pass:1 night:1 exam:1 time:1 earn:1
+born actress:1 base:1 singer:1 songwrit:1
+died literatur:1 born:1 studi:1
+born literatur:1 born:1 studi:1
+occupation writer:1 studi:2 specif:1 work:1 literatur:1 especi:1 academ:1 devot:1 longtim:1 known:1 professor:1 women:1
+occupation support:1 interest:1 supervisor:1 literatur:1 encourag:1 publish:1 thesi:1
+occupation hire:2 member:1 woman:1 univers:1 join:1 depart:2 ever:1 faculti:1
+occupation critic:1 write:1 afterword:1 well:1 work:2 continu:1 edit:1 life:1 journal:1 publish:1 memoir:1
+born forc:1 offic:1 born:1 air:1 governor:1
+born born:1 art:1 result:1 father:1 mother:1 love:1 affair:1 student:2
+died abduct:1 girl:1 murder:1 rape:1
+died death:1 year:1 posit:1 troop:1 sent:1 return:1 offer:1 ulaanbaatar:1 mentor:1 later:1
+born born:1 near:1
+resting_place death:1 year:1 posit:1 troop:1 sent:1 return:1 offer:1 mentor:1 later:1
+died die:1
+born belong:1 parent:1 provinc:1 migrat:1 valley:1
+died die:1 hospic:1
+spouse(s) death:1 marri:1 lawyer:1 accord:1
+born born:1
+died death:1 briefli:1 occas:1 serv:1 politician:1
+born death:1 briefli:1 occas:1 serv:1 politician:1
+spouse(s) live:1
+occupation actress:1 songwrit:1
+occupation first:1 record:1 began:1 name:1 career:1
+occupation rank:1 time:2 greatest:2 singer:1 artist:1 roll:1 list:2
+occupation studio:1 king:1 vocalist:1 alongsid:1 song:1 record:2 name:1 credit:1
+occupation perform:1 protect:1 trademark:1 ad:1 form:1 name:1 would:1 could:1 left:1 leav:1 replac:1 anoth:1 paranoid:1
+occupation end:1 wrestl:1 ankl:1 broke:1 match:1 relationship:1
+occupation marri:1
+occupation assert:1 seem:1 age:1 singer:1 sheer:1 amplif:1 forc:1 power:1 voic:1 made:1 order:1 blue:1
+spouse(s) hit:1 rose:1 promin:1 record:1 perform:1 singl:1
+born born:1
+born voic:1 lesson:1 take:1 age:1 rais:1 began:1
+born born:1
+born child:1 youngest:1 born:1 wife:1
+died life:1 die:1 suffer:1 later:1 condit:1 diseas:1
+born born:1
+occupation writer:1 pronunci:1 musicologist:1 engin:1 broadcast:1
+occupation use:1 worldwid:1 compani:1 util:1 product:1 record:2 techniqu:1 experiment:1 today:1 consid:1 nearli:1 musician:1 sampl:1 number:1 subsequ:1
+occupation met:1 composit:1 de:2 collabor:1 found:1
+occupation use:1 gener:1 music:1 acknowledg:1 tape:1 make:1
+occupation soundscap:1 music:1 alongsid:1 label:1 pianist:1 preserv:1 musicologist:1 found:1 coverag:1 order:1
+spouse(s) wife:1 granddaught:1 son:1
+born nativ:1 graduat:1 busi:1 administr:1 receiv:1
+education nativ:1 graduat:1 busi:1 administr:1 receiv:1
+occupation transgend:1 model:1 intersex:1
+born born:1 basketbal:1 collegi:1 play:1
+died professor:1 poet:1 scholar:1
+born born:1
+occupation professor:1 scholar:1
+occupation even:1 offer:1 though:1 posit:1 declin:1
+occupation help:1 later:1 publish:1 poetri:1
+occupation although:1 least:1 poet:1 regard:1 centuri:1
+occupation offer:1 post:1 refus:1
+occupation along:1 came:1 known:1 poet:1 centuri:1
+occupation tell:1 king:1 conquest:1 curs:1 detail:1 prophesi:1 downfal:1
+occupation elegi:1 poet:1 detail:1 valu:1 movement:1 appear:1 centuri:1 seen:1 sublim:1 write:1 picturesqu:1 taught:1 domin:1 topic:1 foreshadow:1 peopl:1
+occupation express:1 reviv:1 diction:1 may:1 mode:1 classic:1 topic:1 combin:1 precursor:1 form:1 consid:1
+occupation poet:1 connect:1
+occupation curious:1 reason:1 composit:1 prefac:1 separ:1 exemplifi:1 attempt:1 found:1 structur:1 widen:1 head:1 poetri:1 space:1 diction:1 declar:1 prose:1 edit:1 betwixt:1 man:1 singl:1
+occupation wrote:1 poetri:1 languag:2 age:1 letter:1 never:1
+born born:1
+education obtain:1 attend:1 move:1 degre:2 bachelor:1 master:1
+died compani:1 born:1 director:1
+spouse(s) daughter:1 togeth:1 marri:1
+born compani:1 born:1 director:1
+born broadcast:1 born:1 art:1 actor:1 comedian:1 museologist:1 historian:1
+education receiv:1 live:1 famili:1 art:1 master:1
+born parent:1 born:1 background:1
+occupation design:1 light:1
+occupation design:1 light:1 earn:1
+occupation receiv:1
+occupation receiv:1 step:1 outstand:1
+occupation won:1 work:1
+occupation educ:1 activist:1 feminist:1
+occupation film:1 director:1
+spouse(s) wife:1 district:1 parliament:1 repres:1 politician:1
+born origin:1 farmer:1 north:1 kilometr:1
+born teacher:1 born:1 editor:1 newspap:1 school:1 publish:1 son:1
+occupation known:1 play:1 seri:1
+born born:1 descent:1 rais:1
+occupation actor:1 play:1 charact:1
+occupation rather:1 rare:1 though:1 call:1 refer:1
+occupation episod:1 except:1 season:1 everi:1 appear:1 absenc:1
+occupation stuck:2 might:1 see:1 slide:1 fix:1 penni:1 suggest:1 door:2 someon:1
+occupation accus:1 immedi:1
+occupation rest:1 torment:1 make:1 mission:1 seri:1
+occupation door:1 saw:1 stick:1 penni:1 admit:1 repli:1 accident:1
+occupation joke:1 side:1 destroy:1
+occupation constantli:1 think:1 misread:1
+occupation episod:1 season:1 seen:1 day:1 appear:1 flashback:1
+occupation believ:1
+occupation mop:1 hand:1 leav:1 left:1 never:1 seen:1
+occupation account:1 histori:1 past:1 inform:1 confound:1 give:1 penchant:1
+occupation led:1 career:1 stuf:1 bedroom:1 anim:1 take:1 impli:1 loss:1 clutter:1 flashback:1
+occupation time:1 occas:1 anecdot:1 degre:1 hint:1 howev:1
+occupation speak:1
+occupation work:1 occas:1 indic:1
+occupation spend:1 harass:1 charact:1 although:1 torment:1 occas:1 seri:1
+occupation episod:1 assist:1 show:1 occas:1 doctor:1 also:1 enjoy:1 greatli:1 ask:1 pretend:1 emerg:1
+occupation side:1 softer:1 show:1 occas:1
+occupation bar:1 pass:1 rais:1 salut:1 drink:1 glass:1 hospit:1 round:1 later:1 buy:1 mourn:1
+occupation film:1 writer:1 advantag:1 actor:1 place:1 show:1 took:1
+occupation admit:1 confront:1 realli:1
+occupation even:1 wretch:1 show:1 work:1 admonish:1 hope:1 would:1 want:1 explain:1 dream:1 anyon:1 tell:1 man:1
+occupation portray:1 way:1 treat:2 father:1 would:1 recruit:1 drill:1 instructor:1
+occupation tell:1 later:1 howev:1
+occupation met:1 man:1 mysteri:1 rememb:1 father:1 meet:1 respond:1
+occupation pull:1 begin:1 fire:1 prank:1 season:1
+occupation member:1 rotat:1 deliveri:1 hospit:1 surgeon:1 consist:1 leader:1 lawyer:1 club:1 cast:1 staff:1 man:1
+occupation origin:1 member:2 sit:1 behind:1 lunch:1 fed:1 becam:1 join:1 tabl:1
+occupation run:1 gag:1 mysteri:1 throughout:1 name:1 seri:1
+occupation episod:2 call:1 refer:1
+occupation hero:1 chastis:1
+occupation even:1 detail:1 know:2 name:1
+occupation quickli:1 clap:1 know:1 fact:1 hand:1 ask:1 protest:1 badg:1 name:2 say:1
+occupation tell:1 manhood:1 eart:1 f:1 backstabb:1 call:1 name:1 poacher:1 anitor:1 life:1 acr:1 zebra:1 said:1
+occupation member:1 staff:1 allud:1 ask:1 season:1 begin:1 name:2 make:1 even:1 know:1 fact:3 chuckl:1 refer:1
+occupation tag:1 say:1 examin:1 name:1 find:1
+occupation hint:1 gave:1 name:1 toward:1 speech:1
+occupation given:1 clue:1 name:1 said:1
+occupation tell:1 final:1
+occupation reveal:1 final:1 would:1 name:2 seri:1
+occupation reveal:1 point:1 name:1 ask:1
+occupation someon:1 call:1 respond:1 els:1 second:1 walk:1 anoth:1 later:1 name:1 howev:1
+occupation tell:1 post:1 truth:1 reveal:1 confirm:1 name:1
+occupation episod:1 use:1 figment:1 charact:1 commentari:1 reveal:1 initi:1
+occupation charact:1 encount:1 season:1 sinc:1 start:1
+occupation along:1 season:1 floor:1 throw:1 anger:1 seemingli:1 episod:1 coffe:1 look:1 say:1 sarcast:1 engag:1
+occupation moment:1 consequ:1 inspir:1 alter:1 ego:1
+occupation whatev:1 laugh:1 open:1 start:1 improvis:1 comment:1 say:1 script:1 said:1
+occupation origin:1 keep:1 watch:1 admit:1 role:1 episod:1 instantli:1 knew:1 around:1 devis:1 guy:1 seri:1 pilot:2 gag:1
+occupation childhood:1 scene:1 flashback:1 play:1
+born born:1
+education graduat:1 journal:1 degre:1 master:1 obtain:1
+born grew:1 born:1
+died die:1 home:1
+born bookbind:1 born:1 children:1
+resting_place plot:1 buri:1 famili:1
+occupation singer:1 film:1 director:1 produc:1
+occupation win:1 perform:1
+occupation film:1 known:1 like:1 genr:1
+occupation pick:1 lot:1 given:1 amazingli:1 actor:1 among:1 perform:1 materi:1
+occupation join:1 time:1 director:1 hand:1
+born receiv:1 film:1 direct:1 attent:1 screenplay:1 costum:1 edit:1 resurrect:1 script:1 set:1
+occupation contest:1 best:1 descent:1 appear:1 season:1
+spouse(s) marri:1
+born shortli:1 born:1 taken:1 afterward:1
+education major:1 attend:1
+education educ:1
+occupation offic:1 among:1 star:1 film:1 histori:1
+occupation rose:1 veteran:1 histori:1 becom:1 rank:1 also:1 state:1 pilot:1 career:1
+occupation life:1 week:1 factori:1 regret:1 enjoy:1 give:1 work:1 stage:1 day:1
+occupation actor:1 includ:1 director:1 look:1 quit:1 recent:1 film:2 suit:1 complet:1 happen:1
+occupation hit:1 ever:1 think:1 probabl:1 comment:1 screen:1 best:1 later:1
+occupation receiv:1 nomin:1
+occupation award:1 life:1 includ:1 offic:1 receiv:1 box:1 although:1 nomin:2 review:1 disappointingli:1 success:1
+occupation remak:1 gener:1 fade:1 actor:2 soon:1 meanwhil:1 includ:1 town:1 wave:1 would:1
+occupation receiv:1 perform:1 nomin:1
+occupation gross:1 world:1 year:1 star:1 becom:1 displac:1 highest:1
+occupation award:1 receiv:1 film:1 fifth:1 role:1 nomin:1 murder:1
+occupation conflict:1 tv:1 rotat:1 cancel:1 season:1 audienc:1 garner:1 possibl:1 seri:2 gain:1 fail:1 anoth:1
+occupation repeatedli:1 line:1 get:1 point:1 actor:1 said:1 flub:1 better:2 turn:1 director:1
+occupation way:1 perfectionist:1 sens:1 see:1 watch:1 droll:1 react:1 prais:1 humor:2
+occupation ideolog:1 despit:1 fact:1 pair:1 friend:1 best:1
+occupation lost:1 comment:1 gentleman:1 treasur:1 patriot:1
+occupation movi:1 year:1 list:1
+occupation movi:1 list:1 present:1
+occupation year:1 histori:1 part:1 film:1 legend:1 screen:1 name:1
+occupation honor:1 cinema:1 award:1 won:1 everi:1 often:1 industri:1 actor:1 consid:1 histori:1 film:1 highest:1 organ:1 earn:1
+occupation accomplish:1 creat:1 walk:1 distanc:1 grew:1 hardwar:1 world:1 leader:1 store:1 within:1 enshrin:1 promot:1 citizen:1 foundat:1 preserv:1 father:1 offic:1 place:1 birth:1 home:1 soldier:1 locat:2
+spouse(s) settl:1 model:1 age:1 marri:1
+born own:1 store:1 born:1 hardwar:1 son:1
+resting_place bodi:1 buri:1
+died door:1 lot:1 home:1 raze:1 hous:1 garden:1 instal:1 purchas:1
+born spent:1 year:1 born:1 famili:1
+occupation film:1
+occupation award:1 won:1 perform:1 includ:1 movi:1
+occupation led:1 film:1 school:1 becam:1 stint:1 eventu:1
+occupation start:2 stage:1 join:1 later:1 career:1 act:1
+occupation older:1 year:1 play:4 stage:1 age:1 children:1 even:1 direct:1 role:2 adapt:1 man:1 penchant:1
+occupation time:1 alongsid:1 act:1
+occupation portray:1 wife:1 role:1 award:1 play:1 lead:1 person:1 won:1 deaf:2 nomin:1 act:1
+occupation won:1 direct:1
+occupation remak:1 film:1 elev:1
+occupation remak:1 star:1 film:1 lead:2
+occupation demonstr:1 alway:1 take:1 willing:1 role:1 challeng:1
+occupation friend:1 produc:1 among:1 director:1 junior:1
+occupation year:1 reach:1 play:1 die:1 although:1 age:1 role:1
+occupation thrice:1 remain:1 nomin:1
+occupation award:1 won:1 shown:1 twice:1
+occupation auditorium:1 film:1 name:1
+occupation backstag:1 year:1 given:1 everi:1 memori:1 award:1 technician:1 prize:1 cash:1 best:1 actress:1 director:1
+died die:1 stroke:1 lung:1 cancer:1 age:1
+born episod:1 dozen:1 born:1 includ:1 giant:1 play:1 charact:1 peopl:1 seri:1 network:1
+born born:1 achiev:1 result:1 amateur:1 never:1 turn:1
+occupation entrepeneur:1 televis:1
+occupation year:1 show:1 televis:1 came:1 breakout:1 almost:1 role:1
+spouse(s) husband:1 children:1
+born born:1
+born born:1
+spouse(s) involv:1 daughter:1 wrestler:1 togeth:1 romant:1
+born hail:1
+born attend:1
+born born:1
+died parent:1 brought:1 famili:1 near:1 plantat:1 settl:1 state:1 hous:1
+born parent:1 brought:1 famili:1 near:1 plantat:1 settl:1 state:1 hous:1
+occupation writer:1 work:1 televis:1 produc:1 voic:1 actor:1 director:1 songwrit:1 artist:1 known:1 best:1 anim:1 seri:1
+occupation film:1
+occupation cinema:1 era:1
+died death:1 termin:1 servic:1 heart:1 failur:1
+born receiv:1 degre:1
+education receiv:1 degre:1
+died move:1
+born stage:1 born:1 actor:1 execut:1 advertis:1
+occupation voic:1 film:1 comedian:1
+occupation stage:1 born:1 execut:1 advertis:1
+occupation adopt:1 voic:1 actor:1 work:1 stage:1 perform:1 began:1 name:1 anoth:1
+occupation along:1 simpson:1 voic:1 actor:1 season:1 left:1
+occupation state:1 actress:1 rais:1
+spouse(s) marriag:1 ceremoni:1 marri:1
+born children:1 born:1 famili:1
+education especi:1 woodcut:1 present:1 like:1 exhibit:1 influenc:1 print:2 de:1 artist:1 collect:1 enthusiast:1 era:1
+spouse(s) wife:1 found:1
+education receiv:1 attend:1
+occupation resid:1
+occupation writer:1 director:1 produc:1 known:1 act:1 tv:1 commonli:1
+born pupil:1 de:1
+education pupil:1 de:1
+occupation writer:1 actor:1 director:1 musician:1
+born musician:1 writer:1 actor:1 director:1 filmmak:1
+born sibl:1 born:1
+occupation wide:2 view:1 known:1 sitcom:1 role:1 youngest:1 son:1
+spouse(s) age:1 van:1 marri:1
+born born:1
+died die:1 hospit:1
+born born:1
+born design:1 hairdress:1 born:1
+education music:1 age:1 studi:1 move:1 composit:1
+occupation screenwrit:1
+occupation produc:1 execut:1 meet:1
+occupation produc:1 posit:1 offer:1
+occupation end:1 writer:1 fiction:1 season:1 drama:1 scienc:1 becam:1
+occupation seri:1 consult:1 tv:1
+spouse(s) hire:1 writer:1 met:1 show:1 write:1 also:1 work:1
+born born:1
+occupation activist:1 queen:1 actress:1 pageant:1
+occupation repres:1 model:1 agenc:1 move:1 apart:1 sign:1 age:1
+occupation brand:1 model:1 work:1 photograph:1 cosmet:1 yve:1
+occupation model:1 move:1 apart:1 sign:1 age:1 agenc:1
+occupation intern:1 repres:1 titl:1 advanc:1 won:1 state:1
+occupation model:1 support:1 voic:1 serv:1 also:1
+occupation industri:1 fashion:1 model:1 improv:1 studi:1 law:1 work:2 right:1 hope:1 establish:1
+born activist:1 model:1 queen:1 actress:1 pageant:1
+died die:1 age:1
+born parent:1 live:1 born:1
+born graduat:1 born:1
+born hockey:1 born:1 play:1
+spouse(s) marriag:1
+died bar:1 commenc:1 law:1 read:1 admit:1 practic:1
+born child:1 attend:1 born:1 went:1 graduat:1 school:1 academi:1
+born graduat:1 grew:1 ultim:1
+born heavili:1 born:1 armi:1 offic:1 daughter:1 grandfath:1 influenc:1
+occupation decad:1 novel:1 live:1 author:1 renown:1 tale:1 collect:1
+occupation televis:1 film:1
+spouse(s) year:1 surviv:1 son:1 grandchildren:1
+born born:1
+born first:1 faction:1 elect:1 seat:1 join:1 parti:1
+occupation work:1 televis:1 known:1 best:1 singer:1 seri:1 author:1
+occupation award:1 receiv:1 histori:1 nomin:1
+occupation reviv:1 receiv:1 nomin:1
+occupation soror:1 horror:1 won:1 film:2 slasher:1 role:1 sister:1
+occupation outstand:1 support:1 work:1
+occupation made:1 won:1 debut:1
+occupation brought:1 nomin:1 premier:1
+occupation produc:1 includ:1 theater:1 lead:1 won:1 credit:1
+occupation won:1
+occupation recogn:1 may:1 play:1 mother:1 fan:1 actress:1
+occupation perform:1 nomin:1 play:1
+spouse(s) previous:1 son:1 marri:1
+born eldest:1 born:1 children:1
+died govern:1 level:1 mayor:1 serv:1 politician:2
+born govern:1 level:1 mayor:1 serv:1 politician:2
+born born:1 studi:1 law:1
+occupation film:1 director:1
+occupation produc:1 film:3 director:1 also:1 probabl:1 rememb:1 best:1 brother:1 son:1 seri:1
+spouse(s) marri:1
+born grew:1 resid:1 current:1
+education graduat:1 bodi:1 presid:1 serv:1 degre:1 relat:1 resid:1 student:1 advisor:1
+spouse(s) owner:1 advertis:1 agenc:1
+born immigr:1 born:1
+occupation host:1 actor:1 produc:1 person:1 televis:1 radio:1 author:1
+occupation led:1 star:1 role:1 show:1 success:1
+occupation end:1 perform:1 career:1 act:1
+born miner:1 born:1 coal:1 son:1
+born foster:1 attend:1 sailor:1 includ:1 develop:1 earlier:1
+occupation sadraudz:1 leader:1 organ:1
+education educ:1
+occupation model:1 citizenship:1 state:1
+born daughter:1 born:1 mother:1 father:1
+occupation develop:1 figur:1 comput:1
+occupation comment:1 lawyer:1 actor:1 issu:1
+occupation attain:1 speechwrit:1 presid:1 success:1
+occupation economist:1 son:1 work:1
+occupation sister:1 also:1
+occupation homemak:1 born:1 economist:1 son:1 advis:1
+occupation columnist:1 writer:1 posit:1 fire:1 endors:1 advertis:1 polici:1 perform:1 prohibit:1 product:1
+occupation speechwrit:1 lawyer:1 began:1 later:1 career:1
+born homemak:1 born:1 economist:1 writer:1 advis:1 son:1
+education graduat:2 began:1 law:1 career:1
+died found:1 help:1 return:1
+born born:1
+education graduat:2 receiv:1
+occupation televis:1 film:1 produc:1
+spouse(s) ceremoni:1 marri:1
+born film:1 produc:1 born:1 got:1 start:1
+born parent:1 graduat:1 born:1 rais:1
+died live:1 children:1 marri:1
+born politician:1
+occupation whose:1 movi:1 known:1 best:1 includ:1
+born member:1 school:1 sinc:1 board:1 businesswoman:1
+education graduat:1 busi:1 degre:1 receiv:1 laud:1 administr:1
+born grew:1 age:1 move:1 north:1
+died die:1 tuberculosi:1
+born child:1 born:1 elder:1 philosoph:1
+occupation whose:1 associ:1 stood:1 reput:1 apocalypt:1
+occupation compos:1 uncl:1 artist:1 grandfath:1 brother:1 editor:1 author:1
+occupation imprint:1 publish:1 pamphlet:1
+occupation won:1 edit:1
+occupation reput:1 encount:1 difficulti:1 posit:1 higher:1 state:1 later:1 publish:1
+born go:1 degre:1 also:1 leav:1 studi:4 grade:1
+died area:1 base:1 around:1 end:1 song:1 book:1
+born born:1
+died die:1 retir:1 screenwrit:1
+spouse(s) pair:1 daughter:1 separ:1 eventu:1 marri:1
+born eldest:1 daughter:1 born:1
+occupation director:1 era:1
+born rel:1 born:1 golf:1 play:1 start:1 age:1 rais:1 upon:1
+spouse(s) aid:1 lobbyist:1 marri:1
+born born:1 near:1 predominantli:1 freedmen:1 found:1 commun:1
+education briefli:1 seminari:1 also:1
+education without:1 studi:1 work:1 polit:1 independ:1 began:1 graduat:1 cours:1 referendum:1 left:1 psycholog:1 commun:1
+died renam:1 associ:1 start:1 year:1 manufactur:1 busi:1 last:1 ventur:1 fold:1 bicycl:1 manag:1 involv:1
+born hargreav:1 born:1
+born born:1 famili:1
+education receiv:1 master:1 degre:2 bachelor:1
+born educ:1 born:1
+born born:1 coachman:1 son:1 father:1
+born grandpar:1 welsh:1 born:1 ancestor:1 play:1 rule:1
+born lost:1 form:1 left:1 match:1 happen:1 wrestler:1
+born school:1 scienc:1 educ:1 born:1 studi:1
+occupation author:1
+spouse(s) death:1 year:1 actor:1 becom:1 also:1 marriag:1 famili:1 known:1 best:1 would:1
+born born:1 famili:1
+occupation serial:1 film:1 cartoon:1 known:1 role:1 radio:1
+occupation model:1 studi:1 director:1 theater:1 becam:1 act:1
+occupation origin:1 though:1 famili:1 later:1 took:1 name:2 accord:1
+occupation sourc:1 run:1 signatur:1 earli:1 becam:1 perform:1 radio:1 though:1 indic:1 cast:2 role:1 seri:1
+occupation produc:1 philanthropist:1 songwrit:1
+occupation rock:1 band:1
+occupation guitarist:1 met:1 studi:1 decid:1 form:1
+occupation solo:1 perform:1 induct:1 lead:1 career:1
+occupation world:1 call:1 best:1 formerli:1
+occupation die:1 perform:1 suicid:1 tribut:1 month:1
+spouse(s) eat:1 split:1 meat:1 began:1 howev:1
+born call:1 born:1 went:1 eventu:1 band:1 renam:1 form:1 rock:1
+occupation news:1 anchor:1
+education graduat:1 earn:1 complet:1 work:1
+spouse(s) met:1 editor:1 marri:1
+born born:1
+occupation delet:1 receiv:1 conservationist:1 credit:1 much:1 lobbi:1 success:1
+died die:1 lymphoma:1 complic:1
+spouse(s) incarcer:1 wrote:1 nearli:1 begin:1 letter:1
+born youngest:1 born:1 children:1
+occupation investor:1 manag:1 mathematician:1 current:1 director:1
+born grew:1
+education studi:1 school:1 went:1 complet:1
+born born:1
+born state:1
+died trial:1 reason:1 insan:1 sent:1 divis:1 found:1
+born worker:1 adopt:1 born:1 gave:1 month:1 factori:1 breastfeed:1
+died death:1 year:1 later:1 cholera:1 marri:1
+born spice:1 compani:1 born:1 wine:1 found:1 name:1 grandfath:1
+born born:1 near:1 farm:1 farmer:2 daughter:1 children:1 marriag:1
+spouse(s) wife:1 film:1 play:1 fiction:1 coupl:1 scienc:1 appear:1 togeth:1
+born farmer:1 born:1 tobacco:1 father:1
+occupation voic:1
+occupation adventur:1 seri:2 lead:1 also:1
+occupation even:1 distinct:1 voic:1 amongst:1 recognis:1 across:1
+occupation singer:1 musician:1
+born child:1 grew:1 live:1 also:1
+died die:1 attack:1 heart:1
+born born:1 matricul:1
+occupation perhap:1 known:1 best:1 play:1
+occupation award:1 won:1 best:1 includ:1 critic:1
+occupation award:1 movi:1 festiv:1 well:1 won:1
+occupation friend:1 collabor:1 playwright:1
+born grew:1 born:1 state:1
+born politician:1
+occupation base:1
+born born:1
+spouse(s) could:1 cheapli:1 fund:1 wife:1 lack:1 item:1 crew:1 mostli:1 buy:1 consist:1 equip:1 cast:1 prop:1 made:1 alreadi:1 short:1
+born born:1
+occupation actress:1 songwrit:1
+occupation older:1 contest:1 also:1 younger:1 brother:1 sister:1
+occupation contest:1 girl:1 concept:1 ask:1 record:1 singer:1 promot:1 tour:1 solo:1 label:1 part:1 artist:1 group:1
+born born:1 famili:1
+born first:1 titl:1 born:1 follow:1 motocross:1 win:1 onto:1 scene:1 appear:1 anoth:1
+born born:1
+born grew:1 neighborhood:1 said:1
+occupation actress:1
+spouse(s) marriag:1 year:1 divorc:1 musician:1 rock:1
+born gym:1 box:1 famili:1 name:1
+occupation theodor:1
+occupation actor:1 theatr:1 work:1 join:1 tv:1 began:1
+spouse(s) marriag:1 upon:1 convert:1 marri:1
+born busi:1 born:1 execut:1 housewif:1 son:1
+born spent:1 life:1 municip:1 born:1
+occupation photograph:1 artist:1 innov:1 director:1
+born born:1
+born minist:1 learn:1 born:1 father:1 trademark:1 artist:1 mother:1 rais:1 style:1 would:1
+born repres:1 stadium:2 substitut:1 play:2 defeat:1 victori:3 tri:2 xiii:1 forward:2 score:2
+born known:1 mayor:1 colloqui:1
+occupation film:1
+occupation illustr:1 writer:1 children:1 book:1
+born born:1
+died die:1
+spouse(s) farm:1 war:1 bought:1 daughter:1 marri:1
+born educ:1 born:1
+occupation produc:1 execut:2 relat:1 televis:1 author:1 manag:1 sport:1
+spouse(s) perform:1 servic:1 particip:1 marri:2
+born born:1
+occupation sinc:1 work:1
+occupation work:1 next:1 return:1
+occupation report:1 becam:1 coverag:1
+spouse(s) sinc:1 marri:1
+born snowfal:1 interest:1 measur:1 start:1 weather:1 hometown:1 age:1 began:1
+spouse(s) psychiatrist:1 marri:1
+born origin:1 move:1 famili:1 state:1 age:1 later:1 migrat:1
+spouse(s) deal:1 time:1 spent:1 period:1 publish:1 togeth:1
+born citizen:1 born:1 home:1 judg:1 lead:1 save:1 town:1 presid:1 grandfath:1
+occupation mixer:1 sound:1 film:1
+spouse(s) lawyer:1 son:1
+born born:1
+born cyclist:1 road:1
+spouse(s) date:1 began:1
+born daughter:1 born:1
+education program:1 train:1 later:1
+occupation nomin:1 film:1 earn:1
+occupation attend:1 actor:1
+occupation boy:1 promis:1 play:1 behind:1 season:1 nomin:1 live:1 also:1 alongsid:1 appear:1 episod:1 receiv:1 support:1 newcom:1 mirror:1 won:1 role:1 dimens:1
+born born:1
+occupation film:1 theater:1
+occupation daughter:1 divorc:1 son:1
+born born:1
+education advertis:1 graduat:1 work:1 career:1 start:1
+occupation playwright:1 era:1
+born minist:1 call:1 born:1 serv:1 also:1 later:1 son:1 would:1
+born design:1 jean:2 world:1 store:1 denim:1 open:1 creat:2 stretch:1 cloth:1
+died death:1 inter:1 follow:1 attack:1 age:1 heart:1
+resting_place death:1 inter:1 follow:1 attack:1 age:1 heart:1
+born born:1
+education year:1 went:1 play:1
+occupation work:1 televis:1 known:1 best:1 singer:1 seri:1 author:1
+occupation award:1 receiv:1 histori:1 nomin:1
+occupation reviv:1 receiv:1 nomin:1
+occupation soror:1 horror:1 won:1 film:2 slasher:1 role:1 sister:1
+occupation outstand:1 support:1 work:1
+occupation made:1 won:1 debut:1
+occupation brought:1 nomin:1 premier:1
+occupation produc:1 includ:1 theater:1 lead:1 won:1 credit:1
+occupation won:1
+occupation recogn:1 may:1 play:1 mother:1 fan:1 actress:1
+occupation perform:1 nomin:1 play:1
+spouse(s) previous:1 son:1 marri:1
+born eldest:1 born:1 children:1
+born graduat:1 play:1 base:1 softbal:1 team:1 catcher:1
+died case:1 trial:1 year:1 includ:1 verdict:1 offic:1 juri:1 gain:1 convict:1 prosecut:1 murder:1
+born parent:1 born:1 descent:1
+education tenni:1 attend:1 scholarship:1 graduat:1
+occupation bestsel:1 author:1
+occupation case:1 trial:1 year:1 includ:1 verdict:1 offic:1 juri:1 gain:1 convict:1 prosecut:1 murder:1
+occupation year:1 district:1 law:1 deputi:1 offic:1 began:1 career:1 serv:1
+occupation came:1 kill:1 attent:1 prosecut:1 murder:1
+occupation ran:1
+occupation lost:1 attack:1 interim:1 de:1 die:1 ran:1 heart:1
+occupation leav:1 offic:1 district:1 turn:1 practic:1
+occupation critic:1 district:1 lawyer:1 work:1 defens:1 prosecutor:1
+occupation argu:1 trial:1 mistak:1 assign:1 prosecut:1
+occupation repres:1 crimin:1 defens:1 oppon:1
+born marriag:1 eldest:1 born:1 law:1 relat:1 properti:1 work:1 daughter:1 author:1 son:1 treatis:1
+occupation host:1 talk:1 actor:1 show:1 filmmak:1
+occupation skateboard:1 host:2 star:1 includ:1 guest:1 hundr:1 show:2 guitarist:1 comedian:1 talk:1 actor:1 artist:1 founder:1 well:1
+spouse(s) briefli:1 actress:1 marri:1
+born captain:1 born:1 system:1 consult:1 comput:1 armi:1 analyst:1 son:1 commun:1
+born born:1 housewif:1 father:1 dentist:1 mother:1 son:1
+occupation maker:1 writer:1 broadcast:1 documentari:1
+born childhood:1 fashion:1 aspir:1 rais:1 design:1 involv:1
+born footbal:1 color:1 basketbal:1 play:2 basebal:1 commentari:1 provid:1 student:1
+occupation opera:1 soap:1
+occupation young:1 film:1 perform:1 younger:1 best:1 nomin:1 role:1
+occupation leader:1
+occupation offic:1 firm:1 sinc:1 partner:1
+occupation recogn:1 nation:1 lawyer:2
+occupation ethic:1 judg:1 marri:1
+occupation planner:1 develop:1 estat:1 commun:1
+born decad:1 graduat:1 born:1 leader:1 affair:1 sinc:1 resid:1
+education attend:1
+born rais:1
+education photograph:1 age:1 assist:1 career:1 start:1
+spouse(s) son:1 marri:1
+born attend:1 gain:1
+died colleagu:1 void:1 go:1 leav:1 fill:1 absenc:1 said:1
+born governor:1 senat:1 born:1 serv:1 wife:1 husband:1 also:1 son:1 assassin:1
+education receiv:1 law:1 degre:2 bachelor:1 citi:1 capit:1
+died die:1 cancer:1 hour:1 age:1 sleep:1
+born cancer:1 applic:1 born:1 perform:1 withdrew:1 univers:1 school:1 well:1 prognosi:1
+died die:1 age:1 visit:1 apoison:1 malaria:1 suffer:1 friend:1 bout:1
+spouse(s) spokesperson:1 campaign:2 serv:1 elect:1 becam:1 fill:1 also:1 later:1 role:1 would:1
+born born:1
+died period:1 lodg:1 die:1 gradual:1 weak:1 increas:1
+born child:1 oldest:1
+occupation writer:1 polymath:1 classicist:1 linguist:1 translat:1
+occupation note:1 socialit:1 friend:1 also:1
+occupation poem:1 volum:1 write:1 introduct:1 suggest:1 convers:1 contribut:1 delight:1 took:1 publish:1 anoth:1
+occupation origin:1 conceiv:1 power:1 lack:1 shape:1 could:1 produc:1 concept:1 mind:1 cultur:1 highli:1 sound:1 noth:1 qualif:1
+born bike:1 born:1 boss:1 shop:1 introduc:1 speedway:1
+born grew:1 born:1 play:1 hockey:2 eventu:1
+born psychiatrist:1 psychologist:1 born:1
+occupation produc:1 film:1 director:1
+born sign:1 contract:1
+died even:1 graduat:1 act:1 start:1
+occupation film:1 product:1 also:1 although:1 primarili:1 televis:1 appear:1
+occupation drama:1 won:1 role:1 direct:1 film:1
+died die:1 age:1 home:1
+born cricket:1 retir:1 businessman:1 game:1 becam:1 school:1 found:1
+born mother:1 born:1 father:1
+occupation engin:1
+born citi:1 born:1
+died die:1
+born born:1
+education graduat:1 law:1 degre:1 earn:1
+occupation playwright:1
+occupation direct:1
+occupation columnist:1 produc:1 investor:1 show:1 businessman:1 televis:1 editor:1 host:1
+occupation written:1 sinc:1 column:1 book:1
+occupation use:1 writer:1 write:1 work:1 distinguish:1 usual:1 fiction:1 primarili:1 name:2 anoth:1
+occupation score:1 includ:1 insan:1 display:2 center:4 pad:1 world:1 inherit:4 busi:1 color:3 background:4 technolog:1 span:2 none:2 help:1 border:1 dot:1 cover:1 book:1 cursor:1
+occupation liner:1 soundtrack:1 accompani:1 also:1 note:1 cd:1 author:1
+born born:1
+education graduat:1 mba:1 receiv:1
+died without:1 employ:1 concern:1 polic:1 enter:1 check:1 miss:1 home:1 lead:1 welfar:1 event:1 weekend:1 notic:1 request:1
+born born:1 son:1
+occupation writer:1 musician:1
+occupation extens:1 conflict:1 staff:1 war:1 report:1 freelanc:1 writer:1 support:1 campaign:1 secretari:1 state:1 becam:1 email:1
+occupation previous:1 wrote:1 owner:1 purchas:1 host:1 found:1 edit:1 initi:1
+occupation critic:1 compil:1 disclos:1 propaganda:1 blacklist:1 credenti:1 outlet:1 group:1 news:1 publicli:1 contribut:1 spread:1 peopl:1 said:1 report:1 publish:1
+occupation activ:1 perform:1 terranc:1 state:1
+born born:1 film:2 made:1 featur:1 car:1 debut:1
+born farm:1 born:1 villag:1 near:1
+occupation produc:1 director:1
+occupation featur:1 movi:1 director:1 also:1
+born born:1
+occupation son:1
+occupation acclaim:1
+occupation brought:1 sandston:1 captur:1 cinematograph:1 cite:1 attribut:1 heavili:1 film:1 boulder:1 came:1 locat:1 era:1
+born attend:1 chemistri:1 studi:1 medicin:1 physician:1
+occupation educ:1
+born born:1 gymnast:1
+occupation affili:1 voic:1 actress:1
+born affili:1 voic:1 actress:1
+died death:1 professor:1
+born born:1
+occupation artist:1
+occupation worldwid:1 festiv:1 star:1 film:2 won:1 includ:1 darl:2 screen:1 debut:1
+born attend:1 born:1 rais:1
+died die:1 age:1 heart:1 failur:1
+spouse(s) columnist:1 wife:1 remain:1 paper:1
+born born:1
+occupation host:1 induct:1 wrote:1 perform:1 radio:1 book:1 author:1
+died offer:1 firm:1 move:1 law:1 lawyer:1 job:1 coupl:1 promot:1 partner:1
+spouse(s) wife:1 serv:1
+born born:1
+spouse(s) elect:1 marri:1
+born graduat:1 born:1
+died move:1 later:1
+spouse(s) writer:1 produc:1 film:1 marri:1
+born filmmak:1 rais:1
+born world:1 base:1 year:1 spent:1 around:1 father:1 master:1 sergeant:1 born:1
+born karat:1 transit:1 born:1 see:1 fight:1 judo:1 tudo:1 age:1 train:1
+occupation comment:1
+occupation left:1 remain:1 director:1 appear:1
+spouse(s) design:1 stage:1 daughter:1 marri:1
+born attend:1 year:1 spent:1 surveyor:1 father:1 apprentic:1 quantiti:1 appear:1 current:1
+occupation previous:1 announc:1 work:2 past:1 also:1 radio:1 sport:1
+born born:1 sportwrit:1 onto:1 began:1 radio:1 career:1
+spouse(s) becam:1 later:1
+born born:1
+born receiv:1 born:1 composit:1 major:1 classic:1 train:1
+died receiv:1 studi:1 rais:1
+born receiv:1 studi:1 rais:1
+born spent:1 life:1 municip:1 born:1
+occupation ting:1 born:1 also:1 singer:1 known:1 唐婷:1
+born life:1 risk:1 speak:1 rais:1 dope:1 put:1 claim:1 would:1
+born transfer:1 play:1 season:2
+occupation critic:1 studi:1 borrow:1 histori:1 historian:1 techniqu:1 music:1 art:1 compos:1 known:1 best:1 author:1
+born born:1
+spouse(s) husband:1 children:1
+born base:1 district:1 serv:1 politician:1
+education attend:1 degre:2 bachelor:1 master:1 get:1
+died die:1 suffer:1 cancer:1 age:1 year:1
+spouse(s) writer:1 daughter:1 marri:1
+occupation writer:1
+occupation eldest:1 wife:1 son:1 author:1
+occupation journalist:1 younger:1 brother:1 also:1
+occupation journalist:1 flander:1 husband:1 addit:1 daughter:1
+occupation graduat:1 associ:1 work:1
+occupation mock:1 brought:1 word:1 includ:1 economist:1 well:1 project:1 union:1 pundit:1 demon:1 journalist:1 organ:1 activist:1 leftw:1 togeth:1
+occupation persecut:1 move:1 movement:1 right:1 state:1 set:1
+occupation want:1 brilliant:1 write:1 father:1 continu:1 novelist:1 done:1
+occupation writer:1 year:1 marxist:1 socialist:1 anarchist:1 openli:1 journalist:1 identifi:1 leftist:1
+occupation whole:1 thu:1 also:1 pose:1 journal:1 industri:1 exagger:1 societi:1 journalist:1 redneck:1 threat:1 accus:1 reader:1 frisson:1 movement:1 later:1 part:1 militia:1 genteel:1 cottag:1 give:1 featur:1 articl:1 network:1
+born play:1 current:1
+occupation known:1 also:1
+occupation entrepreneur:1 oncologist:1
+born mbb:1 got:1
+occupation journalist:1 commun:1 consult:1 author:1
+occupation opera:1 known:1 best:1 soap:1 play:1
+born cours:1 armi:1 leav:1 accept:1 took:1 upon:1
+born singer:1
+spouse(s) actress:1 marri:1
+born born:1 borough:1
+born silver:1 freestyl:1 born:1 m:1 dutch:1 medalist:1 son:1
+born band:1 produc:1 vocalist:1 musician:1 rock:1 record:1 best:1 guitarist:1 known:1 blue:1
+occupation artist:1 tattoo:1 cap:1
+occupation actress:1
+born train:1 actress:1 student:1
+died rest:1 year:1 move:1 famili:1 life:1 live:1
+born born:1
+born second:1 born:1 son:1
+occupation music:1 compos:1 director:1 also:1 known:1 novelist:1 playwright:1
+occupation found:1
+education spend:1 time:1 studi:1 attend:1 despit:1 famili:1 enrol:1 intent:1 student:1
+occupation scriptwrit:1 stori:1 born:1 greatest:1 writer:1 origin:1 write:1 live:1 success:1 playwright:1 novelist:1
+occupation recogn:1 artist:1 compos:1 minimalist:1
+occupation today:1 sourc:1 releas:1 current:1 despit:1 record:1 throughout:1 live:1 materi:1 describ:1
+occupation compos:1 includ:1 philosoph:1 student:1 other:1
+born transform:1 child:1 born:1 cabin:1 drone:1 environ:1 log:1 wind:1 sound:1 blow:1 influenc:1
+born graduat:1 born:1 rais:1
+education member:1 graduat:1 attend:1
+died year:2 theatr:1 featur:1 radio:1 debut:1
+spouse(s) year:1 marri:1
+born mathemat:1 born:1 professor:1 son:1
+occupation media:1 role:1 voic:1 actress:1 languag:1
+occupation drama:1 model:1 role:1 known:1 seri:1
+born attorney:1 born:1 professor:1 sociolog:1
+died move:1 fold:1 franchis:1
+occupation receiv:2 role:1 achiev:1 career:1
+occupation use:1 actor:1 suggest:1 chang:1 know:1 hometown:1 name:2
+occupation portray:1 transit:1 screen:1 natur:1 pleasantli:1 charact:1 medium:1 suit:1 accord:1 troubl:1 perfectli:1 voic:1 actor:1 also:1 drawl:1 unlik:1 film:1 sound:1 adapt:1
+occupation use:1 expect:1 better:1 languag:1 work:1 said:1 collar:1 pick:1 director:1 approach:1 countri:1 get:1
+occupation abil:1 call:1 respect:1 highest:1 best:1 act:1
+occupation deed:1 nomin:1 receiv:1
+occupation honor:1 brought:1 time:1 rule:1 also:1 court:1 agreement:1 afford:1 suit:1 contract:1
+occupation overtur:1 made:1 project:1 role:1 feel:1 doubt:1 suit:1
+occupation receiv:1 film:1 actor:1 perform:1 well:1 review:2 prais:1
+occupation year:1
+occupation friend:1 won:1 accept:1 award:1 said:1
+occupation portray:1 husband:1 rise:1 culmin:1 marriag:1 speech:1 farewel:1 love:1 widow:1 cover:1 express:1 fan:1 great:1 struggl:1 ill:1 basebal:1 visit:1 span:1 accept:1 role:1 desir:1
+occupation receiv:1 year:1 includ:1 film:1 ten:1 eleven:1 pictur:2 nomin:1
+occupation wrote:1 star:1 actor:1 perform:1 statur:1 author:1
+occupation receiv:1 includ:1 film:1 novel:1 ten:1 success:1 theme:1 distort:1 nomin:1 pictur:1 mean:1
+occupation made:1 percentag:1 profit:1 film:1 earn:1
+occupation perform:1 earn:1 prais:1 wide:1
+occupation receiv:1 perform:1 nomin:1
+occupation gener:1 mail:1 also:1 fan:1 role:1 amount:1 get:1
+occupation year:1 biograph:1 explor:1 twenti:1 openli:1 see:1 share:1 hous:1 friendship:1 time:1
+occupation gener:1 includ:1 dinner:1 friend:1 sport:1 industri:1 life:1 activ:1 famili:1 director:1 actor:1 center:1 film:1 parti:1
+occupation way:1 seem:1 play:1 matter:1 role:1 never:1
+occupation teacher:1 idea:1 actor:1 observ:1 act:1 exampl:1 simplest:1
+occupation without:1 rank:1 greatest:1 director:1 abil:1 actor:1 among:1 perform:1 deliv:1 direct:1
+occupation fellow:1 world:1 greatest:1 said:1
+occupation movi:1 call:1 film:1 direct:1 master:1 act:1
+occupation camera:1 underplay:1 actor:1 director:1 surpris:1 style:1
+occupation go:1 think:1 scene:1 look:1
+occupation admir:1 actor:1 abil:1
+occupation thought:1 ever:1 work:1
+occupation ever:1 american:1 like:1 kind:1 observ:1 live:1 project:1 probabl:1 man:1 would:1
+spouse(s) daughter:1 debutant:1 marri:1
+born parent:1 born:1 son:1
+resting_place reburi:1 remain:1 exhum:1 famili:1 reloc:1
+died wife:1 move:1 bench:1 left:1 administ:1 autumn:1 join:1 father:2 estat:1 rel:1 request:1
+died member:2 conductor:1 compos:1 well:1 violinist:1 found:1 faculti:1
+born born:1 rais:1
+died die:1
+spouse(s) union:1 forg:1 thu:1 dynasti:1 marri:1
+born daughter:1 born:1
+born laud:1 graduat:1
+born fashion:1 la:1 law:1 degre:1 hous:1 imag:1
+born valet:1 play:1 also:1 miniseri:1 mother:1 father:1 outstand:1 support:1 born:1 recent:1 seri:1 nomin:2 earn:1
+spouse(s) businessman:1 marri:1
+born born:1 provinc:1
+died die:1 age:1
+born born:1 actor:1 son:1 charact:1
+born born:1
+died lieuten:1 join:1 crew:1
+born town:1 birthplac:1 counti:1 farm:1 mile:1 northwest:1
+born receiv:1 born:1 degre:1
+education receiv:1 born:1 degre:1
+born born:1
+spouse(s) wife:1 actor:1
+born could:1 auction:1 complex:1 bought:1 product:1 near:1 record:1 televis:1 studio:1 flower:1 build:1 turn:1
+born take:1 grant:1 order:1 break:1 contract:1
+born nativ:1
+spouse(s) offic:1 sinc:1 announc:1 girlfriend:1 engag:1
+born born:1 serv:1 son:1
+education novic:1 year:1 hous:1 becom:1 left:1 priest:1 enter:1 attend:1 intent:1
+born parent:1 child:1 born:1 famili:1
+born carri:1 lineag:1 trader:1 famili:1 descend:1 born:1 name:1 provinc:1
+born graduat:1 born:1 studi:1 relat:1
+born born:1 famili:1
+died life:1 line:1 figur:1 amongst:1 death:1 famili:1 live:1
+spouse(s) church:1 granddaught:1 marri:1
+born life:1 line:1 figur:1 amongst:1 death:1 famili:1 live:1
+education graduat:1 attend:1
+born equip:1 manufactur:1 born:1 son:1
+education graduat:1 attend:1 ultim:1
+born film:1 televis:1 actor:1
+born born:1
+born attend:1
+spouse(s) surviv:1 children:1 marriag:1
+born journalist:1 migrat:1 work:1 storekeep:1 educ:1 born:1
+resting_place die:1 buri:1
+died seat:1 vote:1 state:1 stood:1 gain:1
+born state:1 born:1 move:1
+born solo:1 met:1 rock:1 follow:1 limit:1 band:1 success:1 acclaim:1 singer:1 career:1 sport:1
+born mother:1 born:1 actress:1 father:1
+died shortli:1 celebr:1 respiratori:1 failur:1 die:1 admit:1 problem:1 heart:1 birthday:1
+born wife:1 born:1 son:1
+born sibl:1 born:1 elder:1
+born born:1
+died dissert:1 wrote:1 born:1 studi:1 famili:1 principl:1 versif:1 learn:1
+born dissert:1 wrote:1 born:1 studi:1 famili:1 principl:1 versif:1 learn:1
+born brought:1 born:1
+died live:1 chalet:1
+spouse(s) featur:1 star:1 product:1 wife:1
+born telegraph:1 born:1 son:1
+spouse(s) marri:1
+born boxer:1 rais:1 age:1 train:1 began:1 born:1
+resting_place end:1 inter:1 went:1 ceremoni:1 street:1 process:1
+died live:1
+education attend:1
+born busi:1 born:1 work:1 youngest:1 children:1 furnitur:1
+education graduat:1
+born play:1 rais:1 jazz:1 space:1 sharehold:1 trumpet:1 stepfath:1 uncl:1 pianist:1 introduc:1 manag:1 mother:1 rehears:1
+born graduat:1 join:1 born:1
+resting_place inter:1 plot:1 afterward:1
+died assassin:1
+education graduat:1 join:1 born:1
+born award:1 won:1 movi:1
+born first:1 faction:1 elect:1 seat:1 join:1 parti:1
+died holiday:1 time:1 girlfriend:1
+born whose:1 base:1 year:1 play:1 ask:1 teenag:1 join:1 depart:1 singer:1 line:1 move:1 soon:1 band:2 number:1
+born filmmak:1 rais:1
+spouse(s) releas:1 part:1 month:1 policeman:1 detail:1 secur:1 prison:1 bail:1 time:1 marri:1
+born play:1 jazz:1 born:1 drummer:1 percussionist:1
+spouse(s) wife:1 met:1 star:1 bud:1 also:1 time:1
+born grew:1
+spouse(s) famili:1 written:1 husband:1 done:1 book:1 publish:1
+born owner:1 busi:1 born:1 housewif:1
+education graduat:1
+born receiv:1 born:1 engin:3 becom:1 unionist:1 later:1 educ:1 ironwork:1 apprentic:1
+died die:1 attack:1 age:1 heart:1
+born born:1 refriger:1 pianist:1 engin:1 daughter:1 train:1
+born plu:1 life:1 year:1 parol:1 possibl:1 concurr:1 without:1 sentenc:1 serv:1
+born born:1
+spouse(s) son:1 marri:1
+born ride:1 elect:1 politician:1
+born born:1 son:1
+born born:1
+born area:1 childhood:1 year:1 born:1 ill:1 attend:1
+education enrol:1 eventu:1
+born born:1
+born educ:1 born:1
+spouse(s) end:1 date:1 soon:1 actress:1 began:1 relationship:1
+born born:1
+born farm:1 grew:1 born:1
+born die:1 born:1
+born season:1 hail:1 move:1 career:1 start:1
+died die:1
+born born:1
+born born:1 move:1
+born custom:1 born:1 agent:1 son:1
+born produc:1 born:1 film:1 actor:1 son:1
+died die:1
+born born:1
+born graduat:1 born:1 degre:1 ancestri:1
+born born:1 famili:1 rais:1
+died serv:1 board:1
+spouse(s) endow:1 husband:1 famili:1 memori:1
+born immigr:1 born:1 state:1
+spouse(s) divorc:1
+born repres:1 citi:1 includ:1 town:1
+born born:1 rais:1
+born graduat:1 born:1 studi:1 musik:1 och:1
+education graduat:1 born:1 studi:1 musik:1 och:1
+born born:1 son:1
+education graduat:1 earn:1
+spouse(s) wife:1 daughter:1 grandchildren:1
+born born:1 suburb:1 rais:1
+spouse(s) fellow:1 chairman:1 marri:1
+spouse(s) left:1 son:1 behind:1 wife:1
+born spent:1 life:1 year:1 born:1
+education major:1 attend:1 scienc:1
+spouse(s) marri:1
+born club:1
+born mayor:1 serv:1 judg:1 politician:1
+born captain:1 produc:1 screenwrit:1 team:1 comedian:1
+spouse(s) episod:1 talk:1 announc:1 engag:1
+born school:1 finish:1 attend:1 move:1 career:1
+died die:1 born:1
+born die:1 born:1
+spouse(s) child:1 actress:1 marri:1
+born rank:1 commiss:2 shortlist:1 base:1 includ:1 collabor:1 select:1 star:1 workshop:1 prize:1 artist:1 resid:2 collect:1 design:1 winner:1 work:1 paper:1 vote:1 du:1 upon:1 tour:1 instal:1 art:2 rise:1 untitl:1 sculptor:1
+born natur:1 studi:1 sick:1 thesi:1
+died gener:1 spend:1 join:1 faculti:1 would:1 life:1 consid:1 posit:1 scholar:1 hold:1 balanc:1 staff:1 univers:1
+born govern:1 demot:1 father:1 offic:1 administr:1 chapter:1 chair:1 committe:1 print:1 led:1 head:1 polici:1 group:1 clerk:1
+born born:1 son:1
+born graduat:1 wed:1 work:1 employ:1 find:1 instead:1 freelanc:1
+born school:1 attend:1 born:1
+born cast:1 discov:1 director:1 work:1
+born electro:1 base:1 current:1 work:1
+born grew:1 born:1
+died arteri:1 attack:1 oper:1 near:1 die:1 bypass:1 age:1 heart:1 home:1
+born grew:1 born:1 attend:1 counti:1
+spouse(s) actress:1 marri:1
+spouse(s) talent:1 contract:1 discov:1 vocalist:1 group:1 owner:1 decid:1 show:1 sign:1 make:1 win:1 act:1
+born born:1
+died year:1 degre:1 recov:1 friend:1 report:1 live:2 spirit:1 quietli:2 care:1 home:1 famili:1 neighbor:1 well:1 birthday:1
+born born:1 commun:1
+born born:1
+born born:1
+born parent:1 born:1 suburb:1
+education place:1 grade:1 result:1
+born born:1 film:1 appear:1
+resting_place buri:1
+died end:1 actor:1 suicid:1 offic:1 polic:1 day:1 commit:1 birthday:1 depress:1 marriag:1
+born repres:1 encompass:1 portion:1
+born stori:1 includ:1 novel:1 occasion:1 written:1 creat:1 form:1 influenc:1 born:1 mix:1 monster:1 highli:1 varieti:1
+born salesman:1 model:1 born:1 work:1 rais:1 carrier:1
+born radio:1 work:1
+died appoint:1
+born parent:1 born:1
+born parent:1 born:1 home:1
+born nativ:1 auction:1 work:1 polit:1 farmer:1 enter:1
+born cricket:1 born:1 learn:1
+died attack:1 attend:1 circu:1 die:1 grandchildren:1 age:1 heart:1
+born farm:1 born:1 famili:1
+born spend:1 time:1 back:1 move:1 forth:1 mother:1 father:1 youth:1 born:1 countri:1 region:1 live:1
+born graduat:1 theater:1
+spouse(s) time:1 manag:1 theatr:1 marri:1
+born fullback:1 born:1 play:1 father:1
+born sinc:1 live:1 born:1 age:1
+born part:1
+died crime:1 detain:1 execution:1 gallow:1 war:1 hang:1 prison:1 convict:1
+born child:1 grew:1 born:1 famili:1
+born born:1
+born compromis:1 raid:1 post:1 warn:1 work:1
+born chickenpox:1 regular:1 ill:1 take:1 record:1 briefli:1 episod:1 serial:1 attend:1 actor:1 part:1 known:1 best:1 role:1 seri:1
+born attend:1 like:1 contend:1 year:1 state:2 hockey:1 brother:1 appear:1 tournament:1
+born graduat:1 attend:1 rais:1
+born born:1
+died mistress:1 asham:1 ask:1 hostess:1 malici:1 duli:1 call:2 visit:1 may:1 address:1 thank:1
+born eldest:1 parish:1 born:1 son:1
+spouse(s) wife:1 year:1 tv:1 ran:1 marri:1
+born born:1
+born born:1 rais:1
+died stage:1 titl:1 ballet:1 product:1
+born train:1 born:1
+died along:1 consid:1 banish:1 get:1 well:1 form:1 outsid:1
+born born:1
+resting_place die:1 buri:1
+education lieuten:1 graduat:1 commiss:1 state:1
+born grew:1
+spouse(s) born:1 1990:1 son:1 marri:1
+born train:1 graduat:1 born:1 subsequ:1
+died die:1 accid:1
+born child:1 youngest:1 born:1 famili:1 boy:1
+spouse(s) star:1 porn:1 marri:1
+born attend:1 grew:1 school:1 suburb:1
+spouse(s) month:1 met:1 becam:1 dancer:1 engag:1
+born born:1 product:1 rais:1 stage:1 sign:1 televis:1 appear:1 record:1 seri:1
+born born:1
+education receiv:1 studi:1
+died child:1 live:1 move:1 began:1 marriag:1
+born grew:1 born:1 mail:1 work:1 father:1 carrier:1
+resting_place summer:1 spent:1 write:1 becom:1 focu:1 hometown:1
+education literatur:1 graduat:1 studi:1 earn:1
+born born:1 famili:1 medicin:1 trade:1 day:1
+spouse(s) sinc:1 band:1 singer:1 marri:1
+born born:1 rais:1
+died die:1 transport:1 later:1 day:1
+born minist:1 grew:1 born:1 son:1
+died die:1 born:1
+born grew:1 born:1
+born televis:1 actor:1 host:1
+born born:1
+education scholarship:1 went:1 degre:1 graduat:1
+born game:1 voic:1 actor:1 notabl:1 video:1 anim:2 web:1 tribut:1 author:1
+born grew:1
+born bank:1 born:1
+died educ:1 outskirt:1 rais:1
+born born:1
+born born:1 district:1 villag:1 near:1
+born singer:1 voic:1 actress:2
+born weightlift:1 repres:1 compet:1 femal:1 categori:1 kg:1 competit:1
+born grew:1
+born spent:1 childhood:1 born:1
+died die:1
+died die:1
+born born:1
+education honor:1 alma:1 mater:1 build:1 name:1
+born entrepreneur:1 firm:1 law:1 current:1
+born year:1 also:1 team:1 state:1 player:1 name:2
+spouse(s) death:1 remain:1 art:1 director:1 age:1 marri:1
+born parent:1 televis:1 born:1 film:1 actress:1
+born born:1
+born play:1 jazz:1 born:1 drummer:1 percussionist:1
+born born:1
+education graduat:1 educ:1
+died launch:1 produc:1 nicknam:1 concept:1 director:1 theater:1 introduc:1 stage:1 known:1 best:1 movement:1
+born commun:1 theater:1 work:1
+born attend:1 born:1 philosophi:1 degre:1 earn:1
+died die:1 buri:1
+born born:1
+born opera:1 compos:1 commiss:1 art:1 premier:1 write:1 libretto:1 come:1
+born singer:1 known:1 actress:2 also:1
+died die:1 age:1 home:1 heart:1 failur:1
+spouse(s) wife:1 year:1 death:1 marri:1
+born parent:1 immigr:1 born:1 factori:1 work:1 doughnut:1 grew:1
+born born:1
+died die:1 age:1
+born rais:1 move:1 jewelri:1 open:1 hometown:1 chain:1 becam:1 store:1 age:1 manag:1
+died die:1 cancer:1 age:1
+born journalist:1 artist:1 born:1 initi:1 plan:1
+spouse(s) marri:1 relationship:1
+born mother:1 born:1 villag:1 father:1
+resting_place call:1 mausoleum:1 shrine:1 flower:1 visit:1 peopl:1 place:1 better:1 time:1
+died strike:1 action:1 seek:1 work:2 join:1 repair:1 began:1 move:1 home:1 return:1 bicycl:1 seri:1
+born born:2 district:1 villag:1 son:1 near:1
+born voic:1 actress:1
+born divid:1 race:1 move:1 saw:1 1970:1 clearli:1 join:1 politicis:1 peopl:1
+born child:1 born:1 fifth:1 youngest:1 draper:1 millin:1
+spouse(s) actor:1 marri:1
+died recogn:1 appoint:1 eventu:1 work:1
+born kabbalist:1 also:1 magnum:1 born:1 famili:1 connect:1 court:1 scholar:1 known:1 opu:1 rabbi:1 refer:1
+spouse(s) becam:1 engag:1
+spouse(s) marri:1
+born born:1
+died die:1 prostat:1 cancer:1 born:1
+born die:1 prostat:1 cancer:1 born:1
+died area:1 death:1 time:1 resid:1
+born grew:1 born:1 near:1 dirt:1 farm:1 farmer:1 state:1 line:1 outsid:1
+died die:1 tuberculosi:1
+born born:1
+died die:1 age:1
+born born:1
+died host:1 born:1 radio:1 work:1
+born parent:1 born:1 emigr:1 serv:1 man:1
+born attend:1 point:1 game:1 break:1 record:1 citi:1 score:2 set:1
+spouse(s) photograph:1 fashion:1 live:1 husband:1
+born born:1 children:1
+born releas:1 born:1 track:1 stock:1 car:1 drove:1 street:1 began:1 race:1
+born member:1 hurl:1 time:1 play:1 club:1 season:1 team:1 usual:1 line:1
+born born:1 rais:1
+spouse(s) end:1 film:1 actor:1 marriag:1 featur:1 daughter:1 divorc:1 marri:1
+born fame:1 first:1 rock:1 band:1 guitarist:1 found:1
+born born:1
+born descent:1 instead:1 eventu:1 design:1 fashion:1 attend:1 born:1 famili:1 becom:1 music:1 becam:1 intent:1
+born born:1
+spouse(s) produc:1
+born attend:1 born:1 went:1
+born parent:1 citi:1 born:1 near:1
+born attend:1 born:1
+died die:1
+born school:2 attend:1 born:1 year:1 near:1
+born born:1 bridg:1
+died boss:1
+born studi:1 famili:1 law:1
+born born:1
+education mother:1 enrol:1 rais:1
+died produc:1 move:1 write:1 charact:1 continu:1 bank:1 commerci:1 chain:1 career:1 act:2
+spouse(s) death:1 actress:1 marri:1
+born born:1 ballroom:1 dancer:1
+spouse(s) kid:1 marri:1
+born born:1
+born head:1 coach:2 season:2 began:1 career:1 nativ:1 program:1 spent:1 women:1 lead:1 win:1 basketbal:1
+died die:1 retir:1 age:1 actor:1 home:1
+spouse(s) kid:1 met:1 shrunk:1 tv:1 set:1
+died die:1 ill:1
+died arriv:1
+born born:1 near:1 close:1 commun:1
+education nativ:1 graduat:1
+born theatr:1 age:1 becam:1 involv:1 rais:1
+born graduat:1 born:1
+born grew:1 born:1
+died hurler:1 team:1 play:1
+born hurl:1 first:1 born:1 school:1 play:1
+died die:1
+spouse(s) ring:1 known:1 best:1 boyfriend:1 name:1 marri:1
+born born:1
+born parent:1 immigr:1 born:1
+born born:1 ankl:1 problem:1
+died friend:1 wife:1 move:1 establish:1
+born nativ:1 wife:1 born:1
+born born:1 son:1
+born becam:1 age:1 born:1 famili:1 skill:1
+spouse(s) husband:1 children:1 analyst:1 meet:1
+born graduat:1 born:1
+born born:1 district:1
+born call:1 born:1 hometown:1 although:1 live:1 citi:1
+born graduat:2 attend:1 degre:1 tenni:1 cum:1 bachelor:1 scholarship:1 resid:1 laud:1
+born born:1
+born born:1
+education attend:1 show:1 talent:1 monologu:1 recit:1 chorist:1 act:1
+born member:1 defeat:1 candid:1 elect:1
+born attend:1
+born born:1
+born lawyer:1 upbring:1 near:1 father:1 mother:1 born:1 schoolteach:1
+education graduat:1
+born mother:1 born:1 descent:1 father:1
+born child:1 born:1 brother:1
+born born:1 ballroom:1 dancer:1
+died station:1 host:1 broadcast:1 nearli:1 year:1 guest:1 farewel:1 radio:1
+born born:1
+died plot:1 land:1 reloc:1 mile:1 west:1 commun:1 ministri:1 crossroad:1
+born songwrit:1 origin:1 music:1 singer:1 pianist:1
+died die:1 educ:1 professor:1 son:1 return:1
+born grew:1 petroleum:1 around:1 father:1 artist:1 educ:1 geologist:1 mother:1 son:1
+spouse(s) met:1 parti:1 de:1
+born grew:1 born:1 neighborhood:1
+born repres:1 stadium:2 substitut:1 play:2 defeat:1 victori:3 tri:2 xiii:1 forward:2 score:2
+born age:1 born:1 move:1
+born grew:1 born:1 coast:1
+born born:1 rais:1
+born lost:1 attend:1 quarterfin:1 signe:1 team:1 state:1 led:1
+born play:1 jazz:1 born:1 drummer:1 percussionist:1
+born wife:1 daughter:1 born:1 actor:1 actress:1
+born minist:1 learn:1 born:1 father:1 trademark:1 artist:1 mother:1 rais:1 style:1 would:1
+born citi:1 born:1 north:1
+died year:1 night:1 play:1 hootenanni:1 coffeehous:1 later:1
+born highli:1 born:1 veteran:1 son:1 immigr:1
+born born:1
+died die:1 attack:1 heart:1
+born born:1 rais:1
+died die:1 gone:1 treatment:1 inter:1
+born state:1 born:1 famili:1 move:1 near:1
+education educ:1
+spouse(s) video:1 music:1 runway:1 also:1 made:1 walk:1 like:1 cameo:1
+born born:1
+born teacher:1 born:1 studi:1 philosophi:1
+education receiv:1 attend:1 art:1 degre:1 bachelor:1
+born born:1
+born cinematographi:1 studi:1
+born mother:1 born:1 father:1
+born dentist:1 born:1 son:1
+born born:1
+education respect:1 bachelor:1 law:1 degre:1 earn:1
+born end:1 discov:1 work:1 made:1 theme:1 perform:2 televis:1 debut:1 seri:1
+born grew:1 south:1
+died die:1 age:1
+born grew:1
+died die:1 island:1 year:1 almost:1 servic:1
+born wife:1 mother:1 born:1 home:1
+died die:1 age:1 aneurysm:1 complic:1 syndrom:1
+spouse(s) without:1 conceal:1 join:2 belief:2 pretend:1 could:1 teacher:1 decid:1 quaker:1 state:1 becam:1 group:1 marri:1
+born hilli:1 youth:1 spent:1 terrain:1 much:1 born:1
+spouse(s) marri:1
+born born:1
+died settl:1 famili:1 emigr:1 prompt:1 capit:1
+born born:1 town:1
+died wife:1 villag:1 near:1 attack:1 helicopt:1 resid:1 gunship:1
+born born:1
+education attend:1
+born born:1
+born graduat:1 born:1
+education receiv:1 electron:1 engin:2
+died die:1 age:1
+born citizen:1 municip:1 son:1 rais:1
+born worker:1 compani:1 work:1 secretari:1 age:1 union:1 printer:1 salesman:1 print:1 deputi:1 born:1 becom:1 left:1 sixteen:1 educ:1 branch:1 trade:1
+died cinema:2 work:1 record:1 singer:1 industri:1 produc:1 music:1 film:2 director:1 known:1 playback:1 violinist:1 musician:1
+born teacher:1 born:1
+born member:1 championship:1 born:1 squad:1 becom:1 play:1 made:1 eventu:1 basketbal:1
+born rais:1
+born born:1
+born pop:1 singer:1
+born tour:1 born:1 father:1
+born born:1
+born born:1 rais:1
+died die:1 diabet:1 home:1 complic:1
+died die:1
+spouse(s) pseudonym:1 novelist:1 marri:1
+born salin:1 record:1 born:1 abort:1 accord:1
+spouse(s) live:1 daughter:1
+died abruptli:1 die:1 age:1 home:1
+born utilis:1 within:1 audit:1 obtain:1 experi:1 work:1 chemist:1
+education receiv:1 follow:1
+born born:1
+spouse(s) wife:1 celebr:1 show:1 particip:1 season:1 danc:1
+born receiv:2 offer:1 show:1 engin:1 televis:1 degre:1 work:2 master:1 examin:1
+spouse(s) marri:1 heiress:1 birthday:1 day:1
+born origin:1 eldest:1 call:1 born:1 mistress:1 son:1
+born child:1 boy:1 born:1
+born area:1 footbal:1 run:1 back:1
+born stuntman:1 date:1 play:1 singer:1 back:1 televis:1 often:1 part:1 voic:1 film:1 career:1 charact:1 actor:2
+born award:1 includ:1 play:1 also:1 won:1 finalist:1
+born graduat:1 born:1
+born housewif:1 immigr:1 born:1 shoemak:1 son:1
+born born:1
+spouse(s) children:1 marri:1
+born grew:1 state:1
+died consort:1 marriag:1
+born sibl:1 studi:2 skill:1 travel:1 mother:1 later:1
+born born:1
+born born:1 son:1
+born area:1 live:1 born:1 famili:1
+born area:1 grew:1 hockey:1 alpin:1 ski:1 twin:1 play:1 though:1 brother:1 ice:1 sport:1 activ:1 winter:2 chose:1
+spouse(s) nobleman:1 famili:1 around:1 connect:1 kinship:1 daughter:1 marri:1
+born town:1 probabl:1 near:1 coast:1 church:1 da:2 hous:1 born:1 seaport:1
+died bodi:1 buri:1 return:1 locat:1 citi:1 remain:1
+born final:1 week:1 tackl:1 suspend:1 seri:1
+born born:1
+died use:1 studio:1 legend:1 record:1 blue:1
+born born:1 capit:1 near:1
+died die:1 leav:1 daughter:1 son:1 widow:1
+born serv:1 degre:1 work:2 magazin:1 battl:1 among:1 editor:2 call:1 move:1 job:1 wound:1 earn:1
+born work:1
+born base:1 attend:1 perform:1 film:1 project:1 train:2 televis:1
+born attend:1 move:1 law:1 de:1 school:1 age:1 town:1
+died whose:1 death:1 think:1 scholar:1 alter:1 origin:1 scholarship:1 law:1
+born receiv:1 born:1 respect:1 degre:2 bachelor:1 master:1
+born psychologist:1 born:1 chemist:1 son:1
+born area:1 remain:1 sport:1 stay:1 involv:1
+born grew:1 born:1
+born state:1 born:1
+born born:1
+born origin:1 child:1 instrument:1 play:1 band:1 church:1 school:1 sang:1
+born educ:1 born:1
+born miner:1 born:1 water:1 cottag:1
+born born:1
+born born:1
+education master:1 degre:1 earn:1
+born born:1 famili:1 move:1
+born born:1
+born station:1 brat:1 born:1 navig:1 father:1
+born born:1 de:1
+spouse(s) wife:1 live:1 neighborhood:1
+born born:1
+died produc:1 year:1 show:1 direct:1 host:1 start:1 televis:1 ran:1 varieti:1
+spouse(s) sign:1 born:1 year:1 month:1 marriag:1
+born born:1 shack:1
+died cancer:1 die:1 diagnos:1 follow:1
+born genr:1 born:1 hop:1 trip:1 work:1 architect:1 album:1 best:1 credit:1 known:1 unfinish:1
+born musician:1
+died die:1 ill:1 resid:1
+spouse(s) first:1 time:1 ceremoni:1 cinematograph:1 wed:1 marri:1
+resting_place inter:1
+died staff:1 attend:1 yearbook:1 play:1 work:1 school:1 editor:1 act:1
+education studi:1 approach:1 ask:1
+spouse(s) star:1 includ:1 children:1 divorc:1 marri:1 creat:1 coupl:1 seri:1
+spouse(s) attend:1 crew:1 shuttl:1 marri:1 presid:1 ceremoni:1
+education honor:1 receiv:1 engin:1 marin:1 degre:1 bachelor:1 highest:1 state:1 scienc:2 graduat:1
+spouse(s) graduat:1 husband:1 son:1 flight:1 own:1 locat:1 school:1 oper:1
+died fli:1
+education graduat:1 husband:1 son:1 flight:1 own:1 locat:1 school:1 oper:1
+died die:1 age:1
+died offer:1 direct:1 well:1 accept:1 allow:1 act:1
+spouse(s) sourc:1 film:1 around:1 indic:1 appear:1 marri:1
+died settl:1
+spouse(s) daughter:1 son:1 marri:1
+died footbal:1 forward:1 club:1 play:1 interst:1
+died die:1 nurs:1 home:1
+education master:1 year:1 complet:1 degre:2 earn:1
+education graduat:1 educ:1 commun:1 earn:1 rais:1
+died first:1 ride:1 seat:1 win:1 elect:2 attempt:1
+spouse(s) bassist:1 marri:1
+spouse(s) graduat:1 astronom:1 mathematician:1 son:1 marri:1
+resting_place rest:1 laid:1
+education attend:1 briefli:1
+spouse(s) left:1 parliamentarian:1 femal:1 group:2 marri:1
+died cancer:1 life:1 year:1 spent:1 write:1 move:1 die:1 age:1
+spouse(s) wife:1 present:1 son:1 tv:1
+spouse(s) talent:1 manag:1 marri:1
+died retir:1 spent:1 follow:1 live:1 year:1 remain:1 act:1
+spouse(s) comedi:1 among:1 husband:1 role:1 man:1
+education attend:1
+died intersect:1 live:1 commemor:1 neighborhood:1 year:1
+died fallen:1 overboard:1 presum:1 vessel:1 cruis:1 recov:1 bodi:1 subsequ:1
+spouse(s) fellow:1 actor:1 marri:1
+education educ:1
+spouse(s) children:1 daughter:1 actress:1 son:1 marri:1
+spouse(s) stepson:1 marri:1
+died produc:1 move:1 director:1 writer:1 eventu:1 marri:1
+spouse(s) marri:1
+spouse(s) courtship:1 produc:1 actor:1 marri:1
+education member:1 histori:1 went:1 chapter:1 soror:1 enrol:1
+spouse(s) actress:1 marri:1
+died south:1 drown:1 travel:1 mile:1 father:1 wreck:1
+spouse(s) briefli:1 actress:1 marri:1
+education attend:1 studi:1 job:1 would:1 quit:1 earn:1
+died loss:1 went:1 practic:1
+spouse(s) wife:1 divorc:1 coupl:1 heiress:1 marri:1
+died cattl:1 attack:1 retir:1 near:1 die:1 ranch:1 heart:1
+education obtain:1 form:1
+spouse(s) wrote:1 star:1 film:1
+spouse(s) graduat:1 year:1 coupl:1 children:1 marri:1
+education graduat:1
+died retir:1 move:1 follow:1
+spouse(s) produc:1 film:1 marri:1
+spouse(s) marri:1
+education theatr:1 teacher:1 attend:1 born:1 studi:2 director:1 acclaim:1 receiv:1
+education graduat:1
+spouse(s) leav:1 ceremoni:1 month:1 marri:1
+spouse(s) founder:1 actor:1 marri:1
+spouse(s) franc:1 sinc:1 actress:1 marri:1
+died name:1 plateau:1
+died school:1 came:1 met:1 born:1 went:1
+died attack:1 fled:1 hometown:1
+education graduat:1 field:1 enter:1 degre:1 filmmak:1
+education honor:1 receiv:1 broadcast:1 degre:1 bachelor:1 alumnu:1
+spouse(s) perdon:1 year:1 amar:1 well:1 work:1 lobo:1 caido:1 son:1 credit:1 telenovela:1 actor:1 name:1 de:2 share:1 te:1 volver:1 angel:1 marri:1
+spouse(s) children:1 marri:1
+resting_place inter:1
+died cancer:1 stomach:1 treat:1 move:1 near:1 hous:1 home:1
+died die:1
+education engin:1 left:1 studi:1 complet:1 becom:1
+spouse(s) retir:1 hockey:1 ice:1
+spouse(s) marri:1
+spouse(s) son:2 daughter:1 state:1 name:1 marri:1
+spouse(s) actress:1 actor:1 son:1 marri:1
+education attend:1 school:1 enrol:1
+died run:1 began:1 motel:1
+died painter:1 known:1 born:1 brother:1 decor:1
+died die:1 wife:1 surviv:1 son:1
+died die:1
+died left:1 move:1 affili:1 radio:1 work:1
+spouse(s) marri:1
+spouse(s) teacher:1 ballet:1 dancer:1 death:1 pioneer:1 marri:1
+died holiday:1 time:1 girlfriend:1
+education attend:1 school:1 went:1 left:1 age:1 qualif:1
+spouse(s) even:1 inspir:1 sinc:1 trip:1 sing:1 encourag:1 car:1 career:1
+died die:1 age:1
+education sinc:1 year:2 pursu:1 actor:1 wait:1 audit:1 drop:1 enrol:1 program:1 career:1 would:1
+died settl:1 move:1 help:1 surgeon:1 work:1 hospit:1 may:1 eventu:1 charg:1
+resting_place year:1 buri:1 cemeteri:1 die:1 state:1 garden:1 exhaust:1 oldest:1
+spouse(s) husband:1 lieuten:1 drip:1 resid:1
+spouse(s) produc:1 film:1
+died die:1
+died die:1
+spouse(s) son:1 marri:1
+spouse(s) death:1 remain:1 marri:1
+resting_place receiv:1 attend:2
+died attack:1 week:1 shi:1 die:1 heart:1 birthday:1
+died emeritu:1 professor:1 linguist:2 politician:1
+spouse(s) met:1 studi:1
+education attend:1
+spouse(s) divorc:1 actor:1 son:1 marri:1
+died along:1 year:1 went:1 younger:1 mother:1 later:1 bankrupt:1 sister:1
+spouse(s) daughter:1 marri:1
+died appoint:1 post:1 held:1
+died commemor:1 held:1 funer:1
+spouse(s) husband:1 marri:1
+spouse(s) year:1 later:1 separ:1
+died float:1 polic:1 later:1 found:1 corps:1 day:1
+died skate:1 move:1 famili:1 learn:1
+education earn:1
+education attend:1 well:1
+died die:1 cancer:1 age:1
+died complic:1 failur:2 die:1 hospit:1 sinc:1 heart:2 diseas:1
+education studi:1 began:1
+education espionag:1 justic:1 histori:1 relat:1 hold:1
+spouse(s) eat:1 split:1 meat:1 began:1 howev:1
+died join:1 year:1 temporarili:1 sent:1 left:1 care:1 daughter:2 perform:1 mother:1 career:1
+spouse(s) marri:1
+resting_place end:1 inter:1 went:1 ceremoni:1 street:1 process:1
+died live:1
+education attend:1
+died die:1 born:1 ethnic:1
+spouse(s) produc:1 film:1
+died die:1 attempt:1 injuri:1 sustain:1 result:1
+spouse(s) met:1 actor:1 product:1 coupl:1 year:1 marri:1
+spouse(s) wife:1 met:1 studi:1
+died born:1 famili:1
+spouse(s) husband:1
+education enabl:1 receiv:1 begin:1 studi:2 degre:1 bachelor:1 still:1 scholarship:1 econom:1 earn:1
+education made:1
+education graduat:1 bachelor:1 art:1 degre:1 rais:1
+spouse(s) wife:1
+died die:1 age:1
+education receiv:1 born:1 servic:1 doctor:1 labour:1 organ:1 thesi:1
+died die:1 age:1
+spouse(s) daughter:1 marri:1
+died remain:1 move:1 reason:1
+died die:1
+spouse(s) daughter:1 rais:1 marri:1
+died studi:1
+died championship:1 grew:1 born:1 goal:1 lead:1 game:1 playoff:1 score:1 yonker:1
+died die:1 age:1
+education graduat:2 locat:1 later:1
+spouse(s) wife:1 grandchildren:1 children:1 resid:1
+spouse(s) son:1 marri:1
+died settl:1 releas:1 store:1 neighborhood:1 open:1 famili:1
+died die:1 holiday:1
+education went:1 studi:1 matricul:1 medicin:1 obtain:1
+spouse(s) marri:1
+education graduat:1 bachelor:1 art:1 scienc:1 receiv:1
+died repres:1 district:1 assembl:1
+died yard:1 side:1 work:1 railroad:1 came:1 citi:1
+education design:1 receiv:1 born:1 studi:1 move:1 photographi:1
+spouse(s) busi:1 execut:1
+died born:1 son:1
+spouse(s) sinc:1 husband:1 becam:1
+spouse(s) wife:1 live:1 us:1
+died first:1 compani:1 feed:1 work:1 produc:1 later:1 chocol:1 set:1 discharg:1 life:1 return:1 byproduct:1 anim:1 sell:1
+spouse(s) widow:1
+died station:1 home:1 made:1 travel:1 much:1 eventu:1
+resting_place servic:1 buri:1 held:1
+spouse(s) wife:1 year:1 announc:1 separ:1 children:1 marriag:1
+spouse(s) wed:1 businessman:1 ceremoni:1 marri:1
+died hous:1 move:1 sold:1 musician:1
+spouse(s) die:1 wife:1 actress:1 day:1
+spouse(s) complet:1 marri:1
+died die:1 age:1 morn:1 infarct:1
+resting_place buri:1
+died age:1 howev:1 home:1 north:1 die:1 citi:1 fail:1
+spouse(s) live:1 children:1 marri:1
+died end:1 life:1 stay:1 move:1
+education art:1 attend:1 perform:1 studi:1
+spouse(s) daughter:1 sinc:1 born:1 marri:1
+died die:1 receiv:1 cancer:1 treatment:1 birthday:1
+spouse(s) son:1 marri:1
+education attend:1 appear:1
+died receiv:1 move:1 famili:1 soon:1 birth:1 educ:1 school:1
+spouse(s) wife:1 resid:1 writer:1
+spouse(s) wife:1 live:1
+died die:1 age:1
+education boy:1 classmat:1 includ:1 actor:1 educ:1 school:1
+spouse(s) wife:1 live:1 children:1
+education honor:1 receiv:1 bachelor:1 highest:1 scienc:1 physic:1
+spouse(s) die:1 sport:1 promot:1 marri:1
+died die:1 pneumonia:1 age:1
+education degre:2
+education obtain:1 admit:1 degre:2 master:1
+died evacu:1 world:1 mother:1 born:1 war:1
+died summer:1 earn:1 degre:1 work:1 newspap:1 father:1 commerc:1
+spouse(s) marri:1
+died suffer:1 attack:1 die:1 heart:1
+died die:1 inter:1
+spouse(s) child:1 marri:1
+education graduat:1 debat:1 born:1 particip:1 achiev:1 team:1 scholarship:1 earn:1
+died includ:1 post:1 follow:1 plan:2
+died die:1 age:1 ill:1
+spouse(s) coupl:1 children:1 marri:1
+spouse(s) children:1 marri:1
+education left:1 busi:1 entertain:1
+died enrag:1 conduct:1
+died die:1 born:1 also:1
+died coupl:1 resid:1
+died divid:1 time:1 home:1
+spouse(s) year:1 marri:1
+died wife:1 move:1 continu:1 talent:1 event:1 art:1 show:1 creat:1
+died design:1 known:1 best:1 architect:2 charg:1
+education class:1 alumnu:1
+died die:1
+spouse(s) arriv:1 marri:1
+died creation:1 becam:1 move:1 breakup:1
+died yet:1 year:1 studi:1 languag:1 chang:1 theolog:1 age:1 began:1 subject:1
+spouse(s) children:1 businesswoman:1 marri:1
+education month:1 attend:1 1960:1 drop:1 serv:1
+spouse(s) previous:1 work:1 daughter:1 actress:1 current:1 marri:1
+spouse(s) wife:1 children:1
+education graduat:1 diploma:1 studi:1
+education receiv:1 degre:2 graduat:1 laud:1 master:1 bachelor:1
+died die:1
+spouse(s) studio:1 led:1 posit:1 film:1 role:1 elev:1 presid:1
+died graduat:1 collabor:1 lead:1 lectur:1 deliv:1 seri:1
+education graduat:1
+spouse(s) wife:1 divorc:1 later:1 actress:1
+died care:1 move:1 put:1
+resting_place die:1 buri:1
+spouse(s) date:1 began:1
+education program:1 train:1 later:1
+resting_place buri:1
+died whose:1 member:1 elect:1 given:1 pioneer:1 name:1
+spouse(s) year:2 law:1 left:1 colleg:1 student:1 marri:1
+died die:1 age:1
+education colleg:1 start:1 fall:1 return:1
+died won:1 race:1
+education educ:1
+died along:1 hit:1 platform:2 arriv:1 track:1 fell:1 walk:1 onto:1 train:1 station:1 railway:1 trip:1 fatal:1
+education leav:1 get:1 month:1 away:1
+died receiv:1 born:1 degre:1
+education receiv:1 born:1 degre:1
+spouse(s) wife:1 businesswoman:1
+spouse(s) children:1 marri:1
+education histori:1 respect:1 degre:1
+education first:1 attend:1 collabor:1 began:1 met:1 act:1
+died die:1 pneumonia:1 age:1
+spouse(s) previous:1 writer:1 year:1 soldier:1 wife:1 later:1 mother:1 becam:1 marri:1
+died previous:1 display:1 wooden:1 surviv:1 sinc:1 clock:1 collect:1
+died deni:1 halt:1 request:1 execut:1 morn:1
+died stage:1 retir:1 age:1 live:1 death:1
+died farm:1 born:1 move:1 man:1
+education attend:1
+died first:1 releas:1 home:1 base:1 video:1 compani:1
+spouse(s) solo:1 stop:1 film:1 wife:1
+spouse(s) singer:1 actor:1 dancer:1
+died die:1 age:1
+died recreat:1 addit:1 involv:1 hiatu:1
+spouse(s) met:1 much:1 peopl:1 marri:1 later:1 would:1
+died die:1 age:1
+died collis:1 traffic:1 die:1 injuri:1 sustain:1 succumb:1 day:1
+education concentr:1 attend:1 scienc:1 year:1
+died live:1 move:1 daughter:1
+died die:1 age:1 ill:1
+education born:1 degre:1 earn:1
+died probat:1 sweep:1 posit:1 judg:1 elect:2 sinc:1 centuri:1
+spouse(s) marri:1
+died church:1 born:1 rais:1 gospel:1 choir:1 sang:1
+spouse(s) employ:1 candid:1 list:1 declin:1 also:1 seat:1 found:1 eventu:1 succeed:1 elect:1 appoint:1 went:1 husband:1
+education attend:1 head:1 coach:2 play:1 season:1 team:1 fond:1 call:1 basketbal:1 group:1
+died year:1 spent:1 ultim:1 return:1
+spouse(s) member:1 colleagu:1 remain:1 divorc:1 year:1 marri:1
+died die:1 month:1 attack:1 littl:1 km:1 heart:1 land:1
+spouse(s) daughter:1 marri:1
+died born:1 capit:1
+died pain:1 festiv:1 film:1 chest:1 induct:1 hospit:1 appear:1
+education world:1 war:1 forc:1 go:1 hide:1 studi:1
+spouse(s) coupl:1 children:1 marri:1
+died bar:1 call:1 law:1 partnership:1 enter:1 practic:1
+spouse(s) daughter:1 marri:1
+education graduat:1 attend:1 journal:1 scienc:1 degre:1
+education receiv:1 educ:1 born:1
+education drama:1 attend:1 program:1
+died gener:1 call:1 spent:1 respect:1 mark:1 rest:1 life:1 either:1
+spouse(s) columnist:1 technolog:1 marri:1
+died disown:1 born:1 heritag:1 later:1 claim:1 would:1
+spouse(s) son:1 marri:1
+resting_place buri:1
+died die:1 age:1 home:1
+died inter:1
+spouse(s) took:1 actress:1 name:1 stage:1 marri:1
+died lost:1 use:2 royal:1 theater:3 permiss:1 king:1 season:1 build:1 transfer:1
+spouse(s) children:1 notabl:1
+education attend:1 school:1 degre:1 earn:1
+died even:1 late:1 shot:1 neighborhood:1 argument:1 kill:1 newspap:1 earlier:1 report:1 publish:1 accord:1
+resting_place grave:1 buri:1
+died die:1 day:1 birthday:1 complic:1 diseas:1
+died move:1 engin:1 becom:1 start:1 taught:1 work:1 chemic:1
+resting_place home:1
+died die:1 aneurysm:1
+spouse(s) marri:1
+spouse(s) wed:1 marri:1
+spouse(s) ceremoni:1 marri:1
+died station:1 literatur:1 announc:1 writer:1 drama:1 major:1 began:1 radio:1 career:1 director:1
+died staret:1 reput:1 priest:1
+spouse(s) first:1 movi:1 twice:1 wrote:1 known:1 scenarist:1 well:1 marri:1
+spouse(s) physician:1 marri:1
+died use:1 critic:1 time:1 access:1 deepli:1 unapologet:1 princip:1 happen:2 even:1 least:1 histori:1 write:1 author:1 inform:1 artist:1 focus:1 state:1 wide:2 survey:1 describ:1
+spouse(s) time:1 vander:1 actor:1 student:1 marri:1
+spouse(s) marri:1 actress:1 engag:1
+spouse(s) marriag:1 secondli:1 son:1 marri:1
+died footbal:1 compil:1 head:1 coach:1 serv:1 record:1
+spouse(s) wife:1
+died gener:1 call:1 spent:1 respect:1 mark:1 rest:1 life:1 either:1
+spouse(s) perdon:1 year:1 amar:1 well:1 work:1 lobo:1 caido:1 son:1 credit:1 telenovela:1 actor:1 name:1 de:2 share:1 te:1 volver:1 angel:1 marri:1
+died transfer:1 live:1 month:1
+education attend:2 age:1
+died came:1 rel:1 refer:1 produc:1
+died knight:1 serv:1
+died design:1 yacht:1
+spouse(s) report:1 affili:1 televis:2 marri:1
+education graduat:1 attend:1 aid:1 scienc:1 job:1 art:1 combin:1 scholarship:1
+spouse(s) dancer:1 marri:1
+education attend:1 school:1 simpli:1 known:1
+died platform:1 twice:1 gold:1 diver:1 known:1 best:1 win:1 medal:1 women:1
+spouse(s) end:1 year:1 music:1 countri:1 marriag:1 later:1 divorc:1 singer:1 marri:1
+died special:1 host:1 call:1 premier:1 televis:1 group:1
+spouse(s) socialit:1 year:1 date:1 marriag:1 actress:2 singer:1 widow:1 relationship:1 songwrit:1 divorc:1 engag:1 marri:1
+died cruis:1 ship:1 die:1 age:1 speaker:1 board:1 engag:1
+education chosen:1 graduat:1 promin:1 host:1 rose:1 programm:1
+spouse(s) teach:1 school:1 day:1 student:1 marri:1
+education educ:1
+died mistress:1 asham:1 ask:1 hostess:1 malici:1 duli:1 call:2 visit:1 may:1 address:1 thank:1
+died die:1 leukemia:1 age:1
+spouse(s) met:1 film:1
+spouse(s) wife:1 marri:1
+spouse(s) first:1 met:1 work:1 wife:1
+died built:1 receiv:1 went:1 chair:1 return:1
+died time:1 caus:1 complic:1 play:1 suffer:1 age:1 poker:1 morn:1 life:1 spent:1 part:1 die:1 pool:1 fall:1 afternoon:1
+died born:1
+spouse(s) marri:1
+education member:1 graduat:1 born:1
+died die:1 stroke:1 lung:1 cancer:1 age:1
+spouse(s) star:1 wrote:1 husband:1
+died die:1 diabet:1 complic:1 ailment:1
+died die:1 cancer:1 breast:1 age:1
+education hold:1 bachelor:1
+resting_place inter:1
+died night:1 ceremoni:1 master:1 known:1 best:1 founder:1
+education downtown:1 plan:1 attend:1 dancer:1 near:1 work:1 club:1 doctor:1 becom:1
+spouse(s) marriag:1
+died year:1 assassin:1 went:1 later:1 riot:1 journal:1 award:1 stay:1 follow:1 event:1 win:1 coverag:1
+education discharg:1 receiv:1 briefli:1 serv:1 state:1 assign:1
+died polit:1 graduat:1 studi:1 law:1
+died die:1 age:1 home:1
+education graduat:1 write:1 studi:1 degre:1
+education graduat:1 scienc:1
+died trial:1 matter:1 serv:1 court:1 appoint:1 term:1
+spouse(s) father:1 children:1 marri:1
+spouse(s) husband:1 screen:1 actor:1 marri:1
+resting_place locat:1 buri:1
+died die:1 attack:1 follow:1 heart:1
+died die:1 age:1
+died die:1 stroke:1 age:1
+spouse(s) friend:1 footbal:1 met:1 actor:1 marri:1
+spouse(s) marri:1 actor:1 engag:1
+died along:1 acr:1 spring:1 side:1 attract:1 contain:1 ran:1
+education actor:1 theatr:1 includ:1 join:1 train:1 group:1
+spouse(s) fellow:1 death:1 voic:1 actress:1 marri:1
+spouse(s) daughter:1 marri:1 landladi:1 eventu:1 would:1
+resting_place buri:1
+died rent:1 properti:1 period:1 bought:1 home:1 near:1
+died die:1 age:1 della:1
+died cancer:1 age:1 famili:1 home:1 also:1 die:1 effect:1 counti:1 diagnos:1 villag:1
+spouse(s) marri:1
+died live:1 move:1 girlfriend:1
+education transfer:1 act:1 graduat:1 degre:2 earn:1
+spouse(s) graduat:1 year:1 histori:1 degre:1 children:1 later:1 marri:1
+education engin:1 studi:1 degre:1 receiv:1
+education educ:1 born:1
+died youth:1 ventur:1 promot:1 basketbal:1 work:1
+spouse(s) lawyer:1 children:1 marri:1
+spouse(s) produc:1 film:1
+education teach:1 receiv:1 cours:1 degre:1 basi:1 govern:1 later:1 would:1
+spouse(s) wife:1 jennif:1 surviv:1 daughter:1 son:1 sister:1
+died die:1 home:1
+died die:1
+died teach:1 associ:1 move:1 ad:1
+died die:1 age:1
+spouse(s) origin:1 dog:1 time:1 divid:1 live:1 husband:1
+spouse(s) magazin:1 writer:1 marri:1
+education parent:1 move:1 went:1 school:1 go:1 divorc:1 later:1 initi:1
+died die:1 inter:1 citi:1 capit:1
+spouse(s) endow:1 scholarship:1 also:1
+died die:1 watch:1 perform:1 visit:1
+died imprison:1 mob:1 jailhous:1 kill:1 storm:1
+spouse(s) taken:1 life:1 husband:1 frequent:1 deni:1 wive:1 throughout:1 ever:1
+spouse(s) first:1 met:1 work:1 wife:1
+died serv:1
+spouse(s) lost:1 call:1 campaign:1 target:1 dirti:1 vote:1 reelect:1 mailer:1
+died die:1 place:1 taken:1 investitur:1
+education born:1 degre:1 earn:1
+spouse(s) marri:1
+died shortli:1 death:1 return:1
+education first:1 formal:1 studi:1 de:2 art:2 anim:1 instead:1 never:1 howev:1
+education graduat:1 attend:1 degre:1
+died wife:1 live:1 report:1 later:1 radio:1
+died live:1 reloc:1
+education earn:1 year:1 continu:1 rais:1 studi:1 children:1 enrol:1 later:1 ultim:1 marri:1
+died born:1 famili:1 surgeon:1
+died gener:1 born:1 doctor:1 receiv:1
+education graduat:1 attend:1 degre:1
+education attend:1 priesthood:1 also:1 studi:1 school:1 seminari:1
+spouse(s) daughter:1 marri:1
+died shipment:1 won:1 journal:1 arm:1 report:1 role:1
+education one:1 colleg:1 famili:1 go:1 away:1
+spouse(s) year:1 met:1 actor:1 partner:1 marri:1
+died born:1 later:1 barrist:1 judg:1 author:1
+education attend:2 school:1 matricul:1 start:1 prefect:1 becam:1
+died die:1 attack:1 heart:1
+spouse(s) daughter:1 husband:1 financi:1
+died death:1 resid:1
+spouse(s) time:1 let:1 manag:1 convinc:1 met:1 act:1
+died die:1 period:1 ill:1
+spouse(s) model:1 occult:1 studi:1 tutor:1 artist:1 introduc:1 alongsid:1 learn:1
+spouse(s) children:1
+died celebr:1 month:1 sleep:1 die:1 ranch:1 birthday:1 outsid:1
+spouse(s) wife:1 year:1 colleg:1 marri:1
+education death:1 year:1 born:1 follow:1 sent:1 father:1 age:1 school:1
+spouse(s) marri:1
+spouse(s) end:1 divorc:1 marriag:1 marri:1
+died die:1 caus:1 birthday:1 day:1
+died buri:1
+education theater:1 degre:1 earn:1
+died ranch:1 prosper:1 establish:1
+education train:1
+spouse(s) marri:1
+education studi:1 alban:1 degre:1 receiv:1 chose:1 bachelor:1 howev:1 graduat:1 attend:2 instead:1 law:1 plan:1 school:1 scienc:1 act:1
+education programm:1 humain:1 well:1 et:1 contribut:1 depart:1 link:1 set:1 teach:1 institut:1 scienc:1 research:1 number:1
+died librarian:1 born:1 author:1
+spouse(s) citizen:1 becam:1 year:1 actor:1 marri:1
+died born:1 film:1 work:1 actor:1 live:1 televis:1 radio:1 mostli:1
+spouse(s) divorc:1 marriag:1
+died die:1 age:1 home:1
+spouse(s) previous:1 coach:1 marri:1
+spouse(s) bachelor:1 marri:1
+died die:1 age:1 heart:1 complic:1 surgeri:1
+education taught:1 pupil:1 includ:1 studi:1
+spouse(s) children:1 actress:1 marri:1
+education attend:1 school:1 degre:1 earn:1
+spouse(s) date:1 gymnast:1 recov:1 fall:1 hospit:1 injuri:1 began:1 meet:1 sport:1
+spouse(s) stori:1 rite:1 ceremoni:1 coupl:1 name:1 marriag:2 end:2 celebr:1 born:1 son:1 meet:1 love:1 marri:1
+spouse(s) children:1 marri:1
+education graduat:1
+died die:1 cancer:1
+spouse(s) columnist:1 technolog:1 marri:1
+spouse(s) marri:1
+died life:1 grew:1 spent:1 hospit:1 chariti:1 year:1 poverti:1
+education attend:1
+resting_place transfer:1 remain:1 buri:1 citi:1 insid:1 outsid:1 disint:1 initi:1
+died portray:1 wrote:1 refus:1 stage:1 prohibit:1 licenc:1 subject:1
+education attend:1
+died teacher:1 philosophi:1 appoint:1 mathemat:1 dissent:1 age:1 academi:1
+spouse(s) investor:1 store:1 famili:1 son:1 daughter:1 depart:1 basebal:1 marri:1
+spouse(s) wife:1 marri:1
+died call:1 born:1 neighborhood:1 statu:1
+spouse(s) journalist:1 wife:1 star:1 actress:1 basketbal:1
+died die:1 nurs:1 home:1
+spouse(s) star:1 direct:1 marri:1
+died life:1 engin:1 eugen:1 becam:1 professor:1 propon:1
+spouse(s) daughter:1 children:1 son:1 marri:1
+education age:1 enter:1
+died die:1 stroke:1 age:1
+died die:1 ibn:1 whether:1 subdu:1 brother:1
+died compani:1 back:1 found:1 reloc:1
+died bodi:1 discov:1 room:1 morn:1
+spouse(s) church:1 marri:1
+education graduat:1 histori:1 art:1 cum:1 enrol:1 laud:1
+spouse(s) sinc:1 businessperson:1 resid:1
+education eldest:1 born:1 degre:1 son:1 obtain:1
+died pneumonia:1 taken:1 ill:1 foundat:1 develop:1
+died remain:1 move:1 reason:1
+spouse(s) wife:1 year:1 born:1 current:1 rais:1 thirti:1 resid:1
+spouse(s) recogn:1 wife:1 support:1 caus:1 dedic:1 foundat:1 philanthropi:1 institut:1
+died die:1 ranch:1 detect:1 home:1 say:1
+spouse(s) daughter:1 born:1
+spouse(s) like:1 film:1 direct:1 made:1 written:1 husband:1 filmmak:1 initi:1 script:1 eventu:1
+died die:1 leukemia:1 retir:1
+spouse(s) releas:1 film:1 direct:1
+died grew:1 state:1 die:1 heir:1 ill:1 brother:1 appar:1 son:1 entrust:1
+spouse(s) wife:1 grandson:1 younger:1 daughter:1 state:2 author:1
+spouse(s) husband:1 featur:1 written:1 star:1 also:1
+resting_place gener:1 chanceri:1 commission:1 serv:1 later:1 educ:1 state:1 becam:1 brigadi:1
+died gener:1 chanceri:1 commission:1 serv:1 later:1 educ:1 state:1 becam:1 brigadi:1
+education graduat:1
+died member:1 squadron:1 colonel:1
+education graduat:2 attend:1 resourc:1 food:1 econom:1
+education receiv:1 engin:1 degre:1
+spouse(s) rave:1 met:1 parti:1
+spouse(s) wife:1 sinc:1 son:1 togeth:1 marri:1
+died hematoma:1 fall:1 near:1 complic:1 die:1 resid:1 age:1 result:1
+died die:1 friend:1 age:1 home:1
+spouse(s) end:1 model:1 divorc:1 marriag:1
+died famili:1 escap:1 move:1 pressur:1 rural:1
+spouse(s) older:1 cousin:1 month:1 cultur:1 aunt:1 intellig:1 charm:1 nurs:1
+education attend:1
+spouse(s) wife:1 met:1 class:1 act:1
+died die:1
+died world:1 part:1 giant:1 highest:1 travel:1 peak:1
+education graduat:1 firm:1 bank:1 divis:1 colleg:1 invest:1 join:1
+spouse(s) actress:1 marri:1
+education receiv:1 diploma:1 paint:1
+spouse(s) death:1 age:1 actor:1 marri:1
+died die:1
+spouse(s) death:1 actress:1 marri:1
+education soror:1 part:1 degre:1
+died made:1 found:1 across:1 trip:1
+spouse(s) chosen:1 decis:1 access:1 improv:1 rout:1 enter:1 regent:1 may:1 court:1 marriag:1
+died die:1 cross:1 buri:1 stone:1 mark:1
+spouse(s) futur:1 merchant:1 daughter:1 hardwar:1 guarante:1 marri:1
+resting_place die:1 cross:1 buri:1 stone:1 mark:1
+died produc:1 year:1 show:1 direct:1 host:1 start:1 televis:1 ran:1 varieti:1
+spouse(s) sign:1 born:1 year:1 month:1 marriag:1
+died hit:1 hamlet:1 call:1 move:1 home:1 farmhous:1 near:1 bomb:1 live:1 much:1 shrapnel:1
+education studio:1 receiv:1 grant:1 continu:1 sculptur:1 especi:1 educ:1 becam:1 student:1 set:1
+died use:1 industri:1 retir:1 entertain:1 home:1 die:1 age:1 often:1
+died hit:1 vacat:1 wife:1 die:1 car:1 train:1 drive:1
+resting_place inter:1 ash:1
+education graduat:1 earn:1
+died island:1 accid:1 birthday:1 coast:1 die:1 drown:1 day:1
+education teacher:1 music:1 studi:1 composit:1 doctor:1 reloc:1 includ:1 educ:1 earn:1
+died businessmen:1 poet:1 studi:1 clan:1 judg:1 agricultur:1 includ:1 love:1 later:1 line:1 sibl:1 produc:1 support:1 within:1 younger:1 famili:1 known:1 innov:1 author:1
+died die:1 cancer:1 age:1 widow:1
+education teacher:1 attend:1 music:1 includ:1 composit:1
+spouse(s) wife:1 famili:1 written:1 done:1 book:1 publish:1
+died parent:1 die:1 attend:1 born:1 patient:1
+spouse(s) friend:1 older:1 met:1 sister:1 court:1
+resting_place lie:1 crypt:1 son:1 wife:1
+died wife:1 state:1 famili:2 son:1 politician:1 includ:1 presid:1 gener:1 historian:1 refer:1 diplomat:1
+spouse(s) marri:1
+resting_place wife:1 buri:1 son:1 near:1 child:1
+died year:1 nearli:1 failur:1 die:1 age:1 retir:1 heart:1
+spouse(s) instructor:1 yoga:1 marri:1
+education graduat:1 receiv:1
+died wear:1 armour:1 bodi:1 gang:2 gunshot:1 receiv:1 despit:1 polic:1 violent:1 confront:1
+spouse(s) surgeon:1 orthopaed:1 marri:1
+died suffer:1 year:1 week:1 coma:1 attack:1 die:1 left:1 earlier:1 heart:1
+spouse(s) role:1 play:1
+died intern:1 honor:1 servic:1 product:1 work:1 citi:1 live:2 woman:2 de:2 recogn:1 receiv:1 sinc:1 film:1 cultur:1 art:1 pioneer:1 et:1
+died die:1 age:1
+spouse(s) celebr:1 film:1 director:1 actor:1 regard:1 coupl:1 marri:1
+spouse(s) housew:1 show:1 appear:1 tv:1
+spouse(s) actor:1 marri:1
+spouse(s) children:1 marri:1
+spouse(s) produc:1 record:1 marri:1
+died socialist:1 time:1 district:2 lot:1 elect:1 leav:1 assign:1 man:1
+education graduat:1 attend:1 magna:1 cum:1 bachelor:1 laud:1
+died die:1 hospit:1
+died die:1
+died miner:1 busi:1 magnat:1 builder:1
+died die:1 centr:1 home:1 research:1
+spouse(s) businessman:1 marri:1
+died die:1 cancer:1 age:1
+died graduat:1 collabor:1 lead:1 lectur:1 deliv:1 seri:1
+died die:1
+education ambassador:1 perform:1 professor:1 director:1 group:1
+died practis:1 fell:1 run:1 track:1 rain:1
+spouse(s) own:1 wife:1 assist:1 chain:1 purchas:1
+died star:1 reason:1 tv:1 chang:1 well:1 provid:1 name:1 voic:1 actor:2 becam:1 known:1 role:1 seri:1
+died studio:1 establish:1 eventu:1 return:1
+spouse(s) way:1 behav:1 grant:1 continu:1 reason:1 expect:1 ground:1 nisi:1 husband:1 live:1 could:1
+education current:1
+died death:1 elect:1 serv:2 father:1
+died move:1
+spouse(s) artist:1 exhibit:1 social:1 group:1 marri:1
+education studi:1
+died settl:1 move:1 eventu:1
+died die:1 probat:1
+education major:1 attend:1
+died death:1 care:1 evangelist:1 sent:1 father:1
+died knight:1 serv:1
+died die:1 ill:1 follow:1 birthday:1
+education educ:1
+died die:1 leukemia:1
+died die:1
+died coupl:1 bought:1
+spouse(s) curat:1 life:1 met:1 marri:1 return:1 painter:1 grown:1 would:1 later:1 bore:1 surrealist:1
+spouse(s) donat:1 met:1 campu:1 dedic:1 gymnasium:1 speech:1 introduc:1 famili:1
+resting_place grave:1 buri:1 brother:1 near:1
+died die:1 cancer:1 age:1
+education includ:3 notabl:1 also:1 polit:1 univers:1 drew:1 across:1 sport:1 journalist:1 figur:1 celtic:1 colleg:1 state:1 well:1 player:1 basketbal:1 chancellor:1 singer:1 celebr:1 actor:1 presid:1 servic:1 manag:1
+died illustr:1 met:1 advis:1 possibl:1 move:1 cartoon:1 cartoonist:1 travel:1 featur:1 assess:1 daili:1
+died label:1 seizur:1 imprison:1 labor:1 journalist:1 ideolog:1 power:1 consid:1 music:1 laogai:1 name:1 befriend:1 reform:1 farm:1 rightist:1
+spouse(s) year:1 remain:1 box:1 collect:1 search:1 went:1 effort:1 later:1 bodi:1 widow:1 vain:1
+died die:1 pneumonia:1 age:1
+died studi:1 art:1 paint:1 becam:1 educ:1 age:1 began:1
+education romanc:1 publish:1 book:1 novel:1
+spouse(s) artist:1 met:1 parti:1
+died world:1 time:1 complic:1 endur:1 tour:1 death:1 cancer:1 throat:1 partnership:1 enjoy:1 rocket:1 surgeri:1
+died die:1 age:1 buri:1 heart:1 failur:1
+died die:1 race:1 driver:1
+died buri:1 reach:1 homeland:1 famili:1 sea:1 never:1
+education receiv:1 scienc:1
+died die:1 age:1 becam:1 baroni:1
+spouse(s) actor:1 retir:1 follow:1 stage:1 act:1 playwright:1 marriag:1
+education receiv:1 scholarship:1 journal:1 degre:1 graduat:1
+spouse(s) manslaught:1 minist:1 convict:1 town:1 woman:1 pulpit:1 husband:1 shoot:1
+died live:1 fled:1 near:1
+spouse(s) actor:1 marri:1
+died flown:1
+spouse(s) gay:1 partnership:1 announc:1 marriag:1 openli:1 becam:1 sinc:1 enter:1 marri:1
+died spend:1 rest:1 age:1 follow:1 home:1 life:1 remarri:1 ill:1 nurs:1 never:1 death:1
+spouse(s) wife:1 known:1 best:1 film:1 appear:1
+spouse(s) governor:1 serv:1 marri:1
+died coupl:1 bought:1
+spouse(s) curat:1 life:1 met:1 marri:1 return:1 painter:1 grown:1 would:1 later:1 bore:1 surrealist:1
+died die:1 pneumonia:1 week:1 hospit:1
+education master:1 bachelor:1 degre:2 earn:1
+died forward:1 prop:1 play:1 level:2
+died cancer:1 retir:1 die:1 age:2 act:1
+died serv:1 seat:1 known:1 educ:1 presid:1 princip:1
+died along:1 base:1 decid:1 month:1 men:1 build:1 distanc:1 villag:1
+spouse(s) death:1 wife:1 continu:1 work:2 missionari:1 among:1 began:1
+spouse(s) marri:1
+education origin:1 graduat:1 cum:1 laud:1
+died die:1 age:1 liver:1 failur:1
+spouse(s) child:1 birth:1 ten:1 actor:1 marri:1 day:1
+died die:1 retir:1 later:1 year:1
+spouse(s) follow:1 charact:1 adventur:1 author:1 children:1 book:1 seri:1
+died founder:1 develop:1 estat:1
+spouse(s) children:1 marri:1
+died die:1 age:1
+died neighborhood:1 murder:1
+education graduat:1 pursu:1 studi:1 philosophi:1 continu:1 eventu:1 earn:1
+died hockey:1 began:1
+died die:1 age:1 heart:1 failur:1
+spouse(s) wife:1 met:1 younger:1 champion:1 actress:1 local:1 debat:1 student:1
+died die:1 heart:1 failur:1
+spouse(s) award:1 honor:1 time:1 poet:1 includ:2 won:1 marri:1 essayist:1 cite:1 articl:1 accord:1
+died regiment:1 part:1 troop:1 sent:1 servic:1 defens:1 briefli:1 muster:1
+spouse(s) busi:1 serv:1 father:1 briefli:1 took:1 war:1 marri:1
+spouse(s) marri:1
+died valencian:1 coin:1 refer:1 territori:1 essay:1 statehood:1 catalan:1 claim:1 el:1 term:1
+education human:1 cours:2 work:1 photographi:1 studi:2 univers:1 took:1 psycholog:1
+died settl:1 area:1 year:1 return:1 book:1 set:1
+died die:1
+died die:1 age:1
+education graduat:1 master:1
+education receiv:1 grew:1 born:1 degre:1 bachelor:1 advertis:1 televis:1 radio:1
+died die:1 bodi:1 buri:1 husband:1 besid:1
+spouse(s) die:1
+education graduat:1 earn:1
+died common:1 elect:1
+education brother:1 coach:1 took:1 educ:1 row:1 headmast:1
+died taught:1
+education studi:1 engin:1 lodg:1 famili:1 began:1 professor:1
+died least:1 hunt:1 around:1 rape:1 abduct:1 knife:1 wilder:1 women:1 murder:1
+spouse(s) media:1 known:1 killer:1
+spouse(s) method:1 societi:1 known:1 set:1 research:1 result:1 oppos:1
+spouse(s) daughter:1 sinc:1 marri:1
+spouse(s) busi:1 execut:1 marri:1
+died die:1 rest:1 laid:1
+died yard:1 side:1 work:1 railroad:1 came:1 citi:1
+spouse(s) compani:1 custom:1 went:1 take:1 develop:1 begin:1 form:1 wife:1 busi:1 cours:1 partnership:1 commun:1
+spouse(s) date:1 model:1 began:1
+died year:1 reach:1 meet:1
+died footbal:1 time:1 head:1 coach:2 also:1 school:1 assist:1 basebal:1
+died born:1
+died along:1 accept:1 studi:1 reloc:1 join:1 cite:1 princip:1 graduat:2 famili:1 rift:1 colleg:1 diploma:1
+spouse(s) coupl:1 friend:1 daughter:1 school:1 son:1 marri:1
+education first:1 went:1 degre:2 librari:1 master:1 law:1 inform:1 studi:1 scienc:1 complet:1 earn:1
+died die:1 failur:1 home:1 kidney:1
+died die:1
+spouse(s) marri:1
+education video:1 film:1 photographi:1 studi:1 program:1
+died better:1 show:1 known:1 children:1 broadcast:1 varieti:1
+died announc:1 end:1 broadcast:1 accompani:1 die:1 age:1 memori:1 kidney:1 episod:1 death:1 dedic:1 home:1 relat:1 ill:1 day:1
+spouse(s) actor:1 dissolv:1 marriag:1 later:1 marri:1
+died graduat:1 collabor:1 lead:1 lectur:1 deliv:1 seri:1
+died writer:1 divorc:1 film:1
+spouse(s) husband:1 scandal:1 career:1 abil:1 improv:1 film:1 hurt:1 actor:1 return:1 left:1 act:1 involv:1 erupt:1
+spouse(s) marri:1
+education studi:1
+died die:1
+spouse(s) whose:1 clone:2 scientist:1 success:1 techniqu:1 research:1 gene:2 wife:1 led:1 biologist:1 malign:1 pioneer:1 genet:1 differenti:1
+education studi:1
+spouse(s) born:1 marri:1
+died die:1 year:1 age:1
+spouse(s) design:1 year:1 art:1 director:1 photograph:1 1960:1 album:1 throughout:1 cover:1 marri:1
+died die:1 peac:1 age:1 sleep:1
+died die:1 cancer:1 week:1 birthday:1 home:1
+education receiv:1 born:1 degre:1
+died live:1
+education graduat:1 earn:1
+died hire:1 astronom:1 observatori:1 serv:1 work:1 locat:1 assist:1 west:1 kilometr:1
+resting_place ground:1 buri:1 within:1
+died renown:1 bushrang:1 membership:1
+resting_place bodi:1 buri:1 littl:1 grave:1 day:1 brother:1 stump:1 claim:1
+spouse(s) filmmak:1 aspir:1 marri:1
+died fell:1 die:1 coma:1 home:1
+education receiv:1 scienc:1
+died design:1 retir:1 home:1 de:1 ranch:1 architect:1 lo:1
+spouse(s) actress:1 winifr:1 marri:1
+education attend:1 poetri:1 take:1 drama:1 class:1 school:1
+spouse(s) children:1 actress:1 marri:1
+died graduat:1 attend:1 move:1 follow:1 degre:1 play:1 obtain:1 bachelor:1 colleg:1 school:1 act:1
+spouse(s) wife:1 live:1 actress:1 children:1
+education educ:1
+died die:1 wife:1 crash:1
+died today:1 crime:2 famili:3 known:1 oldest:1
+spouse(s) trial:1 within:1 month:1 judg:1 verdict:1 sentenc:1 order:1 pay:1 defenc:1 cost:1
+died lung:1 cancer:1 buri:1 cigarett:1 die:1 sixti:1 age:1 smoker:1
+education met:1 scholarship:1 collabor:1 began:1 career:1 receiv:1 harpist:1 photographi:2 known:1 school:1 becam:1 duo:1
+spouse(s) episod:1 wife:1 frequent:1
+spouse(s) teach:1 school:1 day:1 student:1 marri:1
+education educ:1
+spouse(s) stay:1 color:1 friend:1 actor:1 confirm:1 collabor:1 relationship:1
+spouse(s) writer:1 actor:1 togeth:1 daughter:1 coupl:1 son:1 marri:1
+died death:1 live:1 son:1 left:1
+spouse(s) correspond:1 histori:1 appoint:1 diplomat:1 professor:1 marri:2
+spouse(s) sinc:1 live:1 husband:1 legal:1 marri:1
+education obtain:1 law:1 degre:1
+education piano:1 transfer:1 time:1 studi:1 harpsichord:1 cord:1 mathemat:1 injuri:1
+died late:1 move:1 famili:1 villag:1 manor:1 hous:1
+education educ:1 publish:1 son:1
+spouse(s) cast:1 husband:1 dalmatian:1 alongsid:1 futur:1
+died citi:1 born:1
+died die:1 born:1
+died wife:1 celebr:1 citi:1 part:1 home:1 concert:2 perform:1 found:1
+spouse(s) lineback:1 relationship:1
+died govern:1 time:1 serv:1 work:1 offic:1 translat:1 graduat:1 move:1 tutor:1 poetri:1 fiction:1 publish:1 almanac:1
+resting_place honor:1 base:1 buri:1 cemeteri:1 lieuten:1 post:1 howev:1 upon:1 colonel:2 request:1
+died die:1 pneumonia:1 histori:1 diseas:1
+spouse(s) lend:1 courtesi:1 actor:1 titl:1 marri:1
+died death:1 resid:1
+education attend:1
+spouse(s) host:1 film:1 maker:1 actor:1 radio:1 marri:1
+education child:1 educ:1
+education laud:1 graduat:1 attend:1 drama:1
+died die:1 leukemia:1 complic:1
+spouse(s) wife:1 rumormong:1 interview:1 investig:1 husband:1 later:1 respons:1 said:1
+died made:1 rumor:1 vocalist:1 ill:1 die:1
+died concert:1 violinist:1 occur:1 debut:1
+spouse(s) children:1 togeth:1 marri:1
+spouse(s) wife:1 marri:1
+died die:1 cancer:1 home:1
+died offic:1 went:1 law:1 open:1
+died seller:1 plaster:1 moulder:1 also:1 cast:1 known:1 father:1 well:1 sign:1 name:1
+died carri:1 everyon:1 near:1 crash:1 staff:1 kill:1 board:1
+spouse(s) marri:1
+died father:1 overdos:1 prescript:1 paracetamol:1 medic:1 hous:1 combin:1 shed:1 garden:1
+died teach:1 theori:1 music:1 went:1 becom:1 composit:2 taught:1 later:1
+spouse(s) wife:1 sitcom:1 star:1
+died suffer:1 match:1 heart:1 attack:1
+spouse(s) arnich:1 wed:1 actor:1 best:1 addit:1 man:1
+resting_place vault:1 bodi:1 urn:1 inter:1 inciner:1 cemeteri:1 famili:1 ash:1 crematorium:1 la:1 day:1
+died first:1 educ:1 later:1 mathemat:1 won:1
+education graduat:1
+spouse(s) shortli:1 year:1 elect:1 partner:1 marri:1
+died world:1 time:1 complic:1 endur:1 tour:1 death:1 cancer:1 throat:1 partnership:1 enjoy:1 rocket:1 surgeri:1
+died die:1 cancer:1 age:1
+spouse(s) broadcast:1
+education educ:1 born:1
+died die:1 hospit:1 age:1
+spouse(s) togeth:1 work:1
+died age:1 reach:1 month:1 near:1 approxim:1 die:1 emerg:1 aneurysm:1 would:1 surgeri:1
+spouse(s) actress:1 marri:1
+died invad:1 forc:1 border:1 commit:1 escap:1 age:1 attempt:1 suicid:1
+education honor:1 graduat:1 attend:1 1980:1 start:1 collabor:1
+spouse(s) born:1 song:1 husband:1 note:1 collabor:1 name:1
+died die:1 age:1 emphysema:1
+spouse(s) scientist:1 marri:1
+died die:1 lung:1 cancer:1
+spouse(s) year:1 actress:1 live:1 togeth:1 marri:1
+spouse(s) marriag:1 son:1 also:1
+education origin:1 school:1 year:1 work:1 thesi:1
+spouse(s) year:1 ceremoni:1 ballerina:1 marri:1
+education teach:1 graduat:1 art:1 degre:1 theater:1 drama:1 credenti:1 academ:1 entitl:1 earn:1
+died critic:2 music:1
+spouse(s) son:1 marri:1
+spouse(s) editor:1 children:1 live:1 husband:2 journal:1 began:1 career:1 marri:1
+education graduat:1 editor:1 degre:1
+died born:1
+spouse(s) produc:1 packag:1
+died die:1 age:1 caus:1 near:1
+died origin:1 descent:1 scholar:1 also:1
+spouse(s) video:1 featur:1
+education go:1 degre:2 master:1 educ:1 gain:1
+education dvm:1 earn:1
+education graduat:1 born:1 physic:1
+died serial:1 killer:1 refer:1 sometim:1
+died poet:1
+spouse(s) form:1 wife:1 home:1 basi:1 surgeon:1 eventu:1 collect:1
+spouse(s) intellig:1 analyst:1 marri:1
+spouse(s) live:1 husband:1 daughter:1
+died children:1 coupl:1 went:1 marri:1
+education graduat:2 receiv:1
+spouse(s) year:1 film:1 companion:1 editor:1 marri:1
+died die:1 age:1 room:1 heart:1 failur:1
+died shortli:1 member:1 join:1 becam:1
+spouse(s) met:1 actor:1 daughter:1 set:1 son:1 marri:1
+spouse(s) attorney:1 campaign:1 help:1 sale:1 surround:1 husband:1 controversi:1 report:1 tie:1 rais:1
+spouse(s) host:1 televis:1 writer:1 marri:1
+died die:1 age:1 heart:1 failur:1
+spouse(s) actor:1 marri:1
+spouse(s) member:1 children:1 marri:1
+education attend:1
+died wife:1 die:1 surviv:1 marriag:1 daughter:1 diseas:1
+died station:1 literatur:1 announc:1 writer:1 drama:1 major:1 began:1 radio:1 career:1 director:1
+spouse(s) minist:1 daughter:1 marri:1
+education receiv:1 born:1 degre:1 master:1
+died admit:1 found:1
+died acr:1 purchas:1 father:1 merchant:1 refinanc:1 name:1
+spouse(s) teacher:1 truste:1 first:1 school:1 chair:2 marri:1
+died born:1 son:1
+spouse(s) wife:1 live:1
+died settl:1 fashion:1 remain:1 concern:1 father:1 tend:1 quit:1 mean:1
+spouse(s) split:1 follow:1 specul:1 rife:1 affair:1
+died die:1 cancer:1 age:1
+spouse(s) wife:1 met:1 take:1 improvis:1 class:1 began:1
+education graduat:1 attend:2 fall:1 upon:1 start:1
+spouse(s) broadcast:1 twice:1 person:1 subsequ:1 televis:1 radio:1 marri:1
+died buri:1 churchyard:1 villag:1 die:1 live:1 sinc:1 household:1 east:1
+education studi:1 twenti:1 autumn:1 admit:1 age:1 complet:1
+died crash:1 car:1 return:1 kill:1 trip:1
+died die:1
+died vassal:1 situat:1
+resting_place scatter:1 ash:1 dictat:1 cremat:1
+died rug:1 tabl:1 intox:1 apart:1 bled:1 accord:1 hit:1 death:1 forehead:1 slip:1 lacer:1 report:1 bedsid:1
+died die:1 move:1 1980:1
+spouse(s) actress:1
+died ordain:1 priest:1
+spouse(s) member:1 rel:1 famili:1 stir:1 friend:1 controversi:1 daughter:1 marri:1
+spouse(s) life:2 releas:1 look:1 trial:1 celebr:1 sequel:1 thinli:1 book:1
+died transfer:1 degre:1 earn:1
+spouse(s) marri:1
+died end:1 war:1 defend:1 return:1 continu:1 valley:1
+died die:1 age:1
+spouse(s) wife:1 daughter:1 busi:1 start:1
+education graduat:1
+spouse(s) marri:1
+education music:1 theori:1 histori:1 studi:1
+died die:1 age:1
+spouse(s) wife:1 home:1 teacher:1 cousin:1 actress:1 econom:1
+education educ:1 born:1 law:1 degre:1
+spouse(s) famili:1 husband:1 sold:1 home:1 move:1
+spouse(s) marri:1
+died die:1
+died die:1 attack:1 age:1 heart:1
+died admit:1 age:1 diagnos:1 diseas:1
+spouse(s) retir:1 marri:1 charter:1 act:1
+spouse(s) marri:1
+education doctor:1 degre:1 bachelor:1 master:1 scienc:1 psycholog:1 earn:1
+died jockey:1 host:1 show:1 disc:1 also:1
+spouse(s) daughter:1 son:1 marri:1
+died die:1 age:1 caus:1 near:1
+education school:1 began:1 career:1
+died die:1 nurs:1 home:1
+spouse(s) episod:1 appear:1 basil:1 marri:1
+died member:1 church:1 death:1 chapter:1
+education offer:1 law:1 degre:2 account:1 master:1 enrol:1 scholarship:1 earn:1
+spouse(s) wife:1 marri:1
+died owner:1 own:1 empir:1 privat:1 ship:1 cousin:1 world:1 largest:1
+education went:1 attend:1 later:1 studi:1 busi:1
+died children:1 move:1 later:1 rais:1
+died card:1 sent:1 mother:1 share:1 decor:1 said:1 annual:1 produc:1 paint:1 bogey:1 except:1 alien:1 artist:1 home:1
+resting_place behalf:1 campaign:1 constitu:1
+died along:1 travel:1 anchor:1 around:1 side:1
+died newspap:1 move:1 began:1 work:1
+died wife:1 race:1 perform:1 includ:1 venu:1 provid:1 also:1 found:1
+spouse(s) skate:1 program:1 actress:1 televis:1 appear:1 partner:1
+spouse(s) wrote:1 public:1 book:1 husband:1 togeth:1 author:1
+died disappear:1 citi:1 nurs:1 student:1
+spouse(s) death:1 judg:1 marshal:1 coupl:1 children:1 togeth:1 marri:1
+spouse(s) teacher:1 wife:1
+died die:1 age:1
+spouse(s) member:1 music:1 folk:1 daughter:1 group:1 marri:1
+died die:1 life:1 later:1 work:1
+died settl:1 wife:1 choreograph:1 artist:1 left:1 becam:1 resid:1
+spouse(s) dancer:1 marri:1
+died along:1 hire:1 immigr:1 head:1 coupl:1 choreograph:1
+died council:1 mayor:1 citi:1 becam:1 elect:1
+died shortli:1 retir:1 reason:1 announc:1 die:1 thereaft:1 health:1
+died receiv:1 sign:1 return:1 letter:1
+died die:1 cancer:1 throat:1
+spouse(s) whose:1 produc:1 show:1 film:1 death:1 news:1 air:1 marri:1
+died die:1 infect:1 treatment:1 tract:1 refus:1
+resting_place inter:1
+education receiv:1 master:1 degre:2 bachelor:1
+spouse(s) die:1 wife:1 year:1
+died end:1 improv:1 cours:1 sent:1 chief:1 becam:1 command:1
+education design:1 graduat:1 went:1 bachelor:1 diploma:1 later:1 get:1
+spouse(s) result:1 marri:1
+education graduat:1
+died die:1 buri:1 cemeteri:1
+died die:1 caus:1 home:1
+spouse(s) repris:1 star:1 film:1 earn:1 role:1
+education studi:1
+education graduat:1 attend:1
+spouse(s) chang:1 lawyer:1 scholar:1 name:1 marri:1
+education educ:1
+spouse(s) common:1 terrac:1 propos:1 marri:1
+died die:1 hospit:1 age:1 heart:1 failur:1
+spouse(s) union:1 trusteeship:1 hand:1 asid:1 led:1 elect:1 place:1 appear:1 set:1
+died die:1 age:1
+spouse(s) releas:1 month:1 highli:1 marri:1 ceremoni:1 public:1 heir:1
+resting_place place:1 took:1 day:1
+died parent:1 film:1 born:1 famili:1 move:1 soon:1 given:1 contract:1 wealthi:1 social:1
+spouse(s) danc:1 show:1 particip:1 realiti:1 also:1
+education busi:1 studi:1 degre:1 bachelor:1 administr:1 institut:1 began:1 earn:1
+spouse(s) tech:1 entrepreneur:1 live:1
+died die:1
+spouse(s) death:1 actress:1 marri:1
+died live:1 year:1
+spouse(s) born:1 son:1 marri:1
+spouse(s) graduat:1 soon:1 marri:1
+education graduat:1 bachelor:1 degre:1 earn:1
+died hotel:1 portion:1 move:1 renov:1
+spouse(s) member:1 wife:1 afterward:1 leader:1 movement:1 lifetim:1 day:1
+spouse(s) produc:1 film:1 marri:1
+education receiv:1 bachelor:1 player:1 degre:1 tuba:1
+died conservatori:1 studi:1 direct:1 composit:1 piano:1
+died die:1 age:1
+died parent:1 class:1 born:1 work:1
+spouse(s) finish:1 time:1 film:1 vacat:1 left:1 marri:1
+spouse(s) live:1 lawyer:1 estat:1 marri:1
+died die:1 near:1
+education panel:1 shortlist:1 book:1 judg:1 categori:1 basi:1 highli:1 medicin:1 commend:1
+spouse(s) graduat:1 soon:1 marri:1
+education graduat:1 bachelor:1 degre:1 earn:1
+died studio:1 born:1 play:1 record:1 sideman:1 jazz:1 session:1
+spouse(s) sweetheart:1 school:1 marri:1
+spouse(s) honor:1 site:1 renam:1 assassin:1 redevelop:1 hundr:1 school:1 accommod:1 street:1
+resting_place buri:1
+died prepar:1 member:1 assassin:1 address:1
+died die:1 age:1 buri:1 complic:1 diseas:1
+died burst:1 tree:1 road:1 flame:1 product:1 around:1 struck:1 assist:1 kill:1 veer:1
+spouse(s) marriag:1 de:1 marri:1
+died suddenli:1 assum:1 colonel:1 die:1 lieuten:1 age:1 diseas:1 promot:1 heart:1 command:1
+spouse(s) sinc:1 actress:1 marri:1
+died south:1 gang:1 cabin:1 robberi:1 cash:1 abscond:1 took:1 shelter:1
+spouse(s) die:1 alon:1 poverti:1 widow:1
+spouse(s) husband:1 film:1 song:1 known:1 best:1 anim:1
+spouse(s) celebr:1 film:1 director:1 actor:1 regard:1 coupl:1 marri:1
+died die:1
+spouse(s) actress:1 marri:1
+spouse(s) journalist:1 court:1 hous:1 ceremoni:1 marri:1
+died illustr:1 fashion:1 born:1 book:1 stori:1 teenag:1 sketch:2 began:1 love:1 colour:1
+died complic:1 relat:1 work:1 die:1 publish:1 diseas:1
+died die:1 hemorrhag:1 interrog:1
+spouse(s) known:1 marriag:1 children:1 woman:1
+spouse(s) produc:1 live:1 marri:1
+died death:1 age:1
+died die:1 inter:1
+resting_place die:1 inter:1
+spouse(s) repres:1 live:1 husband:1 children:1 state:1
+education captain:1 graduat:1 soccer:1 team:1 varsiti:1 women:1
+spouse(s) grab:1 threaten:1 allegedli:1 arrest:1 violenc:1
+spouse(s) wife:1 predict:1 vers:1 ask:1 event:1 divin:1 meet:2
+died die:1 age:1 home:1
+died die:1
+education wrote:1 war:1 magazin:1 colleg:1 edit:1 attend:1 humor:1
+died politician:1
+died death:1 time:1 resid:1 book:1 work:1 well:1 memoir:1
+education year:1 lawyer:1 studi:2 becom:1 return:1 later:1 home:1 attend:1 ambit:1 law:1
+died member:1 team:1 move:1 becam:1 play:2
+education graduat:1 attend:1 rais:1
+spouse(s) friend:1 older:1 met:1 sister:1 court:1
+resting_place lie:1 crypt:1 son:1 wife:1
+died wife:1 state:1 famili:2 son:1 politician:1 includ:1 presid:1 gener:1 historian:1 refer:1 diplomat:1
+died wound:1 enemi:2 continu:1 day:1 posit:1 emplac:1 fire:1 destroy:1
+died governor:1 attack:1 prepar:1 week:1 son:1 heart:1 breakfast:1 post:1 less:1 leav:1 stricken:1 fatal:1
+died die:1 vacat:1 age:1 trip:1
+education taught:1 career:1 earn:1
+spouse(s) midst:1 donat:1 time:1 star:2 also:1 danc:1 met:1
+died illeg:1 live:1 stop:1 chicken:1 rais:1
+died school:1 attend:1 move:1 famili:1 near:1 rear:1 state:1 capit:1
+died along:1 member:1 famili:1 die:1 side:1 age:1
+died die:1 age:1 caus:1
+died die:1 accid:1 hour:1 run:1 perform:1
+spouse(s) star:1 actor:1 formerli:1 also:1 daughter:1 children:1 son:1 marri:1
+spouse(s) children:1 coupl:1 actress:1 marri:1
+spouse(s) childhood:1 friend:1 secretli:1 wish:1 fell:1 mother:1 love:1 becam:1 engag:1
+resting_place buri:1
+died death:1 inspir:1 music:2 includ:1 de:1 work:1 lifetim:1
+spouse(s) wife:1 time:1 met:1
+spouse(s) marri:1 got:1 girlfriend:1 engag:1
+education graduat:1 born:1 famili:1 histori:1 earn:1
+spouse(s) wife:1 live:1 children:1
+education attend:2
+died wife:1 struck:1 district:1 near:1 die:1 car:1 drive:1 standard:1 resid:1 iron:1
+spouse(s) year:1 venezuelan:1 stage:1 daughter:1 actress:1 presid:1 marri:1
+died die:1 pneumonia:1 age:1 hospit:1 complic:1
+died industri:1 technician:1 film:1 work:1 live:1 age:1 sister:1 marri:1
+spouse(s) rose:1 record:1 engin:1 garden:1 marri:1
+spouse(s) manag:1 marri:1 date:1 got:1 start:1
+resting_place place:1 took:1
+died hotel:1 earlier:1 room:1 concert:1 earli:1 hour:1 perform:1 found:1 morn:1
+died die:1 age:1
+died neighborhood:1 home:1 complic:1 die:1 age:1 diseas:1
+education attend:1 go:1
+died die:1 age:1 eighti:1
+spouse(s) wife:1 met:1 univers:1
+spouse(s) divorc:1 player:1
+education meteorolog:1 concentr:1 attend:1 initi:1
+died die:1
+died die:1 suffer:1 surgeri:1 complic:1 leg:1
+spouse(s) wife:1 met:1 follow:1 graduat:1 school:1 marri:1
+education continu:1 enter:1 basebal:1 play:1
+died earlier:1 collect:1 work:1
+education footbal:1 attend:1 scholarship:1
+education bachelor:1 art:1 philosophi:1 minor:1 earn:1
+died bodi:1 bruis:1 villag:1 near:1 specialist:1 depart:1 found:1 edg:1 techniqu:1 discoveri:1 announc:1 relat:1 tortur:1 countri:1 km:1 road:1
+died today:1 studi:1 found:1 research:1 center:1
+spouse(s) painter:1 divorc:1 marri:1
+resting_place die:1 age:1 buri:1 heart:1 failur:1
+died verdict:1 record:1 coron:1 death:1
+died die:1 diseas:1
+resting_place death:1 year:1 follow:1 home:1 leav:1 brother:1 mother:1 journey:1 less:1
+died death:1 year:1 follow:1 home:1 leav:1 brother:1 mother:1 journey:1 less:1
+education educ:1
+died disown:1 born:1 heritag:1 later:1 claim:1 would:1
+education machinist:1 becom:1 factori:1 newspap:1 report:1 drop:1 seaman:1
+education graduat:1 attend:1 receiv:1
+spouse(s) wife:1 date:1 donat:1 made:1 cash:1 univers:1 largest:1
+education member:1 fratern:1 attend:1
+spouse(s) sinc:1 marri:1
+spouse(s) member:1 year:1 date:1 month:1 engag:1 becam:1 marri:1
+education attend:1 year:1
+education graduat:1 attend:1 went:1
+spouse(s) husband:1 repres:1 lawyer:1 speaker:1 profess:1
+spouse(s) year:1 later:1 separ:1
+died abduct:1
+spouse(s) previous:1 leader:1 chairman:1 staff:1 mayor:1 current:1 chief:1
+spouse(s) coupl:1 children:1 marri:1
+died rest:1 time:1 age:1 proprietor:1 friend:1 manner:1 religion:1 prime:1 settlement:1 nativ:1 virgin:1 graveston:1 die:1 incorpor:1 left:1 conscienc:1 sanctiti:1 state:1 promot:1 liber:1 settl:1 remain:1 prospect:1 read:1 near:1 inscript:1 pieti:1 township:1 wilder:1 life:1 employ:1 famili:1 opportun:1 enjoy:1 spot:1
+spouse(s) date:1 began:1 actor:1
+spouse(s) marri:1
+died teach:1 associ:1 move:1 ad:1
+spouse(s) life:1 marri:1 propos:1 marriag:1
+resting_place plot:1 buri:1 famili:1 birthplac:1 near:1 far:1 request:1
+died holiday:1 summer:1 school:1 took:1 job:1
+education pass:1 studi:1 begin:1 exam:1 entranc:1 allow:1 narrowli:1
+spouse(s) die:1 age:1 marri:1
+died death:1 live:1
+died conflict:1 period:1 within:1 includ:1 independ:1 offic:1 confront:1 split:1
+spouse(s) son:1 marri:1
+spouse(s) businessman:1 marriag:1
+resting_place chapel:1 plot:1 buri:1 famili:1 alongsid:1 island:1 brother:1 whereaft:1 father:1 held:1 funer:1
+education attend:1
+education attend:1 sinc:1 live:1
+spouse(s) son:1 marri:1
+died lung:1 wife:1 sleep:1 die:2 reportedli:1 found:1 morn:1
+died daughter:1 reloc:1 hous:1 day:1
+died posit:1 return:1 physiolog:1 lectur:1 took:1 pharmacolog:1
+education graduat:1 attend:1
+died world:1 rout:1 confer:1 die:1 societi:1 give:1 en:1 address:1
+spouse(s) sinc:1 psychotherapist:1 relationship:1
+spouse(s) finish:1 year:1 school:1 separ:1 travel:1 children:1 husband:1 later:1 would:1
+died graduat:1 collabor:1 lead:1 lectur:1 deliv:1 seri:1
+died attend:1 school:1
+education attend:1 school:1
+spouse(s) design:1 fashion:1 twin:1 son:1 marri:1
+resting_place rais:1 household:1 care:1 uncl:1 sent:1 father:1 farm:1 live:1 aunt:1 son:1
+died grant:1 king:1 gave:1 tract:1 build:1 concess:1 railway:1 land:1
+died threw:1 death:1 ranch:1 near:1 parti:1
+spouse(s) marri:1
+died offic:1 alumnu:1 batch:1
+died die:1 buri:1
+education posit:1 theologian:1 hold:1
+spouse(s) children:1 husband:1 horseman:1
+spouse(s) wife:1 surviv:1 daughter:1 twin:1
+spouse(s) belov:1 partner:1 refer:1 director:1
+died die:1
+spouse(s) marri:1
+died neighborhood:1 woman:1 known:1 found:1 posthum:1 murder:1
+resting_place inter:1
+education attend:1 school:1 start:1
+died die:1 promis:1 publish:1 work:1
+died captur:1 invas:1 execut:1
+spouse(s) member:1 along:1 wife:1 duo:1
+education graduat:1 born:1
+spouse(s) husband:1 collabor:1 screenwrit:1 recognis:1
+died bookstor:1 proprietor:1
+resting_place buri:1
+died move:1 accept:1 posit:1 faculti:1
+education educ:1 privat:1
+died die:1
+spouse(s) journalist:1 daughter:1 marri:1
+died death:1 live:1 time:1
+died execut:1
+died fellow:1 death:1
+spouse(s) worker:1 busi:1 announc:1 plan:1 develop:1 year:1 marri:2
+spouse(s) curat:1 webcom:1 chapter:1 chairman:1 husband:1 illustr:1 author:2
+died train:1 forc:1 actor:1 enrol:1 servic:1 stint:1
+education receiv:1 educ:1
+spouse(s) actor:1 marri:1
+education campu:1 act:1 enrol:1 becam:1 group:1 involv:1
+died marrow:1 follow:1 transplant:1 leukemia:1 relaps:1 bone:1 diagnos:1 accord:1
+education graduat:1 seri:1 televis:1 host:1
+spouse(s) divorc:1 marri:1
+died birthday:1 die:1 facil:1 live:1 day:1 ailment:1 heart:1 morn:1
+spouse(s) marri:1
+spouse(s) studio:1 cameo:1 along:1 concept:1 home:1 featur:1 album:1 primarili:1 record:2
+spouse(s) partner:1 marri:1
+education graduat:1 studi:1 philosophi:1
+died rector:1
+education attend:1
+spouse(s) shortli:1 death:1 marri:1 father:1
+died die:1
+died hemangiopericytoma:1 move:1 die:1 live:1 treatment:1 eventu:1
+died die:1 heart:1 failur:1
+spouse(s) becam:1 costar:1
+spouse(s) previous:1 produc:1 wife:1 delus:1 play:1 acclaim:1 critic:1 haunt:1
+education receiv:1
+died retrial:1 date:1 court:1 declar:1 jeopardi:1 appli:1 set:1
+spouse(s) design:1 adopt:1 coupl:1 openli:1 sinc:1 son:1 marri:1
+spouse(s) wife:1 releas:1 entitl:1 memoir:1 author:1
+education graduat:2 immigr:1 degre:1 ancestri:1 father:1 own:1 mother:1 cum:1 attend:1 laud:1
+spouse(s) actress:1 marri:1
+died attend:1 born:1
+spouse(s) painter:1 portrait:1 marri:1
+education graduat:1 theori:1 statist:1 major:1 mathemat:1 physic:1 minor:1
+died studi:1 move:1 howev:1 uncl:1 lack:1 continu:1 school:2 provinc:1
+died die:1 age:1 cruis:1 ship:1
+died die:1 hospit:1 age:1 failur:1
+died die:1 age:1
+resting_place born:1
+died die:1 age:1 aneurysm:1 brain:1
+spouse(s) grew:1 husband:1 includ:1 ceremoni:1 actor:1 credit:1 televis:1 held:1 marri:1
+died die:1 age:1 buri:1
+died die:1 year:2 live:1 health:1 declin:1
+died die:1 age:1
+died die:1 age:1 home:1
+spouse(s) marri:1 met:1 would:1 year:1 work:1
+education obtain:1 manag:1 engin:2 degre:1
+spouse(s) hit:1 comedi:1 film:1 lover:1 receiv:1 written:1 husband:1 nomin:1 adapt:1
+died die:1 hospit:1 morn:1
+died film:1 home:1 visit:1
+resting_place buri:1 famili:1
+died built:1 stay:1 gallow:1 execut:1 ground:1 prior:1 date:1
+spouse(s) marri:1
+resting_place ground:1 inter:1 ash:1 within:1
+died attack:1 studi:1 home:1 read:1 die:1 heart:1
+education move:1 famili:1 enrol:1
+died open:1
+education energet:1 earn:1
+died graduat:1 collabor:1 lead:1 lectur:1 deliv:1 seri:1
+education graduat:1 attend:1
+spouse(s) born:1 son:1 marri:1
+education receiv:1 scienc:1 degre:1 bachelor:1
+died rector:1 univers:1 elect:1 professor:1 reloc:1
+resting_place inter:1 plot:1 afterward:1
+died assassin:1
+education graduat:1 join:1 born:1
+died hall:1 trial:1 strip:1 follow:1 drag:1 citi:1 taken:1 heel:1 hors:1
+died die:1 cancer:1 age:1 home:1
+died die:1 age:1
+died die:1 age:1
+died die:1 age:1
+spouse(s) affili:1 accept:1 anchor:1 posit:1 vice:1 sinc:1 presid:1 marri:1
+education graduat:2 econom:1 work:1
+died previous:1 display:1 wooden:1 surviv:1 sinc:1 clock:1 collect:1
+spouse(s) scienc:1 haut:1 philosoph:1 de:1 wife:1 en:1 feminist:1 professor:1 social:1 author:1
+died wife:1 live:1 children:1 father:1
+spouse(s) year:1 girlfriend:1 politician:1 present:1 offici:1 junior:1
+died die:1 age:1 buri:1
+education studio:1 year:2 spent:1 studi:2 also:1
+died first:2 born:1 arriv:1 team:1 age:1 scene:1 link:1
+education receiv:1
+died die:1 age:1 home:1
+died bestsel:1 finalist:1 book:1
+died die:1 blockag:1
+spouse(s) marri:1
+education footbal:1 scholarship:1 earn:1
+spouse(s) could:1 cheapli:1 fund:1 wife:1 lack:1 item:1 crew:1 mostli:1 buy:1 consist:1 equip:1 cast:1 prop:1 made:1 alreadi:1 short:1
+education transfer:1 attend:1 school:1
+spouse(s) marri:1
+died year:1 retir:1 go:1 sole:1 work:1 offic:1 held:1 devot:1 world:1 wife:1 post:1 write:1 relat:1 return:1
+spouse(s) gay:1 went:1 law:1 protest:1 process:1 marriag:2
+spouse(s) children:1 marri:1
+education first:1 grew:1 age:1 go:1 citi:1 boy:1 attend:1 born:1 follow:1 grammar:1 studi:1 school:2
+died die:1
+spouse(s) reform:1 author:1 marri:1
+died settl:1 return:1 leas:1 relationship:1 took:1 resum:1
+resting_place die:1 buri:1
+spouse(s) daughter:1 mentor:1 keeper:1 marri:1
+died landfal:1 island:1 week:1 largest:1 around:1 made:1 sail:1 archipelago:1
+education employ:1 attend:1 move:1 famili:1 father:1 farm:1 school:1 paid:1
+died die:1
+education receiv:1 degre:1 doctor:1
+died mope:1 hit:1 truck:1 near:1 kill:1 filmmak:1
+died along:1 fire:1 astronaut:1 test:1 die:1 mission:1
+resting_place buri:2
+education degre:1
+education graduat:1 philosophi:1 degre:1
+died first:1 jay:1 sportswrit:1 assign:1 report:1 cover:1 women:1
+resting_place die:1 inter:1 age:1
+died die:1 hospit:1
+resting_place funer:1 cremat:1
+died retreat:1 formerli:1 protect:1 near:1 independ:1 career:1 territori:1 surrend:1 duress:1 head:1 domin:1 repatri:1 coast:1 branch:1 state:1
+died use:1 invent:1 within:1 home:1 work:1 made:1 workshop:1 room:1
+resting_place ground:1 buri:1
+died head:1 rush:1 doctor:1 clot:1 remov:1 perform:1 later:1 blood:1 surgeri:1
+spouse(s) wife:1 state:1
+spouse(s) son:1 marri:1
+died year:1 live:1
+spouse(s) partner:1 marri:1
+spouse(s) actor:1 marri:1
+spouse(s) produc:1 divorc:1 husband:1 year:1 marriag:1
+education magazin:1 graduat:1 publish:1
+spouse(s) met:1 marri:1 work:1
+education attend:1 born:1 twin:1
+education graduat:1 age:1 school:1 enter:1
+spouse(s) produc:1 year:1 star:2 execut:1 direct:1
+spouse(s) daughter:1 son:1 marri:1
+education earn:1 pursu:1 art:1 degre:1 father:1 profession:1 encourag:1 chose:1 howev:1
+spouse(s) movi:1 estrang:1 son:1 make:1 columnist:1 told:1 de:2 gossip:1 kill:1 sister:2 day:1
+spouse(s) trainer:1 attend:1 flight:1 son:1 marri:1
+spouse(s) print:1 met:1 born:1 audit:1 ad:1 model:1 son:1 marri:1
+spouse(s) nativ:1 met:1 recal:1 casual:1 marri:1
+spouse(s) danc:1 met:1 children:1 instructor:1
+education attend:1 studi:1 owe:1 class:1 lowest:1 result:1 level:1
+spouse(s) perdon:1 year:1 amar:1 well:1 work:1 lobo:1 caido:1 son:1 credit:1 telenovela:1 actor:1 name:1 de:2 share:1 te:1 volver:1 angel:1 marri:1
+education school:1 scholarship:1 board:1
+spouse(s) marri:1 year:1 advis:1 coupl:1 becam:1 engag:1
+spouse(s) year:1 date:1 later:1 almost:1 began:1 marri:1
+resting_place graduat:1 attend:1 school:1 play:1 footbal:1
+spouse(s) councilor:1
+education year:2 degre:1 work:1 miner:1 bachelor:1 summer:1 coal:1 take:1 even:1 graduat:1 union:1 account:1 school:2 earn:1
+education graduat:1 research:1 conduct:1
+spouse(s) bestsel:1 sinc:1 report:1 author:1 marri:1
+education graduat:1 studi:1 hold:1 degre:1 master:1 journal:1
+spouse(s) person:1 marri:1
+resting_place inter:1 plot:1
+spouse(s) special:1 lawyer:2 law:1 husband:1 tax:1
+spouse(s) graduat:1 studi:1 editor:1 writer:1
+education graduat:1 year:1 spent:1 join:1
+spouse(s) marri:1
+spouse(s) sinc:1 voic:1 actor:2 marri:1
+education attend:1
+education educ:1
+education graduat:1 attend:1 school:1 follow:1
+spouse(s) daughter:1 marri:1
+spouse(s) philanthropist:1 marri:1
+resting_place tuberculosi:1 ocean:1 island:1 die:1 locat:1 citi:1 capit:1
+spouse(s) year:1 later:1 daughter:1 marri:1
+spouse(s) describ:1 novel:1 written:1 also:1 thursday:1 granddaught:1 wife:1 write:1 beauti:1 experi:1 publish:1 debut:1 author:1
+education receiv:1 went:1
+spouse(s) son:1 marri:1
+education receiv:1 releas:1 appoint:1 state:1 attend:1 duti:1
+spouse(s) wife:1 time:1 marri:1 inspector:1 work:1 met:1 tax:1
+spouse(s) newspap:1 sinc:1 son:1 editor:1 marri:1
+education educ:1
+spouse(s) partner:1 marri:1
+spouse(s) actress:1 daughter:1 actor:1
+education graduat:1 degre:1
+spouse(s) model:1 divorc:1 de:1 marri:1
+education kid:1 graduat:1 camera:1 show:1 behind:1 work:1 front:1 produc:1 creat:1 parent:1 host:1
+education graduat:1 move:1
+education receiv:1 biolog:1 art:1 doctor:1 degre:2 bachelor:1 chiropractor:1
+spouse(s) columnist:1 technolog:1 marri:1
+spouse(s) perdon:1 year:1 amar:1 well:1 work:1 lobo:1 caido:1 son:1 credit:1 telenovela:1 actor:1 name:1 de:2 share:1 te:1 volver:1 angel:1 marri:1
+spouse(s) senat:1 state:2 take:1 offic:1 allow:1 held:1 duti:1 wife:1 invok:1 temporarili:1 law:1 leav:1 replac:1 servic:1 officehold:1 absenc:1 session:1
+spouse(s) member:1 children:1 marri:1
+education attend:1
+resting_place rais:1 household:1 care:1 uncl:1 sent:1 father:1 farm:1 live:1 aunt:1 son:1
+education educ:1 born:1
+education educ:1
+resting_place inter:1 held:1 funer:1
+education educ:1
+spouse(s) entrepreneur:1 daughter:1 togeth:1 marri:1
+spouse(s) husband:1 actress:1
+spouse(s) met:1 actress:1 marri:1
+education age:1 move:1 attend:1 back:1
+education graduat:1 born:1
+spouse(s) journalist:1 wife:1 cancer:1 die:1
+spouse(s) base:1 stori:1 advanc:1 written:1 develop:1 mark:1 seri:1
+spouse(s) design:1 win:1 tv:1 product:1 marriag:1
+resting_place inter:1 ash:1 cremat:1
+spouse(s) star:1 direct:1
+education graduat:1
+education prepar:1
+spouse(s) year:1 later:1 daughter:1 marri:1
+resting_place buri:1 name:1
+spouse(s) marri:1
+spouse(s) marri:1
+education honor:1 graduat:1 attend:1 privat:1 tutor:1 half:1 set:1 school:1 year:1 attribut:1
+spouse(s) year:1 born:1 daughter:1 later:1 novelist:1 marri:1
+resting_place buri:1
+education consid:1 state:1 mother:1 best:1 colleg:1 women:1
+spouse(s) marri:1
+resting_place die:1 leukemia:1 buri:1 cemeteri:1
+spouse(s) cousin:1 marri:1
+education attend:1
+spouse(s) daughter:1 marri:1
+education graduat:1
+spouse(s) blog:1 interview:1 gave:1 site:1 ordeal:1
+spouse(s) marri:1
+spouse(s) divorc:1 actor:1 marri:1
+resting_place remain:2 buri:1 besid:1
+spouse(s) actress:1 announc:1 engag:1
+spouse(s) place:1 took:1 ceremoni:1 marri:1
+education educ:1 school:1
+spouse(s) sinc:1 marri:1
+spouse(s) even:1 inspir:1 sinc:1 trip:1 sing:1 encourag:1 car:1 career:1
+spouse(s) voic:1 actress:1 marri:1
+education adult:1 obtain:1 journal:1 student:1 degre:1
+spouse(s) wrote:1 star:1 film:2
+spouse(s) marri:1
+resting_place wife:1 buri:1 son:1 near:1 child:1
+spouse(s) children:1 businessman:1 sinc:1 politician:1 marri:1
+education histori:1 studi:1 philosophi:1 degre:1 bachelor:1 leav:1 school:1 earn:1
+education receiv:1 age:1
+education member:1 boy:1 school:3 studi:1 frame:1 ft:1 champion:1 follow:1 team:1 help:1 state:1 complet:1 basketbal:1
+spouse(s) famili:1 parlor:1 reportedli:1 hous:1 plain:1 marri:1
+spouse(s) marri:1
+education receiv:1 offer:1 play:1 tenni:1 hometown:1 school:1 chose:1 attend:1
+education receiv:1 born:1 degre:1
+spouse(s) cousin:1 remov:1 marri:1
+resting_place buri:1 estat:1
+spouse(s) actor:1 marri:1
+education graduat:1 surgeon:1 serv:1 medicin:1 practic:1
+education receiv:1 born:1 law:1 degre:1 school:1 thereaft:1 state:1
+education letter:1 attend:1 footbal:1 play:1 also:1 safeti:1 team:1 golf:1 year:1
+spouse(s) nephew:1 marri:2 subsequ:1 screenwrit:1 actress:1 anoth:1
+spouse(s) lunchtim:1 host:1 ceremoni:1 podcast:1 take:1 person:1 profession:1 announc:1 would:1 name:1 marri:1
+education attend:1 born:1 studi:1 medicin:1
+spouse(s) singer:1 sinc:1 actor:1 marri:1
+spouse(s) band:1 marri:1
+education attend:2 scholar:1 mentor:1 film:1 school:1 year:1
+education master:1 right:1 law:1 degre:1
+spouse(s) xenogear:1 also:1 well:1 work:1 marri:1
+spouse(s) divorc:1 marri:1
+spouse(s) marri:1
+spouse(s) along:1 wife:1 version:1 fold:1 print:2 zine:1 found:1 act:1
+spouse(s) implic:1 execut:1 husband:1 later:1
+spouse(s) marri:1
+resting_place hill:1 inter:1 set:1 atop:1 pyramid:1
+spouse(s) met:1 mill:1 philanthropist:1 visit:1 proprietor:1 fell:1 daughter:1 love:1 textil:1
+spouse(s) met:1 husband:1 director:1 age:1 marri:1
+education attend:1 compet:1 twice:1 colleg:1 school:1 year:1
+spouse(s) wife:1 live:1 children:1 father:1
+resting_place violinist:1
+spouse(s) design:1 death:1 partner:1
+education major:1 attend:1 music:1 graduat:1
+spouse(s) time:1 fragment:1 howev:1 war:1 thing:1 irretriev:1 mention:1 camp:1 husband:1 baptism:1 process:1 year:1 correspond:1 format:1 letter:1 experi:1 gone:1 end:1 differ:1 everyth:1 despair:1 ghetto:1
+resting_place buri:1
+education laud:1 graduat:1 earn:1
+spouse(s) still:1 ride:1 love:1 career:1 end:1 wife:1 activ:1 quell:1 alongsid:1 accid:1 enjoy:1 rodeo:1 hors:1
+education leader:1 went:1 point:1 rider:1 colleg:1 rodeo:1 becam:1 univers:1
+education obtain:1 scholarship:1
+spouse(s) cousin:1 move:1 widow:1 marri:1
+resting_place inherit:1 acr:1 includ:1 land:1 approxim:1
+education enrol:1 includ:1 elect:1
+spouse(s) architect:1 marri:1
+spouse(s) appear:1 marri:1
+spouse(s) photograph:1 announc:1 engag:1
+education graduat:1 bachelor:1 scienc:1 degre:1 earn:1
+spouse(s) attorney:1 children:1
+spouse(s) media:1 known:1 killer:1
+spouse(s) die:1 impresario:1 marri:1
+spouse(s) wife:1 born:1 son:1
+education graduat:1 attend:1
+spouse(s) children:1
+education attend:1 select:1 later:1 return:1
+education attend:1 school:1
+spouse(s) marri:1
+education attend:1
+spouse(s) actress:1 marri:1
+spouse(s) team:1 state:1 proceed:1 marri:1
+spouse(s) wife:1 live:1 sinc:1 marri:1
+education mathemat:1
+spouse(s) children:1 marri:1
+spouse(s) year:1 film:1 take:1 drama:1 also:1 novel:1
+education attend:1 pursu:1 studi:1 literatur:1 left:1 school:1 later:1 prior:1 career:1 complet:1
+resting_place wife:1 buri:1
+spouse(s) child:1 marri:1
+resting_place wife:1 surviv:1 inter:1 daughter:1
+education graduat:1 born:1 establish:1 practic:1
+resting_place threw:1 famili:1 birthday:1 jet:1 girlfriend:1 seat:1 flew:1 includ:1 guest:1 parti:1
+spouse(s) singer:1 marri:1
+spouse(s) marri:1
+education busi:1 state:1 went:1 work:1 grammar:1 left:1 age:1 school:1
+spouse(s) remain:1 artist:1 childless:1 divorc:1 later:1 marri:2
+education educ:1
+spouse(s) voic:1 husband:1 actor:1 also:1
+spouse(s) born:1 actor:1 son:1 improvis:1 live:1 togeth:1 marri:1
+spouse(s) attorney:1 husband:1 month:1 divorc:1 marri:1
+spouse(s) marri:1
+spouse(s) actress:1 marri:1
+education graduat:1 studi:1 academi:1 year:1 transfer:1
+resting_place came:1 age:1 born:1 move:1
+spouse(s) wife:1 live:1
+education complet:1 physic:1
+spouse(s) marri:1
+resting_place inter:1
+spouse(s) actress:1 marri:1
+spouse(s) daughter:1 singer:1 name:1 marri:1
+spouse(s) daughter:1 time:1 actress:1 adopt:1 marri:1
+spouse(s) wife:1 cooper:1 custom:1 ownership:1 transfer:1
+spouse(s) member:1 mayor:1 serv:1 anoth:1
+spouse(s) collabor:1 research:1
+education award:1 graduat:1 studi:1 scholarship:1 mathemat:1
+spouse(s) babi:1 live:1 husband:1
+spouse(s) wrestler:1 announc:1 marriag:1
+spouse(s) husband:1 children:1
+education member:1 receiv:1 educ:1 shower:1 meteor:1
+education govern:1 graduat:1 attend:1 degre:1
+spouse(s) sourc:1 valu:1 marri:1 fortun:1 presid:1 accord:1
+education post:1 educ:1 move:1 graduat:1
+spouse(s) widow:1 regist:1 professor:1 nurs:1 player:1 basebal:1
+spouse(s) husband:1 includ:1 work:1 film:2 nation:1 best:1 actress:1
+resting_place buri:1
+spouse(s) week:1 elect:1 husband:1 took:1 name:2 marri:1
+spouse(s) marri:1
+resting_place mausoleum:1 entomb:1 later:1 held:1 funer:1 day:1
+spouse(s) marri:1
+spouse(s) tag:1 team:1 manag:1 form:1
+education earn:1 attend:2 music:1 get:1 degre:1 return:1 leav:1 coupl:1 year:1 said:1
+spouse(s) wife:1 marri:1
+education award:1 govern:1 studi:1 move:1 scholarship:1
+spouse(s) die:1 marri:1
+spouse(s) wife:1 seri:1 well:1 book:1 creator:1
+spouse(s) marri:1
+spouse(s) children:1 name:1 marri:1
+education receiv:1 born:1 degre:1
+spouse(s) son:1 marri:1
+spouse(s) wife:1 met:1 class:1 act:1
+spouse(s) wife:1 live:1 actress:1 children:1
+education educ:1
+spouse(s) tenni:1 activist:1 marri:1 profession:1 player:1 commun:1
+education graduat:1 program:1 accept:1 degre:1 decis:1
+spouse(s) parent:1 wife:1 triplet:1 becam:1
+spouse(s) hero:1 epic:1 actor:1 marri:1
+spouse(s) case:1 model:1 divorc:1 name:1
+education studi:1
+resting_place buri:1 remain:1 cremat:1 ash:1 father:1
+education graduat:1 earn:1 suburb:1 rais:1
+education employ:1 attend:1 move:1 famili:1 father:1 farm:1 school:1 paid:1
+education attend:1 art:1 pursuit:1 perform:1 began:1 career:1 act:1
+education receiv:1 chemistri:2 art:1 degre:1 bachelor:1 master:1
+resting_place rais:1 household:1 care:1 uncl:1 sent:1 father:1 farm:1 live:1 aunt:1 son:1
+education studi:1
+education studi:1 move:1 ordain:1 theolog:1 priest:1
+education honor:2 receiv:1 art:1 bachelor:1 polici:1
+education child:1 move:1 famili:1 degre:1 receiv:1 bachelor:1 graduat:1
+education graduat:1 busi:1 grandfath:1 start:1
+education graduat:1
+education dramatiqu:1 graduat:1
+education graduat:1 later:1
+education receiv:1 born:1 degre:1 magna:1 cum:1 laud:1
+education member:1 execut:1 govern:1 becam:1 board:1
+education receiv:1 master:1 degre:2 bachelor:1
+resting_place parent:1 rest:1 close:1 grave:1 wive:1 laid:1
+education excel:1 prize:1 mathemat:1 educ:1 gain:1 academ:1
+education member:1 leader:1 educ:1 planter:1 occupi:1
+education educ:1 born:1
+education graduat:1 attend:1 born:1 degre:1 bachelor:1
+education attend:1 school:1 enrol:1
+resting_place induct:1
+education discharg:1 attend:1 follow:1
+education sibl:1 graduat:1 attend:1 school:1 rais:1 primarili:1 oldest:1 commun:1
+education award:1 art:1 attend:1 scholarship:1
+education teacher:1 attend:1 continu:1 class:1 offer:1 drama:1 danc:1 act:1 time:1 student:1 would:1
+resting_place buri:1
+education graduat:1
+education ceremoni:1 studi:1 navig:2 pwo:1 master:1 school:1 initi:1 presid:1 culmin:1
+education studi:1 degre:1
+education sibl:1 graduat:1 attend:1 school:1 rais:1 primarili:1 oldest:1 commun:1
+education obtain:1 assist:1 law:1 degre:1 work:1 briefli:1 professor:1 econom:2
+education grew:1 attend:1
+resting_place buri:1
+education attend:1 move:1 famili:1 eventu:1
+education fellow:1 member:1 attend:1 school:1 studi:1 staff:1
+education graduat:2 econom:1 work:1
+education recipi:1 attend:1 welfar:1 later:1 mother:1 becam:1
+education biochemistri:1 neurochemistri:1 studi:1
+education mathemat:1 degre:1 bachelor:1
+education design:1 fashion:1 compani:1 base:1 graduat:1 known:1 also:1 founder:1 cloth:1
+education receiv:1 studi:1 degre:1 bachelor:1
+education complet:1 supervis:1
+education graduat:1 attend:1
+education graduat:1 medicin:1 doctor:1
+education graduat:1 de:1 hold:1 languag:1
+resting_place buri:1 alongsid:1
+education graduat:1 attend:1 school:1 ultim:1 would:1
+resting_place grave:1 templ:1
+education coin:1 wide:1 studi:1 dog:1 phrase:1 educ:1 bark:1 put:1 tax:1 moo:1 credit:1
+resting_place use:1 collieri:1 keep:1 pit:1 also:1 leas:1 quantiti:1 coal:1 encount:1 engin:1 suppli:1 sink:1 seam:1 water:1
+education attend:1 chemistri:1 studi:1 tast:1 lectur:1 develop:1 academi:1 medicin:1
+resting_place inter:1 plot:1 afterward:1
+education graduat:1 join:1 born:1
+education honor:1 graduat:1 art:1 twin:1 brother:1 earn:1 scienc:1 commun:1
+education graduat:1 degre:1 hold:1 master:1
+education settl:1 year:1 move:1 return:1 later:1 coupl:1 children:1 attend:1
+resting_place inter:1
+education graduat:1 top:1 class:1
+resting_place along:1 member:1 bodi:1 buri:1 follow:1 ceremoni:1 famili:1 attend:1
+education receiv:1 scienc:1
+resting_place humanist:1 bodi:1 famili:1 cremat:1 friend:1 attend:1 funer:1
+education area:1 grew:1 went:1
+education graduat:1 year:1 degre:1 well:1 enough:1 enter:1 score:1 credit:1
+education serv:1 class:1 democrat:1 graduat:1 program:1 head:1 particip:1 educ:1 school:1 classmat:1 branch:1 presid:1 establish:1
+education shortli:1 graduat:1 live:1 trip:1
+education graduat:1 rais:1
+education design:1 scienc:1 attend:1 consum:1 class:1 sale:1 took:1 busi:1 cloth:1
+education actor:1 theatr:1 includ:1 join:1 train:1 group:1
+education graduat:1 financ:1 degre:1 bachelor:1 econom:1 commerc:1
+resting_place mother:1 buri:1 brother:1
+resting_place die:1 lung:1 cancer:1 age:1 inter:1
+education graduat:1 earn:1
+education educ:1
+education graduat:1 call:1 music:1 cappella:1 director:1 also:1 major:1 univers:1 arrang:1 group:1 sang:1
+education graduat:1 broadcast:1 degre:1 bachelor:1 made:1 affili:1 journal:1 debut:1
+resting_place inter:1 follow:1
+resting_place buri:1 held:1 funer:1
+education paper:1 archiv:1 mater:1 held:1 work:1
+resting_place servic:1 place:1 held:1 burial:1 take:1
+education enter:1 time:1 institut:1 fall:1
+resting_place inter:1 ash:1 bed:1 cremat:1
+education studi:1 also:1 offic:1 work:1 consist:1 obtain:1 attend:2 show:1 cours:1 paint:1 job:1 art:1 born:1
+resting_place inter:1 mausoleum:1 famili:1
+education tore:1 athlet:1 put:1 student:1 end:1 ligament:1 subsequ:1 shoulder:1 earn:1 scholarship:1 colleg:1 day:1
+education receiv:2 honour:1 philosophi:1 univers:1 scholar:2 educ:1 gain:1
+education educ:1 move:1 famili:1 outbreak:1
+education school:1 educ:1 state:1 grammar:1
+resting_place governor:2 death:1 inter:1 buri:1 follow:1 also:2 younger:1 father:1 son:1
+education instructor:1 follow:1 bachelor:1 assist:1 becam:1 physic:1 earn:1
+education graduat:1 year:1 spent:1 went:1
+resting_place inter:1 garden:1
+education contest:1 write:1 essay:1 die:1 won:1 enter:1 sponsor:1
+resting_place buri:1
+education studi:1 went:1 paint:1 receiv:1
+education degre:1 hold:1
+education educ:1
+education attend:1
+education major:1 time:1 minor:1 select:1
+resting_place die:1 inter:1 age:1
+education major:1
+education drama:1 leav:1 won:1 school:1 place:1 gain:1
+education won:1 studi:1 scholarship:1 econom:1
+resting_place die:1 inter:1 home:1 heart:1 failur:1
+resting_place inter:1 follow:1 telecast:1 process:1
+resting_place peac:1 week:1 birthday:1 sleep:1 near:1 die:1 resid:1
+education studi:1 went:1
+education cum:1 laud:1 histori:1 summa:1
+education graduat:1 school:1 countri:1 theater:1 center:1 taught:1 lectur:1 abroad:1 level:1 across:1 commun:1
+education pass:1 attend:1 gain:1 anoth:1
+education receiv:1 degre:1
+education receiv:1 went:1 later:1 studi:1 graduat:1
+education art:1 achiev:1 bachelor:1
+education local:1 educ:1 continu:1 degre:1 graduat:1
+education graduat:1 attend:1
+education written:1 studi:1 novel:1
+resting_place buri:1 estat:1
+resting_place die:1 buri:1
+education receiv:1 born:1 degre:1
+education graduat:1 attend:1 degre:1 bachelor:1 colleg:1 scienc:1
+resting_place churchyard:1 year:1 buri:1 apoplexi:1 home:1 die:1 list:1 becam:1 monument:1 memori:1
+education life:1 degre:1 graduat:1 return:1 enrol:1 market:1
+education graduat:1 attend:1 later:1 amd:1
+education graduat:1
+education writer:1 politician:1
+education studio:1 home:1 artist:1 glass:1 becam:1 student:1
+education obtain:1 servic:1 matura:1 subsequ:1 complet:1
+education attend:1
+resting_place die:1 buri:1
+education geoscienc:3 doctor:1 degre:3 bachelor:1 master:1 scienc:2
+education magazin:1 graduat:1 publish:1
+education attend:1 time:1
+resting_place wish:1 bodi:1 buri:1 return:1 wife:1 belov:1
+education graduat:1 initi:1
+education class:1 educ:1 born:1 famili:1 later:1
+education graduat:1 attend:1
+resting_place buri:1
+education studi:1
+resting_place church:1 later:1 held:1 funer:1 day:1
+education graduat:1
+resting_place die:1 cancer:1 buri:1 kidney:1
+education design:1 declar:1 year:1 apparel:1
+education graduat:1 attend:1 earn:1
+education crewman:1 boat:1 waiter:1 construct:1 work:1 shrimp:1 graduat:1 worker:1
+resting_place die:1 cancer:1 buri:1 kidney:1
+education educ:1 took:1
+education develop:1 follow:1 law:1 footstep:1 interest:1 mother:1 enrol:1
+education graduat:1 studi:1 scienc:1 degre:1 bachelor:1
+resting_place buri:1 held:1 funer:1
+education honor:1 graduat:1 grew:1
+education laud:1 graduat:2 went:1 later:1 attend:1
+education graduat:1 journal:1 went:1 degre:1 receiv:1
+education transfer:1 attend:1 school:1
+education receiv:1 studi:1
+education receiv:1
+education qualifi:1 career:1 medicin:1 start:1
+education educ:1 follow:1
+education receiv:1 field:1 architectur:1 degre:2 graduat:1
+education attend:1 later:1 complet:1 educ:1 hate:1
+education educ:1
+education speech:1
+resting_place buri:1
+education graduat:1 attend:1 later:1 amd:1
+education train:1 move:1
+education extens:1 graduat:1 met:1 born:1 cours:1 journal:1 took:1 student:1
+education parent:1 congressman:1 dollar:1 elect:1 educ:1 mayor:1 pocket:1 hitchhik:1
+education graduat:1 attend:1 internship:1 write:1 becom:1 becam:1 school:1 chef:2 land:1
+resting_place death:1 attend:1 famili:1 ceremoni:1 burial:1 friend:1 held:1 day:1
+resting_place buri:1
+education taught:1 anchor:1 recommend:1 look:1 aunt:1 news:1 class:1 take:1
+education graduat:1 attend:1 scienc:1 degre:1
+education flute:1 studi:1
+education athlet:1 receiv:1 track:1 degre:1 bachelor:1
+education graduat:1 attend:1
+education educ:1 born:1 other:1
+education honor:1 receiv:1 art:1 degre:1 bachelor:1 literatur:1 highest:1
+education master:1 journal:1 psycholog:1 degre:1 earn:1
+education graduat:1 grew:1 famili:1
+education design:1 graduat:1 magna:1 cum:1 master:1 entrepreneur:1 laud:1
+education del:1 journal:1
+education opera:1 voic:1 intens:1 serv:1 well:1 also:1 danc:1 becam:1 train:2 actress:1
+education mathemat:1 studi:2 graduat:1
+resting_place buri:1
+resting_place dedic:1 home:1 shop:1 ground:1 part:1 tailor:1
+education storytel:1 style:1 film:1 tv:1 includ:1 organ:1 util:1
+education host:1 divis:1 spent:1 report:1 year:1
+resting_place inter:1
+education graduat:1 educ:1
+education child:1 inspir:1 school:1 went:1 establish:1 work:1 train:1 ever:1 receiv:1 attend:1 pioneer:1 scholarship:1
+education born:1 work:1 offic:1 youngest:1 project:1 manag:1
+education origin:1 want:1 telegraph:1 school:1 work:1 although:1 encourag:1 father:1 attend:1 oper:1
+resting_place buri:1 held:1 funer:1
+education honor:1 graduat:1 grew:1
+resting_place retir:1 buri:1 cir:1 die:1 brother:1 bed:1 children:1 shortli:1 twice:1 home:1 daughter:1 marri:1
+education attend:1
+resting_place dedic:1 home:1 shop:1 ground:1 part:1 tailor:1
+education transfer:1 degre:1 obtain:1 major:1 enrol:1 later:1
+resting_place die:1 pneumonia:1 inter:1
+education receiv:1 master:1 degre:2 bachelor:1
+education graduat:2 econom:1 work:1
+education attend:1 born:1 twin:1
+education colleg:1 attend:1
+education graduat:1
+education cum:1 laud:1 philosophi:1 summa:1
+education graduat:1 manag:1 degre:1
+education cinematograph:1 film:1 director:1
+resting_place die:1 cancer:1 buri:1 kidney:1
+education receiv:1
+education fratern:1 attend:1 art:1 theater:1 degre:1 graduat:1 bachelor:1 servic:1 brother:1
+education receiv:1 born:1 degre:1
+education teach:1 graduat:1 attend:1 receiv:1 degre:2 bachelor:1 scienc:2 histori:1 certif:1 master:1
+education transfer:1 attend:1
+education graduat:1 attend:1 film:1 program:1 art:1
+education colleg:1 state:2 follow:1 degre:1 bachelor:1 educ:1 school:2 town:1 earn:1
+resting_place year:1 servic:1 honour:1 altern:1 sinc:1 everi:1 held:1
+education graduat:1 attend:1 briefli:1 famili:1 drop:1 school:1
+education actor:1 theatr:1 includ:1 join:1 train:1 group:1
+education graduat:1 scienc:1
+education attend:1 studi:1 subsequ:1 degre:1 master:1 follow:1 scienc:1 statist:1
+education graduat:1 attend:1 histori:1 major:1 doubl:1 scienc:1
+education want:1 studi:1 went:1 realis:1 creat:1 shoe:1
+resting_place place:1 servic:1 took:1
+resting_place inter:1
+education graduat:1 attend:2
+education drama:1 graduat:1 attend:1 theatr:1 major:1
+education award:1 year:1 pursu:1 art:1 degre:1 rais:1 live:1 scholarship:1 colleg:1 women:1
+resting_place buri:1
+education receiv:1 art:1 degre:1 bachelor:1 mother:1 wrote:1 alma:1 mater:1 thesi:1
+education graduat:1 educ:1 econom:1 degre:1
+education movi:1 school:1 began:1 career:1
+resting_place parent:1 graduat:1 move:1
+education graduat:1 complet:1
+education receiv:1 attend:1 histori:1 degre:1 bachelor:1
+resting_place war:1 buri:1 veteran:1 issu:1 headston:1
+education join:1
+education train:1
+education transfer:1
+education graduat:1 move:1 philosophi:1 read:1 work:1 polit:1 began:1 econom:1 journalist:1
+resting_place mausoleum:1 entomb:1 ladi:1
+education graduat:1 financ:1 degre:1 earn:1
+education took:1 move:1 famili:1 posit:1 father:1
+resting_place cremain:1 buri:1
+education class:1 educ:1 born:1 famili:1 later:1
+education attend:1 earn:1 studi:1 year:1 complet:1
+education attend:1 scholarship:1 rais:1
+education receiv:1 degre:1 master:1
+education magazin:1 educ:1 school:1 student:1 work:1
+education illustr:1 produc:1 specimen:1 arriv:1 draw:1 guidanc:1 experi:1 plant:1 acquir:1
+education opera:1 graduat:1 join:1 soap:1
+education graduat:1
+education graduat:1 school:1 philosophi:1 obtain:1
+education attend:1
+education studi:1 sculptur:1 ceram:1
+education scholarship:1 studi:1
+education theori:1 interest:1 read:1 work:1 lack:1 mathemat:1 took:1 develop:1 quit:1 upon:1 educ:1 scienc:1
+resting_place inter:1
+education brought:1 educ:1
+education educ:1 town:1
+education receiv:2 train:1 art:1 won:1
+education receiv:1 degre:1
+resting_place deceas:1 inde:1 still:1 offic:1 actress:1 appear:1 claim:1 rumor:1 death:1 certif:1 buri:1 follow:1 daughter:1 confirm:1 respond:1
+education renam:1 degre:1 also:1 younger:1 father:1 found:1 year:1 receiv:1 attend:1 direct:1 master:1 earn:1
+resting_place death:1 buri:1 daughter:1 later:1 join:1 widow:1 upon:1
+education educ:1
+education studi:1 current:1
+education graduat:1 bachelor:1 degre:1 earn:1
+education solo:1 exhibit:1 cours:1 complet:1 held:1
+education educ:1 born:1 read:1
+education receiv:1
+education peac:1 studi:2 chang:1 valu:1 stabil:1 enter:1 could:1 rule:1 mind:1 geometri:1 mathemat:1 nobodi:1 got:1 subject:1 say:1
+education graduat:1 grew:1 attend:1
+education graduat:1 attend:1 school:1 studi:1 degre:1
+education member:1 execut:1 govern:1 becam:1 board:1
+resting_place made:1 hear:1 vision:1 experienc:1 balanc:1 loss:1 renov:1 appear:1
+education transfer:1
+education graduat:1
+education receiv:1 attend:1 art:1 degre:1 speech:1 bachelor:1
+education age:1 dentistri:1 degre:1 earn:1
+education receiv:1 educ:1 studi:1
+education member:1 receiv:1 presid:1 degre:1 societi:1
+education novic:1 year:1 hous:1 becom:1 left:1 priest:1 enter:1 attend:1 intent:1
+education attend:1
+education receiv:1 educ:1 degre:1
+education honor:1 receiv:1 engin:1 marin:1 degre:1 bachelor:1 highest:1 state:1 scienc:2 graduat:1
+resting_place inter:1 follow:1
+education graduat:1
+education receiv:1
+education receiv:1 art:1 degre:1 doctor:1 bachelor:1 editor:1
+education transfer:1 attend:1 school:1
+resting_place buri:1
+education graduat:1 girl:1 follow:1 degre:1 centr:1 educ:1 school:1 town:1 commut:1 day:1
+education join:1 year:1 geophys:1 read:1 physic:1
+education educ:1
+education attend:1
+education graduat:1 attend:1 scienc:1 degre:1
+education class:1 went:1 speak:1
+education receiv:1
+education receiv:1 degre:1
+education attend:1 school:1
+resting_place design:1 properti:1 cemeteri:1
+education enrol:1 return:1
+education receiv:1 busi:1 associ:1 art:1 degre:3 graduat:1 master:1 agricultur:1 bachelor:1
+education graduat:1 model:1 work:1
+education born:1 studi:1
+education graduat:1 attend:1 state:1 thirteen:1 number:1
+education graduat:1 nurs:1
+resting_place gravesid:1 inter:1 ceremoni:1 held:1
+education member:1 attend:1
+education obtain:1 engin:1 degre:1
+education illustr:1 attend:1 recognit:1 yearbook:1 school:1 creat:1 gain:1
+education lanc:1 boy:1 villag:1 near:1 graduat:1 educ:1 school:1 board:1
+education receiv:1 scienc:1
+resting_place wide:1 copi:1 reform:1 introduc:1 school:1 number:1 headmast:1
+education educ:1
+education attend:2 campaign:1 work:1 leav:1 began:1 year:1
+education attend:1 studi:1 literatur:1 won:1 theolog:1 fellowship:1 act:1
+education went:1 psycholog:1 read:1
+education media:1 art:1 instal:1 studi:1
+education transfer:1 attend:1 alumnu:1 receiv:1
+education graduat:1 attend:1 valedictorian:1 transfer:1 class:1 scholarship:1 summer:1 basebal:1 term:1
+resting_place origin:1 activ:1 famili:2 near:1 rais:1 although:1 mother:1 right:1 involv:1 tenant:1
+education educ:1
+resting_place buri:1
+education graduat:1 attend:1 later:1
+education graduat:1 enrol:1 fall:1 spring:1
+education began:1 studi:2 across:1 art:1
+education engin:1 studi:1 softwar:1 comput:1
+education member:1 graduat:1 soror:1 degre:1 bachelor:1 earn:1
+education board:1 serv:1 current:1
+education firstli:1 near:1 educ:1 school:1 board:1 secondli:1
+education settl:1 area:1 degre:1 frequent:1 admit:1 live:1 briefli:1 artist:1
+education time:1 enrol:1 studi:2 musicolog:1
+education program:1 conservatori:1 complet:1 act:1
+education area:1 receiv:1 attend:1 grow:1
+resting_place held:1 de:1
+resting_place buri:1 famili:1 monument:1
+education attend:1
+education graduat:1 commiss:1 infantri:1 work:1 assign:1 state:2 report:1
+education master:1 architectur:1
+education began:1 histori:1 studi:1 act:1
+education graduat:1 attend:1
+education friend:1 studi:1 famili:1 portraitur:1 art:1 larg:1 briefli:1 live:1
+education member:1 footbal:1 play:1 also:1 fratern:1 chapter:1 becam:1
+education educ:1 school:1
+education graduat:1 attend:1 later:1 degre:1
+education graduat:1 histori:1 art:1 cum:1 enrol:1 laud:1
+resting_place buri:1
+education attend:1 school:1
+education sibl:1 graduat:1 attend:1 school:1 rais:1 primarili:1 oldest:1 commun:1
+education educ:1
+education receiv:1 born:1 degre:1
+resting_place buri:1 graveyard:1
+education drama:1 class:1 decid:1 attend:1
+education special:1 born:1 studi:1 rehabilit:1 underw:1 school:1 town:1
+education earn:1 attend:2 music:1 get:1 degre:1 return:1 leav:1 coupl:1 year:1 said:1
+education obtain:1 univers:1 archaeolog:1 degre:1 bachelor:1
+education award:1 class:1 scholarship:1 student:1
+resting_place wife:1 buri:1
+education graduat:1 receiv:1
+resting_place buri:1
+education station:2 produc:1 director:1 work:1 news:1 televis:1 report:1 radio:2
+education member:1 photograph:1 encourag:1 studi:1 offer:1 friend:1 movement:1 space:1 photographi:1 studio:1
+resting_place war:1 buri:1 veteran:1 issu:1 headston:1
+education move:1 scienc:1 degre:1 histori:1
+resting_place cremat:1 ash:1 mingl:1 churchyard:1 cemeteri:1 brother:1
+resting_place inter:1 crypt:1
+resting_place inter:1
+education polit:1 receiv:1 also:1
+education recipi:1 winner:1 scholarship:1 graduat:1
+resting_place reburi:1 remain:1 exhum:1 famili:1 reloc:1
+education pupil:1 music:1 becam:1 centuri:1 figur:1
+education graduat:1
+education attend:1 school:1 locat:1
+education graduat:1 attend:1 studi:1
+resting_place de:1 held:1 funer:1
+resting_place year:2 buri:1 birth:2 give:1 du:1 tombston:1
+education brought:1 educ:1
+education attain:1 graduat:1 dux:1
+education classmat:1 studi:1
+education parent:1 studi:1 spent:1 week:1 visit:1

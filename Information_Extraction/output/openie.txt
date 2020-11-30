@@ -1,0 +1,716 @@
+The album was released on October 14, 2008 through The Militia Group.
+0.92 (The album; was released; T:on October 14, 2008)
+
+Deliverance is the second full album from the American rock band Quietdrive.
+0.39 (band Quietdrive; [is] rock [from]; United States)
+0.94 (Deliverance; is; the second full album from the American rock band)
+
+All songs written by Kevin Truckenmiller.
+0.92 (All songs; written; by Kevin Truckenmiller)
+
+So many great songs!
+
+He is well published having published many articles in both the Proceedings of the Estonian Academy of Sciences and in the various sections of Physical Review .
+0.61 (He; is well published having published; many articles in both the Proceedings of the Estonian Academy of Sciences)
+
+This was for his contribution to the development of stochastical physics in the area of noise-induced phase transitions and transfer phenomena.
+0.42 (This; was; for his contribution to the development of stochastical physics in the area of transfer phenomena)
+0.42 (This; was; for his contribution to the development of stochastical physics in the area of noise - induced phase transitions)
+
+Sariputta comprehended, gaining sotapanna, the first stage of arahanthood after hearing the teachings, which implied the Four Noble Truths.
+0.86 Context(Sariputta comprehended,List([0, 22))):(Sariputta; comprehended gaining; sotapanna; T:after hearing the teachings)
+0.73 (Sariputta; comprehended; )
+0.90 (the teachings; implied; the Four Noble Truths)
+
+Nikos Boutzikos   is a Greek footballer who plays for Olympiakos Volos in Gamma Ethniki.
+0.93 (a Greek footballer; plays; for Olympiakos Volos in Gamma Ethniki)
+0.95 (Nikos Boutzikos; is; a Greek footballer)
+
+On 25 January 2007, Boutzikos signed a 5-year professional contract with Panathinaikos.
+0.96 (Boutzikos; signed; a 5-year professional contract with Panathinaikos; T:On 25 January 2007)
+
+ Nebria eschscholtzii is a species of ground beetle in the family Carabidae.
+0.95 (Nebria eschscholtzii; is; a species of ground beetle in the family Carabidae)
+
+It is found in North America.
+0.50 (It; is found; L:in North America)
+
+It contains 20 historic buildings.
+0.45 (It; contains; 20 historic buildings)
+
+The Ocala Historic Commercial District is a U.S.
+0.96 (The Ocala Historic Commercial District; is; a U.S.)
+
+In July 2005, following Cineplex's acquisition of main rival Famous Players Theatres, the group was put up for sale.
+0.97 (the group; was put up; for sale; T:In July 2005; T:following Cineplex's acquisition of main rival Famous Players Theatres)
+
+He was a member of the National Constitutional Assembly from 1848 to 1849 and a member of the Landsting from 1849 to 1862, representing the National Liberal Party.
+0.88 (He; was a member of; the Landsting)
+0.96 (a member of the Landsting from 1849 to 1862; representing; the National Liberal Party)
+0.57 (He; was; a member of the Landsting from 1849 to 1862)
+0.88 (He; was a member of; the National Constitutional Assembly)
+0.68 (He; was; a member of the National Constitutional Assembly from 1848 to 1849)
+
+Another touristic attraction is famous annual manifestation "Dec Party" where people around the world gather and pay money for large group sex.
+0.73 Context(Another touristic attraction is,List([0, 31))):(people around the world; gather; )
+0.93 (Another touristic attraction; is; famous annual manifestation " Dec Party)
+0.91 (people around the world; pay; money; for large group sex)
+0.93 (Dec Party " where; pay; money; for large group sex)
+0.93 (Another touristic attraction; is; famous annual manifestation)
+
+Zaostrog was called "Ostrog" in the Middle Ages and was one of the larger towns of the Narentines.
+0.95 (Zaostrog; was; one of the larger towns of the Narentines)
+0.92 (Zaostrog; was called; Ostrog; in the Middle Ages)
+
+Zaostrog  is a tourist town and harbour along the Adriatic Sea in southern Dalmatia, Croatia.
+0.95 (Zaostrog; is; a harbour along the Adriatic Sea in southern Dalmatia)
+0.97 (Zaostrog; is; a tourist town along the Adriatic Sea in southern Dalmatia)
+
+She became CEO in March 2003, when Lars Bertmar resigned his position as CEO to become Chairman of the company.
+0.93 (Lars Bertmar; to become; Chairman of the company)
+0.89 (Lars Bertmar; resigned; his position as CEO; to become Chairman of the company)
+0.50 (She; became; CEO; T:in March 2003)
+
+ The Napoleon of Notting Hill is a novel written by G. K. Chesterton in 1904, set in a nearly unchanged London in 1984.
+0.99 (Napoleon of Notting Hill a novel set in a nearly unchanged London in 1984 .; is written in; 1904)
+0.95 (Napoleon of Notting Hill; set; L:in a nearly unchanged London; T:in 1984)
+
+Michael Collins, who led the fight for Irish independence from British Rule, is known to have admired the book.
+0.91 (Michael Collins; to have admired; the book)
+0.76 (Michael Collins; is known; )
+0.94 (Michael Collins; led; the fight for Irish independence from British Rule)
+
+The novel is also quoted at the start of Neil Gaiman's novel Neverwhere.
+0.88 (The novel; is quoted; at the start of Neil Gaiman's novel)
+
+Both the novel and Chesterton's The Man Who Was Thursday are referenced in the 2000 video game Deus Ex.
+0.93 (Chesterton 's The Man; are referenced; L:in the 2000 video game)
+0.95 (Chesterton 's The Man; Was; T:Thursday)
+0.91 (Both the novel; are referenced; L:in the 2000 video game)
+
+It postulates an impersonal government, not described in any detail, but apparently content to operate through a figurehead king, randomly chosen.
+0.72 (a figurehead king; randomly chosen; )
+0.57 (It; postulates; an impersonal government , not apparently content to operate through a figurehead king)
+0.90 (an impersonal government; not described; L:in any detail)
+0.45 (It; postulates; an impersonal government , not described in any detail)
+
+To amuse himself, he institutes elaborate costumes for the provosts of the districts of London.
+0.61 (he; institutes; elaborate costumes for the provosts of the districts of London)
+
+Although the novel is set in the future, it is, in effect, set in an alternative reality of Chesterton's own period, with no advances in technology or changes in the class system or attitudes.
+0.64 (it; is; in effect; set in an alternative reality of Chesterton 's own period)
+0.48 (it; is; in effect)
+0.90 (the novel; is set; T:in the future)
+
+There has been speculation that the setting of the book prompted the date chosen for the setting of George Orwell's Nineteen Eighty-Four.
+0.90 (the date; chosen; for the setting of)
+0.93 (the setting of the book; prompted; the date chosen for the setting of)
+
+All are bored by the King's antics except for one earnest young man who takes the cry for regional pride seriously – Adam Wayne, the eponymous Napoleon of Notting Hill.
+0.92 (one earnest young man; takes; the cry for regional pride seriously - Adam Wayne)
+0.43 (All; are bored; by the King's antics)
+
+The dreary succession of randomly selected Kings of England is broken up when Auberon Quin, who cares for nothing but a good joke, is chosen.
+0.76 (Auberon Quin; is chosen; )
+0.91 (Auberon Quin; cares; for nothing but a good joke; T:is chosen)
+0.98 (The dreary succession of randomly selected Kings of England; is broken up; T:when Auberon Quin, who cares for nothing but a good joke, is chosen)
+
+He left for Japan in 1961.
+0.57 (He; left; for Japan; T:in 1961)
+
+He grew up in south-eastern France where he spent his childhood and adolescence.
+0.37 (he; spent; his adolescence)
+0.37 (he; spent; his childhood)
+0.50 (He; grew up; L:in south - eastern France)
+
+He conducted his graduate studies in Lyon.
+0.35 (He; conducted; his graduate studies; L:in Lyon)
+
+He lives two years in Louisiana in New Orleans, then two years in New York City.
+0.50 (He; lives; T:two years; L:in Louisiana in New Orleans)
+
+e has worked in La Nouvelle French Revue .
+0.84 (e; has worked; L:in La Nouvelle French Revue)
+
+Jean Pérol  is a French novelist and poet.
+0.94 (Jean Pe'rol; is; a French poet)
+0.94 (Jean Pe'rol; is; a French novelist)
+
+He returned in 1989 before returning to Kabul and Afghanistan for two years.
+0.46 (He; before returning; to Afghanistan; T:for two years)
+0.50 (He; returned; T:in 1989; T:before returning to Afghanistan for two years)
+0.46 (He; before returning; to Kabul; T:for two years)
+0.50 (He; returned; T:in 1989; T:before returning to Kabul for two years)
+
+preferring to think of themselves as a tribe.
+
+The etymology of the place name  is uncertain.
+0.87 (The etymology of the place name; is; uncertain)
+
+It is housed in three historic Wealden barns - an Administration Barn, Information Barn  and Education Barn - that were conveyed to the site and rebuilt there in the early 1980s.
+0.93 (an Administration Education Barn; were rebuilt; L:there; L:in the early 1980s)
+0.93 (an Administration Education Barn; were conveyed; to the site)
+0.93 (an Administration Information Barn; were rebuilt; L:there; L:in the early 1980s)
+0.93 (an Administration Information Barn; were conveyed; to the site)
+0.91 (three historic Wealden barns; were rebuilt; L:there; L:in the early 1980s)
+0.91 (three historic Wealden barns; were conveyed; to the site)
+0.45 (It; is housed; in three historic Wealden barns)
+
+Coordinates: 51°04′10′′N 0°01′30′′E﻿  51.06933; 0.02504 Wych Cross is a location in Ashdown Forest, in the Wealden district of East Sussex.
+0.96 (0.02504 Wych Cross; is; a location in Ashdown Forest)
+
+The Ashdown Forest Centre, the head office of the Conservators of Ashdown Forest, is situated at Wych Cross just half a mile east of the crossroads.
+0.96 (The Ashdown Forest Centre; is situated; at Wych Cross just half a mile east of the crossroads)
+
+Roberta Bonanomi Maria Canins Francesca Galli Nadezhda Kibardina Svetlana Rozhkova Laima Zilporite Phyllis Hines Jane Marshall Leslie Schenk Sandra Schumacher Jutta Niehaus Viola Paulitz Els Mertens Sylvie Slos Kristel Werckx Alison Sydor Denise Kelly Laural Zilke Paula Westher Christina Vosveld Maria Höljer Monique Knol Karin Schuitema Cora Westland Martina Navratilova Ildiko Paczova Jarmila Snahnicanova Hanne Rasmussen Lona Munck Helle Sörensen Astrid Danielsen Wencke Jansen May Britt Valand Claire Greenwood Maria Blower Judith Painter Catherine Marsal Cécile Odin Anny Rebière Source
+0.88 (Catherine Marsal Ce'cile Odin Anny Rebie; [is] Painter [of]; Roberta Bonanomi Maria Canins Francesca Galli Nadezhda Kibardina Svetlana Rozhkova Laima Zilporite Phyllis Hines Jane Marshall Leslie Schenk Sandra Schumacher Jutta Niehaus Viola Paulitz Els Mertens Sylvie Slos Kristel Werckx Alison Sydor Denise Kelly Laural Zilke Paula Westher Christina Vosveld Maria Höljer Monique Knol Karin Schuitema Cora Westland Martina Navratilova Ildiko Paczova Jarmila Snahnicanova Hanne Rasmussen Lona Munck Helle Sörensen Astrid Danielsen Wencke Jansen May Britt Valand Claire Greenwood Maria Blower Judith)
+
+The women's team time trial of the 1988 UCI Road World Championships cycling event took place on 27 August 1988 in Renaix, Belgium.
+0.96 (The women's team time trial of the 1988 UCI Road World Championships cycling event; took; place; T:on 27 August 1988; L:in Renaix)
+
+The day after being arrested, along with Pearl Ladderbanks, for vandalizing Jacob's Fold, it was revealed in the Hotton Courier that his real first name is Percy.
+0.72 Context(it was revealed,List([90, 105))):(his real first name; is; Percy)
+0.69 (it; was revealed; L:in the Hotton Courier; T:The day after being arrested; T:along with Pearl Ladderbanks, for vandalizing Jacob's Fold)
+
+By mid 1916, the situation was becoming increasingly pressing for the German army.
+0.89 (the situation; increasingly pressing; for the German army)
+0.94 (the situation; was becoming; increasingly pressing for the German army; T:By mid 1916)
+
+It was also hoped that it would give Germany some form of influence within the neutral Netherlands.
+0.43 Context(It was hoped,List([0, 17))):(it; would give; Germany; some form of influence within the neutral Netherlands)
+0.14 (It; was hoped; that it would give Germany some form of influence within the neutral Netherlands)
+
+It could also call on up to 80,000 soldiers.
+0.45 (It; could also call; on up to 80,000 soldiers)
+
+This leads to an unfortunate notational confusion where some recursion theorists reverse the direction of the forcing partial order (exchanging      ≻  P     {\displaystyle \succ _{P}}   with      ≺  P     {\displaystyle \prec _{P}}    which is more natural for Cohen forcing but is at odds with the notation used in set theory.
+0.90 (the notation; used; L:in set theory)
+0.70 (which is more natural for; is; at odds with the notation)
+0.97 (some recursion theorists; reverse; the direction of the forcing partial order ( exchanging ≻ P { \displaystyle \succ _ { P } } with ≺ P { \displaystyle \prec _ { P } } which is more natural for is at odds with the notation; L:an unfortunate notational confusion)
+0.91 (the forcing partial order; exchanging; ≻ P { \displaystyle)
+0.77 (Cohen; forcing; )
+0.95 (some recursion theorists; reverse; the direction of the forcing partial order; L:an unfortunate notational confusion)
+0.87 (≺ P; is; more natural for Cohen forcing)
+0.38 (This; leads; to an unfortunate notational confusion)
+
+Conceptually the two techniques are quite similar: in both one attempts to build generic objects  by meeting dense sets.
+0.78 (the two techniques; are; quite similar)
+
+In the 100 m freestyle competition he was eliminated in the semi-finals and in the 400 m freestyle contest he was eliminated in the first round.
+0.45 (he; was eliminated; T:in the first round)
+0.99 (he; was eliminated In; 100 m freestyle competition)
+0.55 (he; was eliminated; L:In the 100 m freestyle competition)
+
+He was born in Szeged.
+0.50 (He; was born; L:in Szeged)
+
+Rezső Wanié  was a Hungarian swimmer who competed in the 1928 Summer Olympics.
+0.91 (a Hungarian swimmer; competed; L:in the 1928 Summer Olympics)
+0.96 (Wanie; was; a Hungarian swimmer who competed in the 1928 Summer Olympics)
+
+People with the given name or surname include:
+0.77 (People with the surname; include; )
+0.79 (People with the given name; include; )
+
+Veitch died in 1722, the day after William.
+0.80 (Veitch; died; T:in 1722)
+
+The United States Food and Drug Administration  classifies and regulates caramel color in Title 21 CFR § 73.85 as an approved color additive exempt from certification.
+0.95 (The United States Drug Administration; regulates; caramel color in Title 21; as an approved color additive exempt from certification)
+0.95 (The United States Food Administration; regulates; caramel color in Title 21; as an approved color additive exempt from certification)
+0.83 (The United States Drug Administration; classifies; )
+0.83 (The United States Food Administration; classifies; )
+
+He became a professor of piano at the École Niedermeyer, and later at the Paris Conservatoire, where his pupils included Maurice Ravel and Ricardo Viñes.
+0.79 (his pupils; included; Ricardo Vin~es; L:the Paris Conservatoire)
+0.79 (his pupils; included; Maurice Ravel; L:the Paris Conservatoire)
+0.49 (He; became later; a professor of piano at the E'cole Niedermeyer)
+
+Ravel dedicated his Rapsodie espagnole to Charles-Wilfrid de Bériot.
+0.88 (Ravel; dedicated; his Rapsodie espagnole; to Charles-Wilfrid de Be'riot)
+
+Mitre Square, viewed from near the site of the Eddowes murder.
+0.93 (Mitre Square; viewed; from near the site of the Eddowes murder)
+
+Made from cow milk, Molbo cheese is semi-hard in texture.
+0.94 (Molbo cheese; is; semi-hard in texture)
+
+National Action Party Jalisco is a state branch of the National Action Party , founded in Jalisco in 1939 by Efrain González Luna.
+0.88 (Jalisco; [is] Party [of]; National Action)
+0.96 (National Action Party Jalisco; is; a state branch of the National Action Party)
+
+Coordinates: 53°57′10′′N 19°33′14′′E﻿  53.95278; 19.55389
+
+Before 1945 the area was part of Germany .
+0.96 (the area; was; part of Germany; T:Before 1945)
+
+Kiss Daniel won the Best New Act to Watch award while Praiz won the Best R&B Act award after he toppled the likes of Banky W, Chidinma, Seyi Shay, Timi Dakolo and Shaydee.
+0.50 (he; toppled; the likes of Shaydee)
+0.91 (Praiz; won; the Best R&B Act award; T:after he toppled the likes of Shaydee)
+0.50 (he; toppled; the likes of Timi Dakolo)
+0.91 (Praiz; won; the Best R&B Act award; T:after he toppled the likes of Timi Dakolo)
+0.50 (he; toppled; the likes of Seyi Shay)
+0.91 (Praiz; won; the Best R&B Act award; T:after he toppled the likes of Seyi Shay)
+0.50 (he; toppled; the likes of Chidinma)
+0.91 (Praiz; won; the Best R&B Act award; T:after he toppled the likes of Chidinma)
+0.50 (he; toppled; the likes of Banky W)
+0.91 (Praiz; won; the Best R&B Act award; T:after he toppled the likes of Banky W)
+
+Winners are highlighted in bold.
+0.75 (Winners; are highlighted; L:in bold)
+
+The award was held at the Skirball Center for the Performing Arts, New York City, U.S.A and was hosted by Osas Ighodaro and Ice Prince.
+0.92 (The award; was hosted; by Ice Prince)
+0.92 (The award; was hosted; by Osas Ighodaro)
+0.92 (The award; was held; L:at the Skirball Center for the Performing Arts)
+
+Wizkid claimed the most awards while Olamide received the most nominations with three across 39 award categories.
+0.92 (Olamide; received; the most nominations)
+0.96 (Wizkid; claimed; the most awards while Olamide received the most nominations with three across 39 award categories)
+
+Below is the list of nominees and winners for the popular music categories.
+0.61 (Below; is; the list of winners for the popular music categories)
+0.61 (Below; is; the list of nominees for the popular music categories)
+
+His new identity was confirmed by the courts in Arolsen  on 8 January 1907.
+0.70 (His new identity; was confirmed; by the courts in Arolsen  on 8 January 1907)
+
+Body.
+
+Karl Baer retained the middle initial "M", ostensibly stemming from "Martha", to connect him to his earlier publications under the name "M Baer".
+0.93 (Karl Baer; ostensibly stemming; from "Martha)
+0.94 (Karl Baer; retained; the middle initial "M)
+
+Baer had initially been sent to Galicia for two years; he returned to Germany after only one, having attracted censure for his male body language, argumentative style, and forceful advocacy of the cause.
+0.40 (he; returned; to Germany; T:after only one; having attracted censure for his forceful advocacy of the cause)
+0.29 (he; returned; to Germany; T:after only one; having attracted censure for his argumentative style)
+0.93 Context(he returned,List([56, 67))):(Baer; had been sent; to Galicia; T:for two years; T:after only one; T:initially)
+0.29 (he; returned; to Germany; T:after only one; having attracted censure for his male body language)
+
+He was created Earl of Effingham on 8 December of that year, and made a Deputy Earl Marshal on 13 December.
+0.99 (He; was made on; 13 december)
+0.99 (He; was created on; 8 december)
+0.27 (He; was created; T:Earl of Effingham; T:on 8 December of that year)
+
+Thereafter he played mainly in the reserve team, helping to develop younger players.
+0.29 Context(he played mainly,List([11, 27))):(he; played mainly helping; to develop younger players)
+0.53 (he; played mainly; L:in the reserve team; T:Thereafter)
+
+In the 2007–08 UEFA Cup, Walter Smith booked Rangers' first European final for 36 years, after an exit in the UEFA Champions League group stage on the final day after good results against VFB Stuttgart, Olympique Lyonnais and FC Barcelona.
+0.98 (Walter Smith; booked; Rangers ' first European final; T:for 36 years; T:after an exit in the UEFA Champions League group stage on the final day after good results against FC Barcelona; L:In the 2007-08 UEFA Cup)
+0.98 (Walter Smith; booked; Rangers ' first European final; T:for 36 years; T:after an exit in the UEFA Champions League group stage on the final day after good results against Olympique Lyonnais; L:In the 2007-08 UEFA Cup)
+0.98 (Walter Smith; booked; Rangers ' first European final; T:for 36 years; T:after an exit in the UEFA Champions League group stage on the final day after good results against VFB Stuttgart; L:In the 2007-08 UEFA Cup)
+
+A pelvic injury meant he moved into coaching at Dundee United, working for manager Jim McLean, while he also took charge of the Scotland under-18 and under-21 teams.
+0.45 (he; also took; charge of the under - 18)
+0.44 Context(A pelvic injury meant,List([0, 21))):(he; moved; into coaching at Dundee United)
+0.84 (A pelvic injury; meant; he moved into coaching at Dundee United)
+0.50 (he; also took; charge of the Scotland)
+0.46 (he; working; for manager Jim McLean)
+
+Coordinates: 50°38′36′′N 17°19′40′′E﻿  50.64333; 17.32778
+
+This Album made him very popular and he won many awards for it including the Best Pop Male Vocalist in the 1996 Screen Awards and the Channel V Viewers Choice Award .
+0.52 (he; won; many awards)
+0.87 (This Album; made; him very popular)
+
+His two other half-brothers had died before being ten years of age; thus, he was his parents' only son.
+0.67 Context(he was,List([74, 80))):(His two other half-brothers; had died; T:before being ten years of age)
+0.31 (he; was; his parents' only son)
+0.69 (His two other half-brothers; before being; ten years of age)
+
+In March 2007 the Indonesian transport ministry, under huge political pressure to improve air safety in Indonesia, warned it would close seven airlines unless they improved training and maintenance within the following three months.
+0.93 (the Indonesian transport ministry; warned; it would close seven airlines unless they improved maintenance within the following three months; L:In March 2007; L:under huge political pressure)
+0.62 (they; improved; maintenance; T:within the following three months)
+0.39 Context(the Indonesian transport ministry warned,List([14, 123))):(it; would close; seven airlines)
+0.93 (the Indonesian transport ministry; warned; it would close seven airlines unless they improved training within the following three months; L:In March 2007; L:under huge political pressure)
+0.62 (they; improved; training within the following three months)
+
+The ministry developed a formula for ranking the airlines in three bands.
+0.90 (The ministry; developed; a formula for ranking the airlines in three bands)
+
+in broadcast journalism from Boston University’s College of Communication.
+
+Kristin Anne Fisher  is an American journalist and television news presenter for Fox News.
+0.96 (Kristin Anne Fisher; is; an American television news presenter for Fox News)
+0.95 (Kristin Anne Fisher; is; an American journalist)
+
+In 2011, she married Walker Harrison Forehand at the Church of the Holy City in Washington, D.C. She met her husband in Athens, Greece in 2003 while studying abroad.
+0.13 Context(She met,List([97, 104))):(She; met her husband studying; L:abroad)
+0.58 Context(She met,List([97, 104))):(she; married; Walker Harrison Forehand; L:at the Church of the Holy City in Washington; T:In 2011)
+0.50 (She; met; her husband; L:in Athens; T:in 2003; T:while studying abroad; T:D.C.)
+
+Greenspan was born in 1956 in Los Angeles, California.
+0.93 (Greenspan; was born; T:in 1956; L:in Los Angeles)
+
+Simone Soares  is a Brazilian actress.
+0.94 (Simone Soares; is; a Brazilian actress)
+
+After the actress went to SBT and participated alumnus Ô... Coitado.
+0.73 (the actress; participated alumnus; )
+0.94 (the actress; went; to SBT)
+
+Broderick was born in Searsmont, Maine in 1987 but raised mostly in Carlton, Oregon.
+0.93 (Broderick; raised mostly; L:in Carlton)
+0.93 (Broderick; was born; L:in Searsmont; T:in 1987)
+
+Katherine Jackson was born Kattie B. Screws on May 4, 1930, in Clayton, Alabama, to Prince Albert  and Martha Screws .
+0.94 (Katherine Jackson; was born; Kattie B. Screws; T:on May 4 , 1930)
+
+In 1967, after winning several talent shows in Gary, Joe Jackson decided to make the group a professional act when Gordon Keith, an owner and vocalist at Gary's Steeltown Records, discovered and signed them to their first contract with him on November 21.
+0.91 Context(Joe Jackson decided,List([55, 74))):(Joe Jackson; decided to make; the group a professional act discovered and signed them to their first contract with him on November 21)
+0.95 (Joe Jackson; decided; to make the group; T:In 1967; T:after winning several talent shows in Gary)
+0.85 (a professional act; signed; them; to their first contract with him; T:on November 21)
+0.75 (a professional act; discovered; )
+0.91 Context(Joe Jackson decided,List([55, 74))):(Joe Jackson; decided to make; the group a professional act vocalist)
+0.95 (Joe Jackson; decided; to make the group a professional act vocalist; T:In 1967; T:after winning several talent shows in Gary)
+0.93 (Joe Jackson; signed; them; to their first contract with him on November 21; T:In 1967)
+0.91 Context(Joe Jackson decided,List([55, 74))):(Joe Jackson; decided to make; the group a professional act)
+0.95 (Joe Jackson; decided; to make the group a professional act; T:In 1967; T:after winning several talent shows in Gary)
+0.84 (the group; signed; them; to their first contract with him on November 21)
+
+Records was born in Portland, Oregon, the son of Shawn Records, a photographer, and Jenny, a librarian.
+0.39 (Jenny; [is]; a librarian)
+0.38 (Oregon; [is] the son of; Jenny)
+0.39 (Shawn Records; [is]; a photographer)
+0.38 (Oregon; [is] the son of; Shawn Records)
+0.93 (Records; was born; L:in Portland)
+
+ Maxwell Records  is an American actor.
+0.94 (Maxwell Records; is; an American actor)
+
+He is most notable for his roles as Max in the film Where the Wild Things Are, for which he won the 2009 Young Artist Award for Best Leading Young Actor in a Feature Film, and as Slater Pedulla in The Sitter.
+0.68 (he; won; the 2009 Young Artist Award for Best Leading Young Actor)
+0.80 (the Wild Things; Are; L:the film)
+0.28 (He; is; most notable)
+
+Records' father, who is a photographer, was asked to send the company information of actors fitting a certain description, Max happened to fit it so his information was also provided.
+0.63 (Max; happened; )
+0.71 (actors; fitting; )
+0.92 (Records' father; to send; the company information of actors)
+0.34 (his information; was also provided; )
+0.92 (Records' father; was asked; to send the company information of actors)
+0.94 (Records' father; is; a photographer)
+
+Olsen was born February 8, 1968 and is a native of North Haverhill, New Hampshire.
+0.88 (Olsen; is a native of; North Haverhill)
+0.38 (New Hampshire; [is] a native of; North Haverhill)
+0.95 (Olsen; is; a native of North Haverhill)
+0.93 (Olsen; was born; T:February 8)
+
+Agha-Soltan was the middle child of a middle-class family of three children, whose family resided in a fourth floor flat on Meshkini Street in the Tehranpars district of Tehran.
+0.94 (three children; resided; in a fourth floor flat on Meshkini Street in the Tehranpars district of Tehran)
+0.97 (Agha-Soltan; was; the middle child of a middle-class family of three children)
+
+Locke was born on 29 August 1632, in a small thatched cottage by the church in Wrington, Somerset, about 12 miles from Bristol.
+0.96 (Locke; was born; T:on 29 August 1632; L:in a small thatched cottage by the church in Wrington, Somerset, about 12 miles from Bristol)
+
+After completing studies there, he was admitted to Christ Church, Oxford, in the autumn of 1652 at the age of twenty.
+0.64 (he; was admitted; to Christ Church; T:After completing studies there)
+
+He died on 28 October 1704, and is buried in the churchyard of the village of High Laver, east of Harlow in Essex, where he had lived in the household of Sir Francis Masham since 1691.
+0.64 (he; had lived; L:in the household of Sir Francis Masham; T:since 1691; L:Essex)
+0.50 (He; is buried; in the churchyard of the village of High Laver)
+0.50 (He; died; T:on 28 October 1704)
+
+Arias was born within an upper-class family in the province of Heredia.
+0.96 (Arias; was born; L:within an upper-class family in the province of Heredia)
+
+Attorney General Kennedy invited Baldwin to meet with him over breakfast, and that meeting was followed up with a second, when Kennedy met with Baldwin and others Baldwin had invited to Kennedy's Manhattan apartment.
+0.94 (a second Baldwin and others; had invited; to Kennedy 's Manhattan apartment)
+0.93 (Baldwin; had invited; to Kennedy 's Manhattan apartment)
+0.73 (that meeting; was followed up; )
+0.88 (Kennedy; [is] General [of]; Attorney)
+0.86 (Baldwin; to meet; with him; L:over breakfast)
+0.90 (Attorney General Kennedy; invited; Baldwin; to meet with him over breakfast)
+
+I'm a writer.
+0.52 (I; 'm; a writer)
+
+Baldwin did not want to be read as "merely a Negro; or, even, merely a Negro writer."
+0.92 (Baldwin; to be read; as " merely a Negro)
+0.93 (Baldwin; did not want; to be read as " merely a Negro)
+
+During his lifetime as well as since his death, Baldwin was seen not only as an influential African-American writer but also as an influential emigrant writer, particularly because of his numerous experiences outside the United States and the impact of these experiences on his life and his writing.
+0.91 (Baldwin; was seen; not only as an influential emigrant writer , particularly because of the impact of these experiences on his writing)
+0.91 (Baldwin; was seen; not only as an influential emigrant writer , particularly because of the impact of these experiences on his life)
+0.92 (Baldwin; was seen; not only as an influential emigrant writer , particularly because of his numerous experiences outside the United States)
+0.92 (Baldwin; was seen; not only as an influential African - American writer)
+
+Baldwin learned to speak French fluently and developed friendships with French actor Yves Montand and French writer Marguerite Yourcenar, who translated Baldwin's play The Amen Corner.
+0.39 (Marguerite Yourcenar; [is] writer [from]; France)
+0.94 (French writer Marguerite Yourcenar; translated; Baldwin 's play)
+0.39 (Yves Montand; [is] actor [from]; France)
+0.91 Context(Baldwin learned,List([0, 15))):(Baldwin; learned to speak fluently; French)
+0.92 (Baldwin; learned; to speak French fluently)
+
+Sitting in front of his sturdy typewriter, his days were devoted to writing and to answering the huge amount of mail he received from all over the world.
+0.91 (the huge amount of mail; received; from all over the world)
+0.64 (his days; were devoted; to answering the huge amount of mail)
+0.38 (his days; were devoted; to writing)
+
+Baldwin's first published work, a review of the writer Maxim Gorky, appeared in The Nation in 1947.
+0.94 (Baldwin's first published work; appeared; L:in The Nation; T:in 1947)
+
+Baldwin's essays never stopped articulating the anger and frustration felt by real-life black Americans with more clarity and style than any other writer of his generation.
+0.92 Context(Baldwin 's essays never stopped,List([0, 31))):(Baldwin 's essays; never stopped articulating; the frustration felt by real - life black Americans with more style than any other writer of his generation)
+0.92 Context(Baldwin 's essays never stopped,List([0, 31))):(Baldwin 's essays; never stopped articulating; the frustration felt by real - life black Americans with more clarity than any other writer of his generation)
+0.91 (Baldwin 's essays; never stopped; articulating the frustration)
+0.94 (the frustration; felt; by real - life black Americans)
+0.92 Context(Baldwin 's essays never stopped,List([0, 31))):(Baldwin 's essays; never stopped articulating; the anger felt by real - life black Americans with more style than any other writer of his generation)
+0.92 Context(Baldwin 's essays never stopped,List([0, 31))):(Baldwin 's essays; never stopped articulating; the anger felt by real - life black Americans with more clarity than any other writer of his generation)
+0.91 (Baldwin 's essays; never stopped; articulating the anger)
+0.94 (the anger; felt; by real - life black Americans)
+
+"There is not another writer," said Time, "who expresses with such poignancy and abrasiveness the dark realities of the racial ferment in North and South."
+0.66 (There is not another writer; said; Time)
+
+The delegation included Kenneth B. Clark, a psychologist who had played a key role in the Brown v. Board of Education decision; actor Harry Belafonte, singer Lena Horne, writer Lorraine Hansberry, and activists from civil rights organizations.
+0.89 (a psychologist; had played; a key activists)
+0.89 (a psychologist; had played; a key writer)
+0.89 (a psychologist; had played; a key singer)
+0.89 (a psychologist; had played; a key actor)
+0.90 (a psychologist; had played; a key role; L:in the Brown v. Board of Education decision)
+0.92 (The delegation; included; Kenneth B. Clark)
+
+During that era of illegal surveillance of American writers, the FBI accumulated 276 pages on Richard Wright, 110 pages on Truman Capote, and just nine pages on Henry Miller.
+1.00 (the FBI; accumulated; 276 pages)
+0.91 (the FBI; accumulated; 276 pages on Richard Wright; T:During that era of illegal surveillance of American writers)
+
+In 1968, Baldwin signed the "Writers and Editors War Tax Protest" pledge, vowing to refuse tax payments in protest against the Vietnam War.
+0.87 Context(Baldwin signed vowing,List([10, 70))):(Baldwin; signed the Editors War Tax Protest " pledge vowing to refuse; tax payments in protest against the Vietnam War)
+0.92 Context(Baldwin signed,List([10, 24))):(Baldwin; signed the Editors War Tax Protest " pledge vowing; to refuse tax payments in protest against the Vietnam War)
+0.97 (Baldwin; signed; the Editors War Tax Protest " pledge; vowing to refuse tax payments in protest against the Vietnam War; T:In 1968)
+0.87 Context(Baldwin signed vowing,List([10, 72))):(Baldwin; signed the " Writers War Tax Protest " pledge vowing to refuse; tax payments in protest against the Vietnam War)
+0.92 Context(Baldwin signed,List([10, 24))):(Baldwin; signed the " Writers War Tax Protest " pledge vowing; to refuse tax payments in protest against the Vietnam War)
+0.97 (Baldwin; signed; the " Writers War Tax Protest " pledge; vowing to refuse tax payments in protest against the Vietnam War; T:In 1968)
+
+Later support came from Richard Wright, whom Baldwin called "the greatest black writer in the world."
+0.90 (Richard Wright; called; the greatest black writer in the world)
+0.92 (Later support; came; from Richard Wright)
+
+Baldwin's influence on other writers has been profound: Toni Morrison edited the Library of America's first two volumes of Baldwin's fiction and essays: Early Novels & Stories  and Collected Essays .
+0.95 (Toni Morrison; edited; the Library of America 's first two volumes of essays)
+0.84 Context(Toni Morrison edited,List([58, 78))):(Baldwin 's influence on other writers; has been; profound)
+0.95 (Toni Morrison; edited; the Library of America 's first two volumes of Baldwin 's fiction)
+
+A third volume, Later Novels , was edited by Darryl Pinckney, who had delivered a talk on Baldwin in February 2013 to celebrate the fiftieth anniversary of The New York Review of Books, during which he stated: "No other black writer I'd read was as literary as Baldwin in his early essays, not even Ralph Ellison.
+0.90 (No other black writer; 'd read; I)
+0.66 Context(he stated,List([199, 208))):(No other black writer I'd read; was; as literary as Baldwin; L:in his early essays)
+0.50 (he; stated; No other black writer I'd read was as literary as Baldwin in his early essays; T:the fiftieth anniversary of The New York Review of Books)
+0.95 (Darryl Pinckney; had delivered; a talk on Baldwin; T:in February 2013; to celebrate the fiftieth anniversary of The New York Review of Books)
+0.91 (A third volume; was edited; by Darryl Pinckney)
+
+In the 1986 work The Story of English, Robert MacNeil, with Robert McCrum and William Cran, mentioned James Baldwin as an influential writer of African-American Literature, on the level of Booker T. Washington, and held both men up as prime examples of Black writers.
+0.93 (Robert; held up; as prime examples of Black writers; L:In the 1986 work)
+
+In 2017, Scott Timberg wrote an essay for the Los Angeles Times in which he noted existing cultural references to Baldwin, 30 years after his death, and concluded: "So Baldwin is not just a writer for the ages, but a scribe whose work—as squarely as George Orwell's—speaks directly to ours."
+0.93 Context(Scott Timberg concluded George Orwell 's speaks directly,List([10, 231))):(Baldwin; is not; just a writer for the ages , but a scribe)
+0.83 Context(Scott Timberg concluded,List([10, 105))):(George Orwell's; speaks directly; to ours)
+0.87 (Scott Timberg; concluded; T:In 2017; T:30 years after his death)
+0.93 Context(he concluded George Orwell 's speaks directly,List([74, 264))):(Baldwin; is not; just a writer for the ages , but a scribe)
+0.83 Context(he concluded,List([74, 138))):(George Orwell's; speaks directly; to ours)
+0.32 (he; concluded; So Baldwin is not just a writer for the ages , but a scribe whose work - as squarely as George Orwell's - speaks directly to ours)
+0.64 (he; noted; existing cultural references to Baldwin; L:the Los Angeles Times)
+0.96 (Scott Timberg; wrote; an essay for the Los Angeles Times; T:In 2017)
+
+Baldwin settled in Saint-Paul-de-Vence in the south of France in 1970, in an old Provençal house beneath the ramparts of the famous village.
+0.96 (Baldwin; settled; in Saint-Paul-de-Vence; in the south of France; T:in 1970; in an old Provençal house beneath the ramparts of the famous village)
+
+ Nicholas Davies  is a British investigative journalist, writer and documentary maker.
+0.94 (Nicholas Davies; is; a British maker)
+0.94 (Nicholas Davies; is; a British documentary)
+0.94 (Nicholas Davies; is; a British writer)
+0.94 (Nicholas Davies; is; a British investigative journalist)
+
+Davies has written extensively as a freelancer, as well as for The Guardian and The Observer, and been named Reporter of the Year, Journalist of the Year and Feature Writer of the Year at the British Press Awards.
+0.94 (Davies; has been named; Feature Writer of the Year at the British Press Awards)
+0.91 (Davies; has been named; Journalist of the Year)
+0.91 (Davies; has been named; Reporter of the Year)
+0.89 (Davies; has written extensively; as a freelancer)
+
+Davies has made documentaries for ITV's World in Action and written numerous books on the subject of politics and journalism, including Flat Earth News, which attracted considerable controversy as an exposé of journalistic malpractice in the UK and around the globe.
+0.94 (Davies; has written; numerous books; L:on the subject of journalism , including Flat Earth News)
+0.92 (Flat Earth News; attracted; considerable controversy)
+0.94 (Davies; has written; numerous books; L:on the subject of politics , including Flat Earth News)
+0.91 (Davies; has made; documentaries for ITV 's World in Action)
+
+Following the publication of Flat Earth News and a Guardian story co-written by Davies claiming that News of the World journalists tapped private mobile phones to get stories, on 14 July 2009 Davies told the Culture, Media and Sport Select Committee that the Metropolitan Police Service had done too little to investigate the claims.
+0.93 Context(a Guardian story claiming,List([29, 75))):(News of the World journalists; tapped; private mobile phones; to get stories)
+0.86 (a Guardian story; claiming; that News of the World journalists tapped private mobile phones)
+0.92 Context(Davies told the Metropolitan Police Service had done,List([173, 257))):(the Metropolitan Police Service; had done too little to investigate; the claims)
+0.92 Context(Davies told,List([173, 184))):(the Metropolitan Police Service; had done; too little; to investigate the claims)
+0.90 (Davies; told; the Sport Select Committee; that the Metropolitan Police Service had done too little; T:on 14 July 2009)
+0.93 Context(a Guardian story claiming News of the World journalists tapped,List([29, 117))):(News of the World journalists; tapped private mobile phones to get; stories)
+0.94 Context(a Guardian story claiming,List([29, 75))):(News of the World journalists; tapped; private mobile phones; to get stories; T:on 14 July 2009)
+0.86 (a Guardian story; claiming; that News of the World journalists tapped private mobile phones to get stories , on 14 July 2009)
+0.94 (a Guardian story; co-written; by Davies)
+
+ Tottempudi Krishna  was an editor and director.
+0.94 (Tottempudi Krishna; was; director)
+0.94 (Tottempudi Krishna; was; an editor)
+
+One of his sons, Premchand, was an aspiring director but died in a car accident in 1995 while directing his first film.
+0.39 (One; died; L:in a car accident; T:in 1995; T:while directing his first film)
+0.71 (One of his sons; was; an aspiring director)
+
+He is the inspiration for many revolutionary directors and producers such as R. Narayana Murthy.
+0.57 (He; is; the inspiration for producers such as R. Narayana Murthy)
+0.68 (He; is; the inspiration for many revolutionary directors such as R. Narayana Murthy)
+
+Born in Hendon, north London, Lawson was raised in Leeds, where his father was a marketing director for the Civil Service and British Telecom.
+0.83 (his father; was; a marketing director for British Telecom; L:Leeds)
+0.83 (his father; was; a marketing director for the Civil Service; L:Leeds)
+0.93 (Lawson; was raised; L:in Leeds)
+
+ Mark Gerard Lawson  is an English journalist, broadcaster and author.
+0.96 (Mark Gerard Lawson; is; an English author)
+0.96 (Mark Gerard Lawson; is; an English broadcaster)
+0.96 (Mark Gerard Lawson; is; an English journalist)
+
+This was followed by The Battle for Room Service , a travelogue of people, politics and culture encountered by Lawson as a journalist.
+0.93 (a travelogue of culture; encountered; by Lawson)
+0.91 (politics; encountered; by Lawson)
+0.91 (people; encountered; by Lawson)
+0.43 (This; was followed; by The Battle for Room Service)
+
+Ball was born and raised in Worcester, Massachusetts by his parents Ernest G Ball and Christine or Kitty Ross Ball.
+0.88 (Ball; was raised; L:in Worcester , Christine or Kitty Ross Ball)
+0.92 (Ball; was raised; L:in Worcester , Ernest G Ball or Kitty Ross Ball)
+0.88 (Ball; was raised; L:in Worcester , Massachusetts or Kitty Ross Ball)
+0.63 (Ball; was born; )
+
+Harvey Ross Ball  was an American commercial artist.
+0.95 (Harvey Ross Ball; was; an American commercial artist)
+
+Sara Forestier  is a French actress, film director and screenwriter.
+0.94 (Sara Forestier; is; a French screenwriter)
+0.94 (Sara Forestier; is; a French film director)
+0.94 (Sara Forestier; is; a French actress)
+
+She received a César Award for Most Promising Actress for her performance in Games of Love and Chance  .
+0.35 (She; received; a Ce'sar Award; for Most Promising Actress; for her performance in Games of Chance)
+0.35 (She; received; a Ce'sar Award; for Most Promising Actress; for her performance in Games of Love)
+
+She won the César Award for Best Actress in 2011 for her performance in  Le Nom des gens .
+0.57 (She; won; the Ce'sar Award; T:in 2011)
+
+ Nikesh Patel is a British actor, best known for his role as Aafrin Dalal in the TV series Indian Summers.
+0.90 (a British actor; best known; for his role as Aafrin Dalal in the TV series)
+0.95 (Nikesh Patel; is; a British actor, best known for his role as Aafrin Dalal in the TV series Indian Summers)
+
+Weeks of escalating street demonstrations and widening disorder reached a peak in June 2005 as tens of thousands of protesters marched into La Paz.
+0.96 (Weeks of widening disorder; reached; a peak; T:in June 2005; T:as tens of thousands of protesters marched into La Paz)
+0.94 (tens of thousands of protesters; marched; into La Paz)
+0.96 (Weeks of escalating street demonstrations; reached; a peak; T:in June 2005; T:as tens of thousands of protesters marched into La Paz)
+
+Maggie Civantos  is a Spanish actress, best known for her starring role of Macarena Ferreiro in the Antena 3 woman's prison series Vis a vis.
+0.90 (a Spanish actress; best known; for her starring role of Macarena Ferreiro in the Antena 3 woman's prison series)
+0.95 (Maggie Civantos; is; a Spanish actress, best known for her starring role of Macarena Ferreiro in the Antena 3 woman's prison series Vis a vis)
+
+Mead was born in Fair Haven, Vermont to Roswell and Lydia Mead .
+0.93 (Mead; was born; L:in Fair Haven)
+
+He was educated at the common school at West Rutland and Franklin Academy at Malone, New York.
+0.61 (He; was educated; L:at the common school at Franklin Academy at Malone , New York)
+0.50 (He; was educated; L:at the common school at West Rutland)
+
+Aston was born in Pontypridd and attended Bryn Celynnog Comprehensive School.
+0.93 (Aston; attended; Bryn Celynnog Comprehensive School)
+0.93 (Aston; was born; L:in Pontypridd)
+
+De la Rosa was born in Barcelona, Catalonia, Spain, and unlike most drivers, he started his career in radio-controlled cars, specialising in 1:8 off-road.
+0.29 Context(he started,List([22, 32))):(he; started his career in radio - controlled cars specialising; T:in 1:8; off - road)
+0.26 (he; started; his career in radio - controlled cars)
+0.94 (De la Rosa; was born; L:in Barcelona , Catalonia)
+
+Collins was born in Heston, near Hounslow in Middlesex, England.
+0.93 (Collins; was born; L:in Heston; L:near Hounslow in Middlesex)
+
+Rogers was born in Baltimore, Maryland and raised in Demopolis, Alabama.
+0.93 (Rogers; was raised; L:in Demopolis)
+0.93 (Rogers; was born; L:in Baltimore)
+
+Rogers is the Chairman of Rogers Holdings and Beeland Interests, Inc.
+0.88 (Rogers; is the Chairman of; Beeland Interests)
+0.38 (Inc; [is] the Chairman of; Beeland Interests)
+0.95 (Rogers; is; the Chairman of Beeland Interests)
+0.88 (Rogers; is the Chairman of; Rogers Holdings)
+0.95 (Rogers; is; the Chairman of Rogers Holdings)
+
+Chris Hondros was born in New York City to immigrant Greek and German parents who were child refugees after World War II.
+0.91 (immigrant German parents; were; child refugees after World War II)
+0.94 (Chris Hondros; was born; L:in New York City)
+
+Photojournalist Tim Hetherington was also killed in the attack, which wounded two other photographers.
+0.89 (the attack; wounded; two other photographers)
+0.93 (Photojournalist Tim Hetherington; was also killed; L:in the attack)
+
+Photojournalists Guy Martin said that the group was traveling with rebel fighters.
+0.88 (Martin; [is] Guy [of]; Photojournalists)
+0.69 Context(Photojournalists Guy Martin said,List([0, 32))):(the group; was traveling; )
+0.80 (Photojournalists Guy Martin; said; that the group was traveling with rebel fighters)
+
+The fund's mission is to provide non-profit institutions with grants to advocate for photojournalists.
+0.56 (grants; to advocate; )
+0.94 (The fund's mission; is; to provide non-profit institutions with grants)
+
+In an interview, Hondros stated: It was reported on April 20, 2011, that Hondros had been fatally wounded in a mortar attack by government forces in Misrata while covering the 2011 Libyan civil war.
+0.90 (Hondros; stated; It was reported on April 20; L:In an interview)
+0.93 (April 20; had been fatally wounded; L:in a mortar attack by government forces in Misrata; T:while covering the 2011 Libyan civil war)
+
+Hong Shen was born in Wujin, Jiangsu Province, Qing Empire on 31 December 1894.
+0.99 (Hong Shen; was born on; 31 december 1894)
+0.94 (Hong Shen; was born; L:in Wujin, Jiangsu Province, Qing Empire; T:on 31 December 1894)
+
+Hong Shen  was a Chinese playwright, film director and screenwriter, film and drama theorist, and educator.
+0.94 (Hong Shen; was; a educator)
+0.94 (Hong Shen; was; a theorist)
+0.94 (Hong Shen; was; a drama)
+0.94 (Hong Shen; was; a film)
+0.94 (Hong Shen; was; a screenwriter)
+0.94 (Hong Shen; was; a film director)
+0.94 (Hong Shen; was; a Chinese playwright)
+
+The play was well received and established his reputation as a playwright.
+0.83 (The play; established; his reputation as a playwright)
+0.70 (The play; well received; )
+0.81 (The play; was; well received)
+
+On 29 August 1955, he died of lung cancer in Beijing.
+0.64 (he; died; of lung cancer; L:in Beijing; T:On 29 August 1955)
+
+degree from Seoul National University in 1977, M.S.
+0.38 (University; [is] National [from]; Seoul)
+
+Born on November 20, 1885, in Monroe, North Carolina, Parker received a Bachelor of Arts degree in 1907 from the University of North Carolina at Chapel Hill and received a Bachelor of Laws in 1908 from the University of North Carolina School of Law.
+0.96 (Parker; received; a Bachelor of Arts degree; T:in 1907; from the University of North Carolina at Chapel Hill; L:in Monroe)
+
+Born on November 20, 1885, in Monroe, North Carolina, Parker received a Bachelor of Arts degree in 1907 from the University of North Carolina at Chapel Hill and received a Bachelor of Laws in 1908 from the University of North Carolina School of Law.
+0.96 (Parker; received; a Bachelor of Arts degree; T:in 1907; from the University of North Carolina at Chapel Hill; L:in Monroe)
+
+His service terminated on March 17, 1958, due to his death in Washington, D.C. On March 21, 1930, Parker was nominated by President Herbert Hoover to the United States Supreme Court, but, as a result of political opposition, was defeated in the Senate by a vote of 39–41; had a single senator switched his vote from rejection to approval, Vice President Charles Curtis would have cast the tie-breaking vote for confirmation of the nomination.
+0.96 (Vice President Charles Curtis; would have cast; the tie - breaking vote for confirmation of the nomination)
+0.68 (His service; terminated; T:on March 17 , 1958; as a result of political opposition)
+0.93 (Parker; was nominated; by President Herbert Hoover; to the United States Supreme Court)
+0.65 (His service; terminated; T:on March 17; due to his death in Washington , D.C. On March 21)
+
+Johnson graduated from Southern Methodist University in his hometown in 1951, with a bachelor's degree in business administration.
+0.88 (Johnson; graduated; from Southern Methodist University; T:in his hometown; T:in 1951)
+
+He was born in his maternal home at Chetla in Alipore, a locality on the bank of Adi Ganga creek.
+0.35 (He; was born; L:in his maternal home at Chetla in Alipore)
+
+In October 2018, he scored his maiden double-century in first-class cricket, batting for Rangpur Division in the 2018–19 National Cricket League.
+0.49 (he; scored; his maiden double-century; T:In October 2018)
+
+Born and raised in Pittsburgh, McCullough earned a degree in English literature from Yale University.
+0.92 (McCullough; earned; a degree)
+0.93 (McCullough; earned; a degree; T:in English literature)
+
+ David Gaub McCullough  is an American author, narrator, popular historian, and lecturer.
+0.95 (David Gaub McCullough; is; an American lecturer)
+0.95 (David Gaub McCullough; is; an American popular historian)
+0.95 (David Gaub McCullough; is; an American narrator)
+0.95 (David Gaub McCullough; is; an American author)
+

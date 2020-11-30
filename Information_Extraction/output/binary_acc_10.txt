@@ -1,0 +1,6 @@
+Confusion matrix for the testing data:
+ row is the truth, column is the system output
+	absent	present
+abs:	9	1	 |abs: P=0.9 R=0.8181818181818182 F1=0.8571428571428572
+pre:	2	8	 |pre: P=0.8 R=0.8888888888888888 F1=0.8421052631578948
+	 Test accuracy=0.85

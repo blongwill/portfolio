@@ -1,0 +1,9 @@
+Confusion matrix for the testing data:
+ row is the truth, column is the system output
+	born	died	education	occupation	spouse(s)
+bor:	10	0	0	0	0	 |bor: P=1.0 R=0.7692307692307693 F1=0.8695652173913044
+die:	0	8	0	1	1	 |die: P=0.8 R=0.8888888888888888 F1=0.8421052631578948
+edu:	0	0	10	0	0	 |edu: P=1.0 R=1.0 F1=1.0
+occ:	3	1	0	4	2	 |occ: P=0.4 R=0.8 F1=0.5333333333333333
+spo:	0	0	0	0	10	 |spo: P=1.0 R=0.7692307692307693 F1=0.8695652173913044
+	 Test accuracy=0.84
