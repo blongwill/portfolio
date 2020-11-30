@@ -1,0 +1,333 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "the spanish quiz",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": [
+                        "Stop "
+                    ]
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "inform_answer",
+                    "slots": [
+                        {
+                            "name": "answer_response",
+                            "type": "response"
+                        }
+                    ],
+                    "samples": [
+                        "{answer_response}"
+                    ]
+                },
+                {
+                    "name": "inform_category",
+                    "slots": [
+                        {
+                            "name": "category_response",
+                            "type": "category"
+                        }
+                    ],
+                    "samples": [
+                        "Let's do {category_response}",
+                        "Let's go with {category_response}",
+                        "Change to {category_response}",
+                        "Transition to {category_response}",
+                        "I want to go to {category_response}",
+                        "Now let's move to {category_response}",
+                        "Now I want to do {category_response}",
+                        "Switch to {category_response}",
+                        "I want {category_response}",
+                        "Give me {category_response}",
+                        "{category_response}"
+                    ]
+                },
+                {
+                    "name": "request_points",
+                    "slots": [],
+                    "samples": [
+                        "Now how many points do I have",
+                        "Tell me the points",
+                        "What's my score",
+                        "What are my points",
+                        "How many points do I have"
+                    ]
+                },
+                {
+                    "name": "place_bet",
+                    "slots": [
+                        {
+                            "name": "bet_amount",
+                            "type": "AMAZON.NUMBER",
+                            "samples": [
+                                "Let's go with {bet_amount} points",
+                                "I want to bet {bet_amount} points",
+                                "{bet_amount} points",
+                                "I'll bet {bet_amount}",
+                                "{bet_amount}"
+                            ]
+                        }
+                    ],
+                    "samples": [
+                        "{bet_amount} on the next question",
+                        "I want to place a bet",
+                        "I want to bet {bet_amount}",
+                        "I would like to place a bet"
+                    ]
+                },
+                {
+                    "name": "request_category_explanation",
+                    "slots": [
+                        {
+                            "name": "category_response",
+                            "type": "category"
+                        }
+                    ],
+                    "samples": [
+                        "What else is there",
+                        "What's left over",
+                        "What's left",
+                        "What are the remaining categories",
+                        "What categories remain",
+                        "What categories do I have left",
+                        "Now can you tell me what {category_response} is",
+                        "Tell me about {category_response}",
+                        "Can you explain {category_response}",
+                        "What is {category_response}",
+                        "What are the categories again",
+                        "What categories are remaining",
+                        "Which categories do I have left",
+                        "What are the categories"
+                    ]
+                },
+                {
+                    "name": "request_repeat",
+                    "slots": [],
+                    "samples": [
+                        "Say that again",
+                        "Can you repeat that",
+                        "Huh",
+                        "What",
+                        "What did you say",
+                        "Can you say that again"
+                    ]
+                },
+                {
+                    "name": "inform_name",
+                    "slots": [
+                        {
+                            "name": "user_name",
+                            "type": "AMAZON.US_FIRST_NAME"
+                        }
+                    ],
+                    "samples": [
+                        "They call me {user_name}",
+                        "I go by {user_name}",
+                        "Call me {user_name}",
+                        "My name is {user_name}"
+                    ]
+                },
+                {
+                    "name": "request_preposition_explanation",
+                    "slots": [],
+                    "samples": [
+                        "Now tell me what this is about",
+                        "What am I doing",
+                        "What is this for",
+                        "What prepositions are there",
+                        "What are the prepositions",
+                        "Please explain",
+                        "What is por and para"
+                    ]
+                },
+                {
+                    "name": "request_question_explanation",
+                    "slots": [],
+                    "samples": [
+                        "Can you tell me a little more about the previous question's answer",
+                        "Can you explain the previous question",
+                        "Incorrect why is that",
+                        "Correct why is that",
+                        "Why was that incorrect",
+                        "Why was that correct",
+                        "Please explain that one",
+                        "Explain the answer to me",
+                        "But why is that",
+                        "Can you explain why",
+                        "Why is that the answer",
+                        "Why is that para",
+                        "Why is that por",
+                        "Oh why is that"
+                    ]
+                },
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                }
+            ],
+            "types": [
+                {
+                    "name": "response",
+                    "values": [
+                        {
+                            "name": {
+                                "value": "para"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "por"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "category",
+                    "values": [
+                        {
+                            "name": {
+                                "value": "uses"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "fill in the blank"
+                            }
+                        },
+                        {
+                            "name": {
+                                "value": "what would you use"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        "dialog": {
+            "intents": [
+                {
+                    "name": "inform_category",
+                    "confirmationRequired": false,
+                    "prompts": {},
+                    "slots": [
+                        {
+                            "name": "category_response",
+                            "type": "category",
+                            "confirmationRequired": false,
+                            "elicitationRequired": false,
+                            "prompts": {},
+                            "validations": [
+                                {
+                                    "type": "hasEntityResolutionMatch",
+                                    "prompt": "Slot.Validation.1229849495577.750117435577.1279953502376"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "inform_answer",
+                    "confirmationRequired": false,
+                    "prompts": {},
+                    "slots": [
+                        {
+                            "name": "answer_response",
+                            "type": "response",
+                            "confirmationRequired": false,
+                            "elicitationRequired": false,
+                            "prompts": {},
+                            "validations": [
+                                {
+                                    "type": "hasEntityResolutionMatch",
+                                    "prompt": "Slot.Validation.197935874614.204828281098.943169520982"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "place_bet",
+                    "confirmationRequired": false,
+                    "prompts": {},
+                    "slots": [
+                        {
+                            "name": "bet_amount",
+                            "type": "AMAZON.NUMBER",
+                            "confirmationRequired": false,
+                            "elicitationRequired": true,
+                            "prompts": {
+                                "elicitation": "Elicit.Slot.719081263381.499913138791"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "request_category_explanation",
+                    "confirmationRequired": false,
+                    "prompts": {},
+                    "slots": [
+                        {
+                            "name": "category_response",
+                            "type": "category",
+                            "confirmationRequired": false,
+                            "elicitationRequired": false,
+                            "prompts": {}
+                        }
+                    ]
+                }
+            ],
+            "delegationStrategy": "ALWAYS"
+        },
+        "prompts": [
+            {
+                "id": "Slot.Validation.1229849495577.750117435577.1279953502376",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "I'm sorry we don't have that category, which category would you like?"
+                    }
+                ]
+            },
+            {
+                "id": "Slot.Validation.197935874614.204828281098.943169520982",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "I'm sorry, that's not one of the prepositions."
+                    }
+                ]
+            },
+            {
+                "id": "Elicit.Slot.719081263381.499913138791",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "How many points would you like to bet?"
+                    }
+                ]
+            },
+            {
+                "id": "Confirm.Slot.719081263381.499913138791",
+                "variations": [
+                    {
+                        "type": "PlainText",
+                        "value": "You want to bet {bet_amount} , is that correct?"
+                    }
+                ]
+            }
+        ]
+    }
+}
