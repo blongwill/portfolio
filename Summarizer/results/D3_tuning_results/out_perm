@@ -1,0 +1,39 @@
+D3_tune_form_D2_num_perm_5	R-1=0.27486	R-2=0.07891
+Time to run with num_perm=34.346319913864136
+D3_tune_form_D2_num_perm_10	R-1=0.27392	R-2=0.0779
+Time to run with num_perm=37.28351378440857
+D3_tune_form_D2_num_perm_15	R-1=0.27348	R-2=0.07754
+Time to run with num_perm=39.955954790115356
+D3_tune_form_D2_num_perm_20	R-1=0.27358	R-2=0.07746
+Time to run with num_perm=42.216405153274536
+D3_tune_form_D2_num_perm_25	R-1=0.27377	R-2=0.07746
+Time to run with num_perm=44.106796979904175
+D3_tune_form_D2_num_perm_30	R-1=0.27385	R-2=0.07737
+Time to run with num_perm=46.79467248916626
+
+D3_tune_form_2005_num_perm_5	R-1=0.27487	R-2=0.08017
+Time to run with num_perm=34.008084297180176
+D3_tune_form_2005_num_perm_10	R-1=0.27434	R-2=0.07883
+Time to run with num_perm=36.36013698577881
+D3_tune_form_2005_num_perm_15	R-1=0.27443	R-2=0.07909
+Time to run with num_perm=38.32418656349182
+D3_tune_form_2005_num_perm_20	R-1=0.27559	R-2=0.07947
+Time to run with num_perm=40.71561789512634
+D3_tune_form_2005_num_perm_25	R-1=0.27607	R-2=0.07957
+Time to run with num_perm=43.17069983482361
+D3_tune_form_2005_num_perm_30	R-1=0.27588	R-2=0.07957
+Time to run with num_perm=45.454203844070435
+
+D3_tune_form_2009_num_perm_5	R-1=0.25839	R-2=0.07482
+Time to run with num_perm=35.7130913734436
+D3_tune_form_2009_num_perm_10	R-1=0.25761	R-2=0.07504
+Time to run with num_perm=39.120545387268066
+D3_tune_form_2009_num_perm_15	R-1=0.25832	R-2=0.07512
+Time to run with num_perm=40.967891216278076
+D3_tune_form_2009_num_perm_20	R-1=0.25925	R-2=0.07592
+Time to run with num_perm=43.19898271560669
+D3_tune_form_2009_num_perm_25	R-1=0.25934	R-2=0.07591
+Time to run with num_perm=45.708213329315186
+D3_tune_form_2009_num_perm_30	R-1=0.2582	R-2=0.0752
+Time to run with num_perm=47.8081591129303
+
