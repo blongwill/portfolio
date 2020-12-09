@@ -1,0 +1,1079 @@
+DATASETS: ['/home2/longwill/ling575_neural_models/src/../datasets/english_processed_nostop.txt', '/home2/longwill/ling575_neural_models/src/../datasets/arabic_processed_nostop.txt', '/home2/longwill/ling575_neural_models/src/../datasets/indonesian_processed_nostop.txt']###
+Experiment config settings:
+config_name: all_2
+random_seed: 121
+dataset: english_processed_nostop,arabic_processed_nostop,indonesian_processed_nostop
+model_type: bert-base-multilingual-uncased
+optimizer: AdamW
+learning_rate: 2e-5
+epsilon: 1e-8
+num_training_epochs: 2
+num_warmup_steps: 0
+num_classifier_labels: 4
+output_attentions: True
+output_hidden_states: True
+batch_size: 16
+max_tokens_length: 77
+###
+Starting experiment execution
+There are 1 GPU(s) available.
+We will use the GPU:Tesla M10
+Starting load dataset
+First data label: 1
+Finished load dataset
+Loading BERT tokenizer...
+Starting split dataset
+Input IDs dimension-1 size: 76743
+Input IDs dimension-2 size: 77
+Input Labels dimension-1 size: 76743
+Input Masks dimension-1 size: 76743
+Input Masks dimension-2 size: 77
+Train inputs dimension-1 size: 69068
+Train inputs dimension-2 size: 77
+Train labels dimension-1 size: 69068
+Train masks dimension-1 size: 69068
+Train masks dimension-2 size: 77
+Finished split dataset
+Made it here
+Starting to Load BertForSequenceClassification
+Finished initializing model
+Starting train hate speech model
+
+======== Epoch 1 / 2 ========
+Training...
+  Batch    40  of  4,317.    Elapsed: 0:00:38.
+  Batch    80  of  4,317.    Elapsed: 0:01:16.
+  Batch   120  of  4,317.    Elapsed: 0:01:54.
+  Batch   160  of  4,317.    Elapsed: 0:02:32.
+  Batch   200  of  4,317.    Elapsed: 0:03:10.
+  Batch   240  of  4,317.    Elapsed: 0:03:48.
+  Batch   280  of  4,317.    Elapsed: 0:04:27.
+  Batch   320  of  4,317.    Elapsed: 0:05:05.
+  Batch   360  of  4,317.    Elapsed: 0:05:43.
+  Batch   400  of  4,317.    Elapsed: 0:06:21.
+  Batch   440  of  4,317.    Elapsed: 0:06:59.
+  Batch   480  of  4,317.    Elapsed: 0:07:37.
+  Batch   520  of  4,317.    Elapsed: 0:08:16.
+  Batch   560  of  4,317.    Elapsed: 0:08:54.
+  Batch   600  of  4,317.    Elapsed: 0:09:32.
+  Batch   640  of  4,317.    Elapsed: 0:10:10.
+  Batch   680  of  4,317.    Elapsed: 0:10:48.
+  Batch   720  of  4,317.    Elapsed: 0:11:26.
+  Batch   760  of  4,317.    Elapsed: 0:12:04.
+  Batch   800  of  4,317.    Elapsed: 0:12:43.
+  Batch   840  of  4,317.    Elapsed: 0:13:21.
+  Batch   880  of  4,317.    Elapsed: 0:13:59.
+  Batch   920  of  4,317.    Elapsed: 0:14:37.
+  Batch   960  of  4,317.    Elapsed: 0:15:15.
+  Batch 1,000  of  4,317.    Elapsed: 0:15:54.
+  Batch 1,040  of  4,317.    Elapsed: 0:16:32.
+  Batch 1,080  of  4,317.    Elapsed: 0:17:10.
+  Batch 1,120  of  4,317.    Elapsed: 0:17:48.
+  Batch 1,160  of  4,317.    Elapsed: 0:18:26.
+  Batch 1,200  of  4,317.    Elapsed: 0:19:04.
+  Batch 1,240  of  4,317.    Elapsed: 0:19:43.
+  Batch 1,280  of  4,317.    Elapsed: 0:20:21.
+  Batch 1,320  of  4,317.    Elapsed: 0:20:59.
+  Batch 1,360  of  4,317.    Elapsed: 0:21:37.
+  Batch 1,400  of  4,317.    Elapsed: 0:22:15.
+  Batch 1,440  of  4,317.    Elapsed: 0:22:53.
+  Batch 1,480  of  4,317.    Elapsed: 0:23:32.
+  Batch 1,520  of  4,317.    Elapsed: 0:24:10.
+  Batch 1,560  of  4,317.    Elapsed: 0:24:48.
+  Batch 1,600  of  4,317.    Elapsed: 0:25:26.
+  Batch 1,640  of  4,317.    Elapsed: 0:26:05.
+  Batch 1,680  of  4,317.    Elapsed: 0:26:43.
+  Batch 1,720  of  4,317.    Elapsed: 0:27:21.
+  Batch 1,760  of  4,317.    Elapsed: 0:27:59.
+  Batch 1,800  of  4,317.    Elapsed: 0:28:37.
+  Batch 1,840  of  4,317.    Elapsed: 0:29:16.
+  Batch 1,880  of  4,317.    Elapsed: 0:29:54.
+  Batch 1,920  of  4,317.    Elapsed: 0:30:32.
+  Batch 1,960  of  4,317.    Elapsed: 0:31:10.
+  Batch 2,000  of  4,317.    Elapsed: 0:31:48.
+  Batch 2,040  of  4,317.    Elapsed: 0:32:27.
+  Batch 2,080  of  4,317.    Elapsed: 0:33:05.
+  Batch 2,120  of  4,317.    Elapsed: 0:33:43.
+  Batch 2,160  of  4,317.    Elapsed: 0:34:21.
+  Batch 2,200  of  4,317.    Elapsed: 0:35:00.
+  Batch 2,240  of  4,317.    Elapsed: 0:35:38.
+  Batch 2,280  of  4,317.    Elapsed: 0:36:16.
+  Batch 2,320  of  4,317.    Elapsed: 0:36:54.
+  Batch 2,360  of  4,317.    Elapsed: 0:37:33.
+  Batch 2,400  of  4,317.    Elapsed: 0:38:11.
+  Batch 2,440  of  4,317.    Elapsed: 0:38:49.
+  Batch 2,480  of  4,317.    Elapsed: 0:39:27.
+  Batch 2,520  of  4,317.    Elapsed: 0:40:05.
+  Batch 2,560  of  4,317.    Elapsed: 0:40:44.
+  Batch 2,600  of  4,317.    Elapsed: 0:41:22.
+  Batch 2,640  of  4,317.    Elapsed: 0:42:00.
+  Batch 2,680  of  4,317.    Elapsed: 0:42:38.
+  Batch 2,720  of  4,317.    Elapsed: 0:43:17.
+  Batch 2,760  of  4,317.    Elapsed: 0:43:55.
+  Batch 2,800  of  4,317.    Elapsed: 0:44:33.
+  Batch 2,840  of  4,317.    Elapsed: 0:45:11.
+  Batch 2,880  of  4,317.    Elapsed: 0:45:50.
+  Batch 2,920  of  4,317.    Elapsed: 0:46:28.
+  Batch 2,960  of  4,317.    Elapsed: 0:47:06.
+  Batch 3,000  of  4,317.    Elapsed: 0:47:44.
+  Batch 3,040  of  4,317.    Elapsed: 0:48:23.
+  Batch 3,080  of  4,317.    Elapsed: 0:49:01.
+  Batch 3,120  of  4,317.    Elapsed: 0:49:39.
+  Batch 3,160  of  4,317.    Elapsed: 0:50:17.
+  Batch 3,200  of  4,317.    Elapsed: 0:50:55.
+  Batch 3,240  of  4,317.    Elapsed: 0:51:33.
+  Batch 3,280  of  4,317.    Elapsed: 0:52:11.
+  Batch 3,320  of  4,317.    Elapsed: 0:52:49.
+  Batch 3,360  of  4,317.    Elapsed: 0:53:27.
+  Batch 3,400  of  4,317.    Elapsed: 0:54:06.
+  Batch 3,440  of  4,317.    Elapsed: 0:54:44.
+  Batch 3,480  of  4,317.    Elapsed: 0:55:22.
+  Batch 3,520  of  4,317.    Elapsed: 0:56:00.
+  Batch 3,560  of  4,317.    Elapsed: 0:56:38.
+  Batch 3,600  of  4,317.    Elapsed: 0:57:17.
+  Batch 3,640  of  4,317.    Elapsed: 0:57:55.
+  Batch 3,680  of  4,317.    Elapsed: 0:58:33.
+  Batch 3,720  of  4,317.    Elapsed: 0:59:11.
+  Batch 3,760  of  4,317.    Elapsed: 0:59:49.
+  Batch 3,800  of  4,317.    Elapsed: 1:00:28.
+  Batch 3,840  of  4,317.    Elapsed: 1:01:06.
+  Batch 3,880  of  4,317.    Elapsed: 1:01:44.
+  Batch 3,920  of  4,317.    Elapsed: 1:02:22.
+  Batch 3,960  of  4,317.    Elapsed: 1:03:01.
+  Batch 4,000  of  4,317.    Elapsed: 1:03:39.
+  Batch 4,040  of  4,317.    Elapsed: 1:04:17.
+  Batch 4,080  of  4,317.    Elapsed: 1:04:55.
+  Batch 4,120  of  4,317.    Elapsed: 1:05:34.
+  Batch 4,160  of  4,317.    Elapsed: 1:06:12.
+  Batch 4,200  of  4,317.    Elapsed: 1:06:50.
+  Batch 4,240  of  4,317.    Elapsed: 1:07:28.
+  Batch 4,280  of  4,317.    Elapsed: 1:08:07.
+
+  Average training loss: 0.54
+  Training epcoh took: 1:08:42
+
+======== Epoch 2 / 2 ========
+Training...
+  Batch    40  of  4,317.    Elapsed: 0:00:38.
+  Batch    80  of  4,317.    Elapsed: 0:01:17.
+  Batch   120  of  4,317.    Elapsed: 0:01:55.
+  Batch   160  of  4,317.    Elapsed: 0:02:33.
+  Batch   200  of  4,317.    Elapsed: 0:03:11.
+  Batch   240  of  4,317.    Elapsed: 0:03:50.
+  Batch   280  of  4,317.    Elapsed: 0:04:28.
+  Batch   320  of  4,317.    Elapsed: 0:05:06.
+  Batch   360  of  4,317.    Elapsed: 0:05:44.
+  Batch   400  of  4,317.    Elapsed: 0:06:23.
+  Batch   440  of  4,317.    Elapsed: 0:07:01.
+  Batch   480  of  4,317.    Elapsed: 0:07:39.
+  Batch   520  of  4,317.    Elapsed: 0:08:17.
+  Batch   560  of  4,317.    Elapsed: 0:08:55.
+  Batch   600  of  4,317.    Elapsed: 0:09:34.
+  Batch   640  of  4,317.    Elapsed: 0:10:12.
+  Batch   680  of  4,317.    Elapsed: 0:10:50.
+  Batch   720  of  4,317.    Elapsed: 0:11:28.
+  Batch   760  of  4,317.    Elapsed: 0:12:07.
+  Batch   800  of  4,317.    Elapsed: 0:12:45.
+  Batch   840  of  4,317.    Elapsed: 0:13:23.
+  Batch   880  of  4,317.    Elapsed: 0:14:01.
+  Batch   920  of  4,317.    Elapsed: 0:14:40.
+  Batch   960  of  4,317.    Elapsed: 0:15:18.
+  Batch 1,000  of  4,317.    Elapsed: 0:15:56.
+  Batch 1,040  of  4,317.    Elapsed: 0:16:35.
+  Batch 1,080  of  4,317.    Elapsed: 0:17:13.
+  Batch 1,120  of  4,317.    Elapsed: 0:17:51.
+  Batch 1,160  of  4,317.    Elapsed: 0:18:29.
+  Batch 1,200  of  4,317.    Elapsed: 0:19:08.
+  Batch 1,240  of  4,317.    Elapsed: 0:19:46.
+  Batch 1,280  of  4,317.    Elapsed: 0:20:24.
+  Batch 1,320  of  4,317.    Elapsed: 0:21:02.
+  Batch 1,360  of  4,317.    Elapsed: 0:21:41.
+  Batch 1,400  of  4,317.    Elapsed: 0:22:19.
+  Batch 1,440  of  4,317.    Elapsed: 0:22:57.
+  Batch 1,480  of  4,317.    Elapsed: 0:23:35.
+  Batch 1,520  of  4,317.    Elapsed: 0:24:14.
+  Batch 1,560  of  4,317.    Elapsed: 0:24:52.
+  Batch 1,600  of  4,317.    Elapsed: 0:25:30.
+  Batch 1,640  of  4,317.    Elapsed: 0:26:08.
+  Batch 1,680  of  4,317.    Elapsed: 0:26:46.
+  Batch 1,720  of  4,317.    Elapsed: 0:27:25.
+  Batch 1,760  of  4,317.    Elapsed: 0:28:04.
+  Batch 1,800  of  4,317.    Elapsed: 0:28:42.
+  Batch 1,840  of  4,317.    Elapsed: 0:29:20.
+  Batch 1,880  of  4,317.    Elapsed: 0:29:58.
+  Batch 1,920  of  4,317.    Elapsed: 0:30:36.
+  Batch 1,960  of  4,317.    Elapsed: 0:31:15.
+  Batch 2,000  of  4,317.    Elapsed: 0:31:53.
+  Batch 2,040  of  4,317.    Elapsed: 0:32:31.
+  Batch 2,080  of  4,317.    Elapsed: 0:33:09.
+  Batch 2,120  of  4,317.    Elapsed: 0:33:47.
+  Batch 2,160  of  4,317.    Elapsed: 0:34:26.
+  Batch 2,200  of  4,317.    Elapsed: 0:35:04.
+  Batch 2,240  of  4,317.    Elapsed: 0:35:42.
+  Batch 2,280  of  4,317.    Elapsed: 0:36:20.
+  Batch 2,320  of  4,317.    Elapsed: 0:36:58.
+  Batch 2,360  of  4,317.    Elapsed: 0:37:37.
+  Batch 2,400  of  4,317.    Elapsed: 0:38:15.
+  Batch 2,440  of  4,317.    Elapsed: 0:38:53.
+  Batch 2,480  of  4,317.    Elapsed: 0:39:31.
+  Batch 2,520  of  4,317.    Elapsed: 0:40:09.
+  Batch 2,560  of  4,317.    Elapsed: 0:40:48.
+  Batch 2,600  of  4,317.    Elapsed: 0:41:26.
+  Batch 2,640  of  4,317.    Elapsed: 0:42:04.
+  Batch 2,680  of  4,317.    Elapsed: 0:42:42.
+  Batch 2,720  of  4,317.    Elapsed: 0:43:20.
+  Batch 2,760  of  4,317.    Elapsed: 0:43:59.
+  Batch 2,800  of  4,317.    Elapsed: 0:44:37.
+  Batch 2,840  of  4,317.    Elapsed: 0:45:15.
+  Batch 2,880  of  4,317.    Elapsed: 0:45:53.
+  Batch 2,920  of  4,317.    Elapsed: 0:46:31.
+  Batch 2,960  of  4,317.    Elapsed: 0:47:09.
+  Batch 3,000  of  4,317.    Elapsed: 0:47:48.
+  Batch 3,040  of  4,317.    Elapsed: 0:48:26.
+  Batch 3,080  of  4,317.    Elapsed: 0:49:04.
+  Batch 3,120  of  4,317.    Elapsed: 0:49:42.
+  Batch 3,160  of  4,317.    Elapsed: 0:50:20.
+  Batch 3,200  of  4,317.    Elapsed: 0:50:59.
+  Batch 3,240  of  4,317.    Elapsed: 0:51:37.
+  Batch 3,280  of  4,317.    Elapsed: 0:52:15.
+  Batch 3,320  of  4,317.    Elapsed: 0:52:53.
+  Batch 3,360  of  4,317.    Elapsed: 0:53:31.
+  Batch 3,400  of  4,317.    Elapsed: 0:54:10.
+  Batch 3,440  of  4,317.    Elapsed: 0:54:48.
+  Batch 3,480  of  4,317.    Elapsed: 0:55:26.
+  Batch 3,520  of  4,317.    Elapsed: 0:56:04.
+  Batch 3,560  of  4,317.    Elapsed: 0:56:42.
+  Batch 3,600  of  4,317.    Elapsed: 0:57:21.
+  Batch 3,640  of  4,317.    Elapsed: 0:57:59.
+  Batch 3,680  of  4,317.    Elapsed: 0:58:37.
+  Batch 3,720  of  4,317.    Elapsed: 0:59:15.
+  Batch 3,760  of  4,317.    Elapsed: 0:59:53.
+  Batch 3,800  of  4,317.    Elapsed: 1:00:32.
+  Batch 3,840  of  4,317.    Elapsed: 1:01:10.
+  Batch 3,880  of  4,317.    Elapsed: 1:01:48.
+  Batch 3,920  of  4,317.    Elapsed: 1:02:26.
+  Batch 3,960  of  4,317.    Elapsed: 1:03:04.
+  Batch 4,000  of  4,317.    Elapsed: 1:03:43.
+  Batch 4,040  of  4,317.    Elapsed: 1:04:21.
+  Batch 4,080  of  4,317.    Elapsed: 1:04:59.
+  Batch 4,120  of  4,317.    Elapsed: 1:05:37.
+  Batch 4,160  of  4,317.    Elapsed: 1:06:15.
+  Batch 4,200  of  4,317.    Elapsed: 1:06:54.
+  Batch 4,240  of  4,317.    Elapsed: 1:07:32.
+  Batch 4,280  of  4,317.    Elapsed: 1:08:10.
+
+  Average training loss: 0.41
+  Training epcoh took: 1:08:45
+
+Training complete!
+Finished train hate speech model
+Starting evaluation: test data
+  Accuracy: 0.82
+  F1: 0.81
+  Validation took: 0:01:57
+Finished evaluation: test data
+Finished experiment execution
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input شو بتلبقلك كلمة خنزير بتجي مفصله على قياسك وشكلك
+
+HTML file saved to viz/all_2/arabic_abusive/شو بت�
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input عقبال يغرقوا التنين بالمجارير
+
+HTML file saved to viz/all_2/arabic_abusive/عقبال
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input كثروا المنافقين اصحاب المصالح هاذا اكبر كلب لأيران في لبنان ، تابع هالفديوا وتعرف هالمرتزق
+
+HTML file saved to viz/all_2/arabic_abusive/كثروا
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input خلعتك ضربة ع وترك الحساس تا فعت هالفوعة؟؟؟ ههههه الله يشفيك يا حمار يا زبالة
+
+HTML file saved to viz/all_2/arabic_abusive/خلعتك
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input دئما يلحق بك الدمااار
+HTML file saved to viz/all_2/arabic_abusive/دئما �
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input يا عيبو عليكي يا إيران عم تحوي إرهابيين تعلمي من السعودية درسيهم عندك وبعتيهم لبرا
+
+HTML file saved to viz/all_2/arabic_hate/يا عي�
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input لا كل الثواار كلاب متل النظام هيك جملة سهل قولها وما بتوجع الراس وبتريحك من كتير وجع راس وتفكير الكل كلاب 
+
+HTML file saved to viz/all_2/arabic_hate/لا كل 
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input ليش اهتم او ادعم طرف؟
+
+HTML file saved to viz/all_2/arabic_hate/ليش ا�
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input أذا جبران باسيل يقودكم والجاهل شيخ الجاهلية يصفق للقرد   	اكيد بيكون ي…	
+
+HTML file saved to viz/all_2/arabic_hate/أذا ج�
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input دميم الكلب ليس له مكان بين العرب اﻻشراف انه حثالة وأمير الشواذ والمخنثين ﻻ مرحبا به في أي مكان أو زمان…
+
+HTML file saved to viz/all_2/arabic_hate/دميم �
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input على من تقرأ مزاميرك يا داوود؟ وليد جان بولاد أصلو تركماني لا يمكن أن تترجى أو تتمنى عليه فهو مجرم موص… 
+HTML file saved to viz/all_2/arabic_hate/على م�
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input سوف يتحاسبو جميعالان الحق سلطان
+
+HTML file saved to viz/all_2/arabic_normal/سوف ي�
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input لبنان علّم العالم الأبجدية وكيف بيمشي البلد بلا دولة
+
+HTML file saved to viz/all_2/arabic_normal/لبنان
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input بدك تعمل برنامج ينجح؟ حكي عن جبران باسيل مياومو الإعلام
+
+HTML file saved to viz/all_2/arabic_normal/بدك ت�
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input يا زلمي انت عندك مشكلة لازم تحلها او انو الانكليزي صعب عليك
+
+HTML file saved to viz/all_2/arabic_normal/يا زل�
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input نبيه بري علاقتي ممتازة مع فخامة الرئيس
+HTML file saved to viz/all_2/arabic_normal/نبيه �
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input RT USER Horse face hoe stop playing before I show the world yo lil ugly ass
+
+HTML file saved to viz/all_2/english_abusive/RT USER Ho
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input I repeat... What the bloody hell is happening! 🙈👀  URL
+
+HTML file saved to viz/all_2/english_abusive/I repeat..
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input WBA.... Why Bother Attacking.... retarded ass team what's the point of playing defensive for 90 mins??
+
+HTML file saved to viz/all_2/english_abusive/WBA.... Wh
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input STRANGLE THIS EVIL FUCK TO DEATH!	
+
+HTML file saved to viz/all_2/english_abusive/STRANGLE T
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input USER USER your an idiot TROLL and the furthest thing from what you think you are 007 is your frigging IQ
+
+HTML file saved to viz/all_2/english_abusive/USER USER 
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input It's always the filthy bitch that comes in the picture.. 🤦🏽‍♂️
+HTML file saved to viz/all_2/english_abusive/It's alway
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input If You Think It Isn't , Go To Hell , I Hate You And I Wanna Stab You To Death
+
+HTML file saved to viz/all_2/english_hate/If You Thi
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input RT USER Bloody Islamic Bastards URL
+
+HTML file saved to viz/all_2/english_hate/RT USER Bl
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input RT USER i'm tired of u feminist bitches bc this is just disgusting URL
+
+HTML file saved to viz/all_2/english_hate/RT USER i'
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input USER u r a slim bag &amp; puppet for USER so why dont u go ask him 4 permission to speak u idiot
+
+HTML file saved to viz/all_2/english_hate/USER u r a
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input RT USER USER USER : Call me  anti-Muslim, but, I like womens's feet!  Muzzies be crazy intolerant!
+
+HTML file saved to viz/all_2/english_hate/RT USER US
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input USER Perhaps an IQ test should be a requirement for members of Congress. This idiot and Sheila Jackson Lee would flunk
+HTML file saved to viz/all_2/english_hate/USER Perha
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input too bad i ain't packing like that banana 😞💔 URL
+
+HTML file saved to viz/all_2/english_normal/too bad i 
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input Carlos Correa had gyalchester as his walkup music and it was so bad ass 😂
+
+HTML file saved to viz/all_2/english_normal/Carlos Cor
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input RT USER Papaya has to be the worst fruit ever
+
+HTML file saved to viz/all_2/english_normal/RT USER Pa
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input RT USER lesson of the day: fight salty ass hate with poems 🙂 URL
+
+HTML file saved to viz/all_2/english_normal/RT USER le
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input USER ugh, crippling self doubt is THE WORST.
+HTML file saved to viz/all_2/english_normal/USER ugh, 
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input " Ngakunya org pintar dan beragama, emangnya agama mana yg memperbolehkan menista dan menghujat org lain???. Jgnkan orang bodoh, org yg ( maaf) sejak lahir idiot sekalipun dia, kita hrs hargain sebagai sesama ciptaan Tuhan. Ingat : iblis itu juga pintar dan sangat licik!!!'"
+
+HTML file saved to viz/all_2/indonesian_abusive/" Ngakunya
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input Eh kenapa muka merah2 tu? Tak dpt cendol ke? Bukan la setan cuaca skrg ni panas
+
+HTML file saved to viz/all_2/indonesian_abusive/Eh kenapa 
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input we ada pipis onta tercecer di mari pantes bau pesing
+
+HTML file saved to viz/all_2/indonesian_abusive/we ada pip
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input " Owwwwh, bokong supirnya besar ya cs mknya sampek duduk di besi? Baru ngeh aku.. Hahahahah
+
+HTML file saved to viz/all_2/indonesian_abusive/" Owwwwh, 
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input Tidak semua laki laki brengsek, tapi laki laki brengsek itu benar benar ada di dunia ini
+HTML file saved to viz/all_2/indonesian_abusive/Tidak semu
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input RT Ayohbangsa indonesia bersihkan etnis cina perompak aset negara
+
+HTML file saved to viz/all_2/indonesian_hate/RT Ayohban
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input RT Hahaha tereak2 cina lu gak ngaca ye junjungan lu itu keturunan etnis ape ?
+
+HTML file saved to viz/all_2/indonesian_hate/RT Hahaha 
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input Mana bisa percya lagi,sdgkan induknya penista smp skrg lum ditahan tp malah dibela.
+
+HTML file saved to viz/all_2/indonesian_hate/Mana bisa 
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input pencitraan silakan nyebur aja di laut selatan ya.
+
+HTML file saved to viz/all_2/indonesian_hate/pencitraan
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input Ok kalo bgt kita usir minoritas umat budha di indonesia kita barter sama umat Islam nya.
+HTML file saved to viz/all_2/indonesian_hate/Ok kalo bg
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input Kalo belajar ekonomi mestinya jago memprivatisasi hati orang. Duh.. ironi
+
+HTML file saved to viz/all_2/indonesian_normal/Kalo belaj
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input Bandara Udara Internasional Kertajati dibangun oleh Gubernur Ahmad Heryawan tanpa gunakan APBN pemerintah pusat. Insya Allah siap beroperasi bulan depan;
+
+HTML file saved to viz/all_2/indonesian_normal/Bandara Ud
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input "Bung Karno anti asing dan beliau dari Jawa, coba deh adain konsensus lebih banyak mana Jawa yang anti asing atau pro asing karena kebo*ohannya. Kalau kami keliru kami tutup akun'"
+
+HTML file saved to viz/all_2/indonesian_normal/"Bung Karn
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input "Ha .. ha .. Banyak baca biar pintar ... JEPANG, AMERIKA, CHINA... Utang sama siapa ... Anda tau enggak ..?"
+
+HTML file saved to viz/all_2/indonesian_normal/"Ha .. ha 
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input USER Jgn lupa juga kang.... Umat katolik dan minorutas lainnya diperhatika. Gubernur untuk semua golongan bukan satu golongan.'
+HTML file saved to viz/all_2/indonesian_normal/USER Jgn l
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input شو بتلبقلك كلمة خنزير بتجي مفصله على قياسك وشكلك
+
+HTML file saved to viz/all_2/arabic_abusive/شو بت�
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input عقبال يغرقوا التنين بالمجارير
+
+HTML file saved to viz/all_2/arabic_abusive/عقبال
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input كثروا المنافقين اصحاب المصالح هاذا اكبر كلب لأيران في لبنان ، تابع هالفديوا وتعرف هالمرتزق
+
+HTML file saved to viz/all_2/arabic_abusive/كثروا
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input خلعتك ضربة ع وترك الحساس تا فعت هالفوعة؟؟؟ ههههه الله يشفيك يا حمار يا زبالة
+
+HTML file saved to viz/all_2/arabic_abusive/خلعتك
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input دئما يلحق بك الدمااار
+HTML file saved to viz/all_2/arabic_abusive/دئما �
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input يا عيبو عليكي يا إيران عم تحوي إرهابيين تعلمي من السعودية درسيهم عندك وبعتيهم لبرا
+
+HTML file saved to viz/all_2/arabic_hate/يا عي�
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input لا كل الثواار كلاب متل النظام هيك جملة سهل قولها وما بتوجع الراس وبتريحك من كتير وجع راس وتفكير الكل كلاب 
+
+HTML file saved to viz/all_2/arabic_hate/لا كل 
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input ليش اهتم او ادعم طرف؟
+
+HTML file saved to viz/all_2/arabic_hate/ليش ا�
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input أذا جبران باسيل يقودكم والجاهل شيخ الجاهلية يصفق للقرد   	اكيد بيكون ي…	
+
+HTML file saved to viz/all_2/arabic_hate/أذا ج�
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input دميم الكلب ليس له مكان بين العرب اﻻشراف انه حثالة وأمير الشواذ والمخنثين ﻻ مرحبا به في أي مكان أو زمان…
+
+HTML file saved to viz/all_2/arabic_hate/دميم �
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input على من تقرأ مزاميرك يا داوود؟ وليد جان بولاد أصلو تركماني لا يمكن أن تترجى أو تتمنى عليه فهو مجرم موص… 
+HTML file saved to viz/all_2/arabic_hate/على م�
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input سوف يتحاسبو جميعالان الحق سلطان
+
+HTML file saved to viz/all_2/arabic_normal/سوف ي�
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input لبنان علّم العالم الأبجدية وكيف بيمشي البلد بلا دولة
+
+HTML file saved to viz/all_2/arabic_normal/لبنان
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input بدك تعمل برنامج ينجح؟ حكي عن جبران باسيل مياومو الإعلام
+
+HTML file saved to viz/all_2/arabic_normal/بدك ت�
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input يا زلمي انت عندك مشكلة لازم تحلها او انو الانكليزي صعب عليك
+
+HTML file saved to viz/all_2/arabic_normal/يا زل�
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input نبيه بري علاقتي ممتازة مع فخامة الرئيس
+HTML file saved to viz/all_2/arabic_normal/نبيه �
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input RT USER Horse face hoe stop playing before I show the world yo lil ugly ass
+
+HTML file saved to viz/all_2/english_abusive/RT USER Ho
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input I repeat... What the bloody hell is happening! 🙈👀  URL
+
+HTML file saved to viz/all_2/english_abusive/I repeat..
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input WBA.... Why Bother Attacking.... retarded ass team what's the point of playing defensive for 90 mins??
+
+HTML file saved to viz/all_2/english_abusive/WBA.... Wh
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input STRANGLE THIS EVIL FUCK TO DEATH!	
+
+HTML file saved to viz/all_2/english_abusive/STRANGLE T
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input USER USER your an idiot TROLL and the furthest thing from what you think you are 007 is your frigging IQ
+
+HTML file saved to viz/all_2/english_abusive/USER USER 
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input It's always the filthy bitch that comes in the picture.. 🤦🏽‍♂️
+HTML file saved to viz/all_2/english_abusive/It's alway
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input If You Think It Isn't , Go To Hell , I Hate You And I Wanna Stab You To Death
+
+HTML file saved to viz/all_2/english_hate/If You Thi
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input RT USER Bloody Islamic Bastards URL
+
+HTML file saved to viz/all_2/english_hate/RT USER Bl
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input RT USER i'm tired of u feminist bitches bc this is just disgusting URL
+
+HTML file saved to viz/all_2/english_hate/RT USER i'
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input USER u r a slim bag &amp; puppet for USER so why dont u go ask him 4 permission to speak u idiot
+
+HTML file saved to viz/all_2/english_hate/USER u r a
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input RT USER USER USER : Call me  anti-Muslim, but, I like womens's feet!  Muzzies be crazy intolerant!
+
+HTML file saved to viz/all_2/english_hate/RT USER US
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input USER Perhaps an IQ test should be a requirement for members of Congress. This idiot and Sheila Jackson Lee would flunk
+HTML file saved to viz/all_2/english_hate/USER Perha
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input too bad i ain't packing like that banana 😞💔 URL
+
+HTML file saved to viz/all_2/english_normal/too bad i 
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input Carlos Correa had gyalchester as his walkup music and it was so bad ass 😂
+
+HTML file saved to viz/all_2/english_normal/Carlos Cor
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input RT USER Papaya has to be the worst fruit ever
+
+HTML file saved to viz/all_2/english_normal/RT USER Pa
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input RT USER lesson of the day: fight salty ass hate with poems 🙂 URL
+
+HTML file saved to viz/all_2/english_normal/RT USER le
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input USER ugh, crippling self doubt is THE WORST.
+HTML file saved to viz/all_2/english_normal/USER ugh, 
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input " Ngakunya org pintar dan beragama, emangnya agama mana yg memperbolehkan menista dan menghujat org lain???. Jgnkan orang bodoh, org yg ( maaf) sejak lahir idiot sekalipun dia, kita hrs hargain sebagai sesama ciptaan Tuhan. Ingat : iblis itu juga pintar dan sangat licik!!!'"
+
+HTML file saved to viz/all_2/indonesian_abusive/" Ngakunya
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input Eh kenapa muka merah2 tu? Tak dpt cendol ke? Bukan la setan cuaca skrg ni panas
+
+HTML file saved to viz/all_2/indonesian_abusive/Eh kenapa 
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input we ada pipis onta tercecer di mari pantes bau pesing
+
+HTML file saved to viz/all_2/indonesian_abusive/we ada pip
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input " Owwwwh, bokong supirnya besar ya cs mknya sampek duduk di besi? Baru ngeh aku.. Hahahahah
+
+HTML file saved to viz/all_2/indonesian_abusive/" Owwwwh, 
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input Tidak semua laki laki brengsek, tapi laki laki brengsek itu benar benar ada di dunia ini
+HTML file saved to viz/all_2/indonesian_abusive/Tidak semu
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input RT Ayohbangsa indonesia bersihkan etnis cina perompak aset negara
+
+HTML file saved to viz/all_2/indonesian_hate/RT Ayohban
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input RT Hahaha tereak2 cina lu gak ngaca ye junjungan lu itu keturunan etnis ape ?
+
+HTML file saved to viz/all_2/indonesian_hate/RT Hahaha 
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input Mana bisa percya lagi,sdgkan induknya penista smp skrg lum ditahan tp malah dibela.
+
+HTML file saved to viz/all_2/indonesian_hate/Mana bisa 
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input pencitraan silakan nyebur aja di laut selatan ya.
+
+HTML file saved to viz/all_2/indonesian_hate/pencitraan
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input Ok kalo bgt kita usir minoritas umat budha di indonesia kita barter sama umat Islam nya.
+HTML file saved to viz/all_2/indonesian_hate/Ok kalo bg
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input Kalo belajar ekonomi mestinya jago memprivatisasi hati orang. Duh.. ironi
+
+HTML file saved to viz/all_2/indonesian_normal/Kalo belaj
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input Bandara Udara Internasional Kertajati dibangun oleh Gubernur Ahmad Heryawan tanpa gunakan APBN pemerintah pusat. Insya Allah siap beroperasi bulan depan;
+
+HTML file saved to viz/all_2/indonesian_normal/Bandara Ud
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input "Bung Karno anti asing dan beliau dari Jawa, coba deh adain konsensus lebih banyak mana Jawa yang anti asing atau pro asing karena kebo*ohannya. Kalau kami keliru kami tutup akun'"
+
+HTML file saved to viz/all_2/indonesian_normal/"Bung Karn
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input "Ha .. ha .. Banyak baca biar pintar ... JEPANG, AMERIKA, CHINA... Utang sama siapa ... Anda tau enggak ..?"
+
+HTML file saved to viz/all_2/indonesian_normal/"Ha .. ha 
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input USER Jgn lupa juga kang.... Umat katolik dan minorutas lainnya diperhatika. Gubernur untuk semua golongan bukan satu golongan.'
+HTML file saved to viz/all_2/indonesian_normal/USER Jgn l
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input شو بتلبقلك كلمة خنزير بتجي مفصله على قياسك وشكلك
+
+HTML file saved to viz/all_2/arabic_abusive/arabic_abusive_0
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input عقبال يغرقوا التنين بالمجارير
+
+HTML file saved to viz/all_2/arabic_abusive/arabic_abusive_1
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input كثروا المنافقين اصحاب المصالح هاذا اكبر كلب لأيران في لبنان ، تابع هالفديوا وتعرف هالمرتزق
+
+HTML file saved to viz/all_2/arabic_abusive/arabic_abusive_2
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input خلعتك ضربة ع وترك الحساس تا فعت هالفوعة؟؟؟ ههههه الله يشفيك يا حمار يا زبالة
+
+HTML file saved to viz/all_2/arabic_abusive/arabic_abusive_3
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input دئما يلحق بك الدمااار
+HTML file saved to viz/all_2/arabic_abusive/arabic_abusive_4
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input يا عيبو عليكي يا إيران عم تحوي إرهابيين تعلمي من السعودية درسيهم عندك وبعتيهم لبرا
+
+HTML file saved to viz/all_2/arabic_hate/arabic_hate_0
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input لا كل الثواار كلاب متل النظام هيك جملة سهل قولها وما بتوجع الراس وبتريحك من كتير وجع راس وتفكير الكل كلاب 
+
+HTML file saved to viz/all_2/arabic_hate/arabic_hate_1
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input ليش اهتم او ادعم طرف؟
+
+HTML file saved to viz/all_2/arabic_hate/arabic_hate_2
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input أذا جبران باسيل يقودكم والجاهل شيخ الجاهلية يصفق للقرد   	اكيد بيكون ي…	
+
+HTML file saved to viz/all_2/arabic_hate/arabic_hate_3
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input دميم الكلب ليس له مكان بين العرب اﻻشراف انه حثالة وأمير الشواذ والمخنثين ﻻ مرحبا به في أي مكان أو زمان…
+
+HTML file saved to viz/all_2/arabic_hate/arabic_hate_4
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input على من تقرأ مزاميرك يا داوود؟ وليد جان بولاد أصلو تركماني لا يمكن أن تترجى أو تتمنى عليه فهو مجرم موص… 
+HTML file saved to viz/all_2/arabic_hate/arabic_hate_5
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input سوف يتحاسبو جميعالان الحق سلطان
+
+HTML file saved to viz/all_2/arabic_normal/arabic_normal_0
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input لبنان علّم العالم الأبجدية وكيف بيمشي البلد بلا دولة
+
+HTML file saved to viz/all_2/arabic_normal/arabic_normal_1
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input بدك تعمل برنامج ينجح؟ حكي عن جبران باسيل مياومو الإعلام
+
+HTML file saved to viz/all_2/arabic_normal/arabic_normal_2
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input يا زلمي انت عندك مشكلة لازم تحلها او انو الانكليزي صعب عليك
+
+HTML file saved to viz/all_2/arabic_normal/arabic_normal_3
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input نبيه بري علاقتي ممتازة مع فخامة الرئيس
+HTML file saved to viz/all_2/arabic_normal/arabic_normal_4
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input RT USER Horse face hoe stop playing before I show the world yo lil ugly ass
+
+HTML file saved to viz/all_2/english_abusive/english_abusive_0
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input I repeat... What the bloody hell is happening! 🙈👀  URL
+
+HTML file saved to viz/all_2/english_abusive/english_abusive_1
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input WBA.... Why Bother Attacking.... retarded ass team what's the point of playing defensive for 90 mins??
+
+HTML file saved to viz/all_2/english_abusive/english_abusive_2
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input STRANGLE THIS EVIL FUCK TO DEATH!	
+
+HTML file saved to viz/all_2/english_abusive/english_abusive_3
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input USER USER your an idiot TROLL and the furthest thing from what you think you are 007 is your frigging IQ
+
+HTML file saved to viz/all_2/english_abusive/english_abusive_4
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input It's always the filthy bitch that comes in the picture.. 🤦🏽‍♂️
+HTML file saved to viz/all_2/english_abusive/english_abusive_5
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input If You Think It Isn't , Go To Hell , I Hate You And I Wanna Stab You To Death
+
+HTML file saved to viz/all_2/english_hate/english_hate_0
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input RT USER Bloody Islamic Bastards URL
+
+HTML file saved to viz/all_2/english_hate/english_hate_1
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input RT USER i'm tired of u feminist bitches bc this is just disgusting URL
+
+HTML file saved to viz/all_2/english_hate/english_hate_2
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input USER u r a slim bag &amp; puppet for USER so why dont u go ask him 4 permission to speak u idiot
+
+HTML file saved to viz/all_2/english_hate/english_hate_3
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input RT USER USER USER : Call me  anti-Muslim, but, I like womens's feet!  Muzzies be crazy intolerant!
+
+HTML file saved to viz/all_2/english_hate/english_hate_4
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input USER Perhaps an IQ test should be a requirement for members of Congress. This idiot and Sheila Jackson Lee would flunk
+HTML file saved to viz/all_2/english_hate/english_hate_5
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input too bad i ain't packing like that banana 😞💔 URL
+
+HTML file saved to viz/all_2/english_normal/english_normal_0
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input Carlos Correa had gyalchester as his walkup music and it was so bad ass 😂
+
+HTML file saved to viz/all_2/english_normal/english_normal_1
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input RT USER Papaya has to be the worst fruit ever
+
+HTML file saved to viz/all_2/english_normal/english_normal_2
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input RT USER lesson of the day: fight salty ass hate with poems 🙂 URL
+
+HTML file saved to viz/all_2/english_normal/english_normal_3
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input USER ugh, crippling self doubt is THE WORST.
+HTML file saved to viz/all_2/english_normal/english_normal_4
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input " Ngakunya org pintar dan beragama, emangnya agama mana yg memperbolehkan menista dan menghujat org lain???. Jgnkan orang bodoh, org yg ( maaf) sejak lahir idiot sekalipun dia, kita hrs hargain sebagai sesama ciptaan Tuhan. Ingat : iblis itu juga pintar dan sangat licik!!!'"
+
+HTML file saved to viz/all_2/indonesian_abusive/indonesian_abusive_0
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input Eh kenapa muka merah2 tu? Tak dpt cendol ke? Bukan la setan cuaca skrg ni panas
+
+HTML file saved to viz/all_2/indonesian_abusive/indonesian_abusive_1
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input we ada pipis onta tercecer di mari pantes bau pesing
+
+HTML file saved to viz/all_2/indonesian_abusive/indonesian_abusive_2
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input " Owwwwh, bokong supirnya besar ya cs mknya sampek duduk di besi? Baru ngeh aku.. Hahahahah
+
+HTML file saved to viz/all_2/indonesian_abusive/indonesian_abusive_3
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input Tidak semua laki laki brengsek, tapi laki laki brengsek itu benar benar ada di dunia ini
+HTML file saved to viz/all_2/indonesian_abusive/indonesian_abusive_4
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input RT Ayohbangsa indonesia bersihkan etnis cina perompak aset negara
+
+HTML file saved to viz/all_2/indonesian_hate/indonesian_hate_0
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input RT Hahaha tereak2 cina lu gak ngaca ye junjungan lu itu keturunan etnis ape ?
+
+HTML file saved to viz/all_2/indonesian_hate/indonesian_hate_1
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input Mana bisa percya lagi,sdgkan induknya penista smp skrg lum ditahan tp malah dibela.
+
+HTML file saved to viz/all_2/indonesian_hate/indonesian_hate_2
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input pencitraan silakan nyebur aja di laut selatan ya.
+
+HTML file saved to viz/all_2/indonesian_hate/indonesian_hate_3
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input Ok kalo bgt kita usir minoritas umat budha di indonesia kita barter sama umat Islam nya.
+HTML file saved to viz/all_2/indonesian_hate/indonesian_hate_4
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input Kalo belajar ekonomi mestinya jago memprivatisasi hati orang. Duh.. ironi
+
+HTML file saved to viz/all_2/indonesian_normal/indonesian_normal_0
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input Bandara Udara Internasional Kertajati dibangun oleh Gubernur Ahmad Heryawan tanpa gunakan APBN pemerintah pusat. Insya Allah siap beroperasi bulan depan;
+
+HTML file saved to viz/all_2/indonesian_normal/indonesian_normal_1
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input "Bung Karno anti asing dan beliau dari Jawa, coba deh adain konsensus lebih banyak mana Jawa yang anti asing atau pro asing karena kebo*ohannya. Kalau kami keliru kami tutup akun'"
+
+HTML file saved to viz/all_2/indonesian_normal/indonesian_normal_2
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input "Ha .. ha .. Banyak baca biar pintar ... JEPANG, AMERIKA, CHINA... Utang sama siapa ... Anda tau enggak ..?"
+
+HTML file saved to viz/all_2/indonesian_normal/indonesian_normal_3
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input USER Jgn lupa juga kang.... Umat katolik dan minorutas lainnya diperhatika. Gubernur untuk semua golongan bukan satu golongan.'
+HTML file saved to viz/all_2/indonesian_normal/indonesian_normal_4
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input شو بتلبقلك كلمة خنزير بتجي مفصله على قياسك وشكلك
+
+HTML file saved to viz/all_2/arabic_abusive/arabic_abusive_0
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input عقبال يغرقوا التنين بالمجارير
+
+HTML file saved to viz/all_2/arabic_abusive/arabic_abusive_1
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input كثروا المنافقين اصحاب المصالح هاذا اكبر كلب لأيران في لبنان ، تابع هالفديوا وتعرف هالمرتزق
+
+HTML file saved to viz/all_2/arabic_abusive/arabic_abusive_2
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input خلعتك ضربة ع وترك الحساس تا فعت هالفوعة؟؟؟ ههههه الله يشفيك يا حمار يا زبالة
+
+HTML file saved to viz/all_2/arabic_abusive/arabic_abusive_3
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input دئما يلحق بك الدمااار
+HTML file saved to viz/all_2/arabic_abusive/arabic_abusive_4
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input يا عيبو عليكي يا إيران عم تحوي إرهابيين تعلمي من السعودية درسيهم عندك وبعتيهم لبرا
+
+HTML file saved to viz/all_2/arabic_hate/arabic_hate_0
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input لا كل الثواار كلاب متل النظام هيك جملة سهل قولها وما بتوجع الراس وبتريحك من كتير وجع راس وتفكير الكل كلاب 
+
+HTML file saved to viz/all_2/arabic_hate/arabic_hate_1
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input ليش اهتم او ادعم طرف؟
+
+HTML file saved to viz/all_2/arabic_hate/arabic_hate_2
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input أذا جبران باسيل يقودكم والجاهل شيخ الجاهلية يصفق للقرد   	اكيد بيكون ي…	
+
+HTML file saved to viz/all_2/arabic_hate/arabic_hate_3
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input دميم الكلب ليس له مكان بين العرب اﻻشراف انه حثالة وأمير الشواذ والمخنثين ﻻ مرحبا به في أي مكان أو زمان…
+
+HTML file saved to viz/all_2/arabic_hate/arabic_hate_4
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input على من تقرأ مزاميرك يا داوود؟ وليد جان بولاد أصلو تركماني لا يمكن أن تترجى أو تتمنى عليه فهو مجرم موص… 
+HTML file saved to viz/all_2/arabic_hate/arabic_hate_5
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input سوف يتحاسبو جميعالان الحق سلطان
+
+HTML file saved to viz/all_2/arabic_normal/arabic_normal_0
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input لبنان علّم العالم الأبجدية وكيف بيمشي البلد بلا دولة
+
+HTML file saved to viz/all_2/arabic_normal/arabic_normal_1
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input بدك تعمل برنامج ينجح؟ حكي عن جبران باسيل مياومو الإعلام
+
+HTML file saved to viz/all_2/arabic_normal/arabic_normal_2
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input يا زلمي انت عندك مشكلة لازم تحلها او انو الانكليزي صعب عليك
+
+HTML file saved to viz/all_2/arabic_normal/arabic_normal_3
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input نبيه بري علاقتي ممتازة مع فخامة الرئيس
+HTML file saved to viz/all_2/arabic_normal/arabic_normal_4
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input RT USER Horse face hoe stop playing before I show the world yo lil ugly ass
+
+HTML file saved to viz/all_2/english_abusive/english_abusive_0
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input I repeat... What the bloody hell is happening! 🙈👀  URL
+
+HTML file saved to viz/all_2/english_abusive/english_abusive_1
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input WBA.... Why Bother Attacking.... retarded ass team what's the point of playing defensive for 90 mins??
+
+HTML file saved to viz/all_2/english_abusive/english_abusive_2
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input STRANGLE THIS EVIL FUCK TO DEATH!	
+
+HTML file saved to viz/all_2/english_abusive/english_abusive_3
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input USER USER your an idiot TROLL and the furthest thing from what you think you are 007 is your frigging IQ
+
+HTML file saved to viz/all_2/english_abusive/english_abusive_4
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input It's always the filthy bitch that comes in the picture.. 🤦🏽‍♂️
+HTML file saved to viz/all_2/english_abusive/english_abusive_5
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input If You Think It Isn't , Go To Hell , I Hate You And I Wanna Stab You To Death
+
+HTML file saved to viz/all_2/english_hate/english_hate_0
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input RT USER Bloody Islamic Bastards URL
+
+HTML file saved to viz/all_2/english_hate/english_hate_1
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input RT USER i'm tired of u feminist bitches bc this is just disgusting URL
+
+HTML file saved to viz/all_2/english_hate/english_hate_2
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input USER u r a slim bag &amp; puppet for USER so why dont u go ask him 4 permission to speak u idiot
+
+HTML file saved to viz/all_2/english_hate/english_hate_3
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input RT USER USER USER : Call me  anti-Muslim, but, I like womens's feet!  Muzzies be crazy intolerant!
+
+HTML file saved to viz/all_2/english_hate/english_hate_4
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input USER Perhaps an IQ test should be a requirement for members of Congress. This idiot and Sheila Jackson Lee would flunk
+HTML file saved to viz/all_2/english_hate/english_hate_5
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input too bad i ain't packing like that banana 😞💔 URL
+
+HTML file saved to viz/all_2/english_normal/english_normal_0
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input Carlos Correa had gyalchester as his walkup music and it was so bad ass 😂
+
+HTML file saved to viz/all_2/english_normal/english_normal_1
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input RT USER Papaya has to be the worst fruit ever
+
+HTML file saved to viz/all_2/english_normal/english_normal_2
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input RT USER lesson of the day: fight salty ass hate with poems 🙂 URL
+
+HTML file saved to viz/all_2/english_normal/english_normal_3
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input USER ugh, crippling self doubt is THE WORST.
+HTML file saved to viz/all_2/english_normal/english_normal_4
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input " Ngakunya org pintar dan beragama, emangnya agama mana yg memperbolehkan menista dan menghujat org lain???. Jgnkan orang bodoh, org yg ( maaf) sejak lahir idiot sekalipun dia, kita hrs hargain sebagai sesama ciptaan Tuhan. Ingat : iblis itu juga pintar dan sangat licik!!!'"
+
+HTML file saved to viz/all_2/indonesian_abusive/indonesian_abusive_0
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input Eh kenapa muka merah2 tu? Tak dpt cendol ke? Bukan la setan cuaca skrg ni panas
+
+HTML file saved to viz/all_2/indonesian_abusive/indonesian_abusive_1
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input we ada pipis onta tercecer di mari pantes bau pesing
+
+HTML file saved to viz/all_2/indonesian_abusive/indonesian_abusive_2
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input " Owwwwh, bokong supirnya besar ya cs mknya sampek duduk di besi? Baru ngeh aku.. Hahahahah
+
+HTML file saved to viz/all_2/indonesian_abusive/indonesian_abusive_3
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input Tidak semua laki laki brengsek, tapi laki laki brengsek itu benar benar ada di dunia ini
+HTML file saved to viz/all_2/indonesian_abusive/indonesian_abusive_4
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input RT Ayohbangsa indonesia bersihkan etnis cina perompak aset negara
+
+HTML file saved to viz/all_2/indonesian_hate/indonesian_hate_0
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input RT Hahaha tereak2 cina lu gak ngaca ye junjungan lu itu keturunan etnis ape ?
+
+HTML file saved to viz/all_2/indonesian_hate/indonesian_hate_1
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input Mana bisa percya lagi,sdgkan induknya penista smp skrg lum ditahan tp malah dibela.
+
+HTML file saved to viz/all_2/indonesian_hate/indonesian_hate_2
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input pencitraan silakan nyebur aja di laut selatan ya.
+
+HTML file saved to viz/all_2/indonesian_hate/indonesian_hate_3
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input Ok kalo bgt kita usir minoritas umat budha di indonesia kita barter sama umat Islam nya.
+HTML file saved to viz/all_2/indonesian_hate/indonesian_hate_4
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input Kalo belajar ekonomi mestinya jago memprivatisasi hati orang. Duh.. ironi
+
+HTML file saved to viz/all_2/indonesian_normal/indonesian_normal_0
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input Bandara Udara Internasional Kertajati dibangun oleh Gubernur Ahmad Heryawan tanpa gunakan APBN pemerintah pusat. Insya Allah siap beroperasi bulan depan;
+
+HTML file saved to viz/all_2/indonesian_normal/indonesian_normal_1
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input "Bung Karno anti asing dan beliau dari Jawa, coba deh adain konsensus lebih banyak mana Jawa yang anti asing atau pro asing karena kebo*ohannya. Kalau kami keliru kami tutup akun'"
+
+HTML file saved to viz/all_2/indonesian_normal/indonesian_normal_2
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input "Ha .. ha .. Banyak baca biar pintar ... JEPANG, AMERIKA, CHINA... Utang sama siapa ... Anda tau enggak ..?"
+
+HTML file saved to viz/all_2/indonesian_normal/indonesian_normal_3
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input USER Jgn lupa juga kang.... Umat katolik dan minorutas lainnya diperhatika. Gubernur untuk semua golongan bukan satu golongan.'
+HTML file saved to viz/all_2/indonesian_normal/indonesian_normal_4
