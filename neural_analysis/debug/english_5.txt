@@ -1,0 +1,233 @@
+Initializing debugger output file...
+###
+Experiment config settings:
+config_name: english_5
+random_seed: 121
+dataset: english_processed_nostoppunct
+model_type: bert-base-uncased
+optimizer: AdamW
+learning_rate: 2e-5
+epsilon: 1e-8
+num_training_epochs: 2
+num_warmup_steps: 0
+num_classifier_labels: 4
+output_attentions: True
+output_hidden_states: True
+batch_size: 16
+max_tokens_length: 40
+###
+DATASETS: ['/home2/coman8/ling575_neural_models/src/../datasets/english_processed_nostoppunct.txt']
+Starting experiment execution
+There are 1 GPU(s) available.
+We will use the GPU:Tesla M10
+Starting load dataset
+First data label: 1
+Finished load dataset
+Loading BERT tokenizer...
+Starting split dataset
+Input IDs dimension-1 size: 61053
+Input IDs dimension-2 size: 40
+Input Labels dimension-1 size: 61053
+Input Masks dimension-1 size: 61053
+Input Masks dimension-2 size: 40
+Train inputs dimension-1 size: 54947
+Train inputs dimension-2 size: 40
+Train labels dimension-1 size: 54947
+Train masks dimension-1 size: 54947
+Train masks dimension-2 size: 40
+Finished split dataset
+Made it here
+Starting to Load BertForSequenceClassification
+Finished initializing model
+Starting train hate speech model
+
+======== Epoch 1 / 2 ========
+Training...
+  Batch    40  of  3,435.    Elapsed: 0:00:21.
+  Batch    80  of  3,435.    Elapsed: 0:00:42.
+  Batch   120  of  3,435.    Elapsed: 0:01:02.
+  Batch   160  of  3,435.    Elapsed: 0:01:23.
+  Batch   200  of  3,435.    Elapsed: 0:01:44.
+  Batch   240  of  3,435.    Elapsed: 0:02:05.
+  Batch   280  of  3,435.    Elapsed: 0:02:26.
+  Batch   320  of  3,435.    Elapsed: 0:02:47.
+  Batch   360  of  3,435.    Elapsed: 0:03:07.
+  Batch   400  of  3,435.    Elapsed: 0:03:28.
+  Batch   440  of  3,435.    Elapsed: 0:03:49.
+  Batch   480  of  3,435.    Elapsed: 0:04:10.
+  Batch   520  of  3,435.    Elapsed: 0:04:31.
+  Batch   560  of  3,435.    Elapsed: 0:04:52.
+  Batch   600  of  3,435.    Elapsed: 0:05:13.
+  Batch   640  of  3,435.    Elapsed: 0:05:34.
+  Batch   680  of  3,435.    Elapsed: 0:05:55.
+  Batch   720  of  3,435.    Elapsed: 0:06:16.
+  Batch   760  of  3,435.    Elapsed: 0:06:36.
+  Batch   800  of  3,435.    Elapsed: 0:06:57.
+  Batch   840  of  3,435.    Elapsed: 0:07:18.
+  Batch   880  of  3,435.    Elapsed: 0:07:39.
+  Batch   920  of  3,435.    Elapsed: 0:08:00.
+  Batch   960  of  3,435.    Elapsed: 0:08:21.
+  Batch 1,000  of  3,435.    Elapsed: 0:08:42.
+  Batch 1,040  of  3,435.    Elapsed: 0:09:03.
+  Batch 1,080  of  3,435.    Elapsed: 0:09:25.
+  Batch 1,120  of  3,435.    Elapsed: 0:09:46.
+  Batch 1,160  of  3,435.    Elapsed: 0:10:07.
+  Batch 1,200  of  3,435.    Elapsed: 0:10:28.
+  Batch 1,240  of  3,435.    Elapsed: 0:10:49.
+  Batch 1,280  of  3,435.    Elapsed: 0:11:10.
+  Batch 1,320  of  3,435.    Elapsed: 0:11:31.
+  Batch 1,360  of  3,435.    Elapsed: 0:11:52.
+  Batch 1,400  of  3,435.    Elapsed: 0:12:13.
+  Batch 1,440  of  3,435.    Elapsed: 0:12:34.
+  Batch 1,480  of  3,435.    Elapsed: 0:12:55.
+  Batch 1,520  of  3,435.    Elapsed: 0:13:16.
+  Batch 1,560  of  3,435.    Elapsed: 0:13:37.
+  Batch 1,600  of  3,435.    Elapsed: 0:13:58.
+  Batch 1,640  of  3,435.    Elapsed: 0:14:19.
+  Batch 1,680  of  3,435.    Elapsed: 0:14:40.
+  Batch 1,720  of  3,435.    Elapsed: 0:15:02.
+  Batch 1,760  of  3,435.    Elapsed: 0:15:23.
+  Batch 1,800  of  3,435.    Elapsed: 0:15:44.
+  Batch 1,840  of  3,435.    Elapsed: 0:16:05.
+  Batch 1,880  of  3,435.    Elapsed: 0:16:26.
+  Batch 1,920  of  3,435.    Elapsed: 0:16:47.
+  Batch 1,960  of  3,435.    Elapsed: 0:17:08.
+  Batch 2,000  of  3,435.    Elapsed: 0:17:30.
+  Batch 2,040  of  3,435.    Elapsed: 0:17:51.
+  Batch 2,080  of  3,435.    Elapsed: 0:18:12.
+  Batch 2,120  of  3,435.    Elapsed: 0:18:33.
+  Batch 2,160  of  3,435.    Elapsed: 0:18:54.
+  Batch 2,200  of  3,435.    Elapsed: 0:19:15.
+  Batch 2,240  of  3,435.    Elapsed: 0:19:36.
+  Batch 2,280  of  3,435.    Elapsed: 0:19:58.
+  Batch 2,320  of  3,435.    Elapsed: 0:20:19.
+  Batch 2,360  of  3,435.    Elapsed: 0:20:40.
+  Batch 2,400  of  3,435.    Elapsed: 0:21:01.
+  Batch 2,440  of  3,435.    Elapsed: 0:21:22.
+  Batch 2,480  of  3,435.    Elapsed: 0:21:43.
+  Batch 2,520  of  3,435.    Elapsed: 0:22:04.
+  Batch 2,560  of  3,435.    Elapsed: 0:22:25.
+  Batch 2,600  of  3,435.    Elapsed: 0:22:46.
+  Batch 2,640  of  3,435.    Elapsed: 0:23:08.
+  Batch 2,680  of  3,435.    Elapsed: 0:23:29.
+  Batch 2,720  of  3,435.    Elapsed: 0:23:50.
+  Batch 2,760  of  3,435.    Elapsed: 0:24:11.
+  Batch 2,800  of  3,435.    Elapsed: 0:24:32.
+  Batch 2,840  of  3,435.    Elapsed: 0:24:53.
+  Batch 2,880  of  3,435.    Elapsed: 0:25:14.
+  Batch 2,920  of  3,435.    Elapsed: 0:25:36.
+  Batch 2,960  of  3,435.    Elapsed: 0:25:57.
+  Batch 3,000  of  3,435.    Elapsed: 0:26:18.
+  Batch 3,040  of  3,435.    Elapsed: 0:26:39.
+  Batch 3,080  of  3,435.    Elapsed: 0:27:00.
+  Batch 3,120  of  3,435.    Elapsed: 0:27:21.
+  Batch 3,160  of  3,435.    Elapsed: 0:27:43.
+  Batch 3,200  of  3,435.    Elapsed: 0:28:04.
+  Batch 3,240  of  3,435.    Elapsed: 0:28:25.
+  Batch 3,280  of  3,435.    Elapsed: 0:28:46.
+  Batch 3,320  of  3,435.    Elapsed: 0:29:07.
+  Batch 3,360  of  3,435.    Elapsed: 0:29:28.
+  Batch 3,400  of  3,435.    Elapsed: 0:29:49.
+
+  Average training loss: 0.52
+  Training epcoh took: 0:30:07
+
+======== Epoch 2 / 2 ========
+Training...
+  Batch    40  of  3,435.    Elapsed: 0:00:21.
+  Batch    80  of  3,435.    Elapsed: 0:00:42.
+  Batch   120  of  3,435.    Elapsed: 0:01:03.
+  Batch   160  of  3,435.    Elapsed: 0:01:24.
+  Batch   200  of  3,435.    Elapsed: 0:01:45.
+  Batch   240  of  3,435.    Elapsed: 0:02:07.
+  Batch   280  of  3,435.    Elapsed: 0:02:28.
+  Batch   320  of  3,435.    Elapsed: 0:02:49.
+  Batch   360  of  3,435.    Elapsed: 0:03:10.
+  Batch   400  of  3,435.    Elapsed: 0:03:31.
+  Batch   440  of  3,435.    Elapsed: 0:03:52.
+  Batch   480  of  3,435.    Elapsed: 0:04:13.
+  Batch   520  of  3,435.    Elapsed: 0:04:34.
+  Batch   560  of  3,435.    Elapsed: 0:04:55.
+  Batch   600  of  3,435.    Elapsed: 0:05:16.
+  Batch   640  of  3,435.    Elapsed: 0:05:37.
+  Batch   680  of  3,435.    Elapsed: 0:05:58.
+  Batch   720  of  3,435.    Elapsed: 0:06:19.
+  Batch   760  of  3,435.    Elapsed: 0:06:40.
+  Batch   800  of  3,435.    Elapsed: 0:07:01.
+  Batch   840  of  3,435.    Elapsed: 0:07:22.
+  Batch   880  of  3,435.    Elapsed: 0:07:43.
+  Batch   920  of  3,435.    Elapsed: 0:08:04.
+  Batch   960  of  3,435.    Elapsed: 0:08:25.
+  Batch 1,000  of  3,435.    Elapsed: 0:08:46.
+  Batch 1,040  of  3,435.    Elapsed: 0:09:07.
+  Batch 1,080  of  3,435.    Elapsed: 0:09:28.
+  Batch 1,120  of  3,435.    Elapsed: 0:09:49.
+  Batch 1,160  of  3,435.    Elapsed: 0:10:11.
+  Batch 1,200  of  3,435.    Elapsed: 0:10:32.
+  Batch 1,240  of  3,435.    Elapsed: 0:10:53.
+  Batch 1,280  of  3,435.    Elapsed: 0:11:14.
+  Batch 1,320  of  3,435.    Elapsed: 0:11:35.
+  Batch 1,360  of  3,435.    Elapsed: 0:11:56.
+  Batch 1,400  of  3,435.    Elapsed: 0:12:17.
+  Batch 1,440  of  3,435.    Elapsed: 0:12:38.
+  Batch 1,480  of  3,435.    Elapsed: 0:12:59.
+  Batch 1,520  of  3,435.    Elapsed: 0:13:20.
+  Batch 1,560  of  3,435.    Elapsed: 0:13:41.
+  Batch 1,600  of  3,435.    Elapsed: 0:14:02.
+  Batch 1,640  of  3,435.    Elapsed: 0:14:23.
+  Batch 1,680  of  3,435.    Elapsed: 0:14:44.
+  Batch 1,720  of  3,435.    Elapsed: 0:15:05.
+  Batch 1,760  of  3,435.    Elapsed: 0:15:26.
+  Batch 1,800  of  3,435.    Elapsed: 0:15:47.
+  Batch 1,840  of  3,435.    Elapsed: 0:16:09.
+  Batch 1,880  of  3,435.    Elapsed: 0:16:30.
+  Batch 1,920  of  3,435.    Elapsed: 0:16:51.
+  Batch 1,960  of  3,435.    Elapsed: 0:17:12.
+  Batch 2,000  of  3,435.    Elapsed: 0:17:33.
+  Batch 2,040  of  3,435.    Elapsed: 0:17:54.
+  Batch 2,080  of  3,435.    Elapsed: 0:18:15.
+  Batch 2,120  of  3,435.    Elapsed: 0:18:36.
+  Batch 2,160  of  3,435.    Elapsed: 0:18:57.
+  Batch 2,200  of  3,435.    Elapsed: 0:19:18.
+  Batch 2,240  of  3,435.    Elapsed: 0:19:39.
+  Batch 2,280  of  3,435.    Elapsed: 0:20:00.
+  Batch 2,320  of  3,435.    Elapsed: 0:20:21.
+  Batch 2,360  of  3,435.    Elapsed: 0:20:42.
+  Batch 2,400  of  3,435.    Elapsed: 0:21:03.
+  Batch 2,440  of  3,435.    Elapsed: 0:21:24.
+  Batch 2,480  of  3,435.    Elapsed: 0:21:45.
+  Batch 2,520  of  3,435.    Elapsed: 0:22:07.
+  Batch 2,560  of  3,435.    Elapsed: 0:22:28.
+  Batch 2,600  of  3,435.    Elapsed: 0:22:49.
+  Batch 2,640  of  3,435.    Elapsed: 0:23:10.
+  Batch 2,680  of  3,435.    Elapsed: 0:23:31.
+  Batch 2,720  of  3,435.    Elapsed: 0:23:52.
+  Batch 2,760  of  3,435.    Elapsed: 0:24:13.
+  Batch 2,800  of  3,435.    Elapsed: 0:24:34.
+  Batch 2,840  of  3,435.    Elapsed: 0:24:55.
+  Batch 2,880  of  3,435.    Elapsed: 0:25:16.
+  Batch 2,920  of  3,435.    Elapsed: 0:25:37.
+  Batch 2,960  of  3,435.    Elapsed: 0:25:58.
+  Batch 3,000  of  3,435.    Elapsed: 0:26:19.
+  Batch 3,040  of  3,435.    Elapsed: 0:26:40.
+  Batch 3,080  of  3,435.    Elapsed: 0:27:01.
+  Batch 3,120  of  3,435.    Elapsed: 0:27:23.
+  Batch 3,160  of  3,435.    Elapsed: 0:27:44.
+  Batch 3,200  of  3,435.    Elapsed: 0:28:05.
+  Batch 3,240  of  3,435.    Elapsed: 0:28:26.
+  Batch 3,280  of  3,435.    Elapsed: 0:28:47.
+  Batch 3,320  of  3,435.    Elapsed: 0:29:08.
+  Batch 3,360  of  3,435.    Elapsed: 0:29:29.
+  Batch 3,400  of  3,435.    Elapsed: 0:29:50.
+
+  Average training loss: 0.42
+  Training epcoh took: 0:30:08
+
+Training complete!
+Finished train hate speech model
+Starting evaluation: test data
+  Accuracy: 0.83
+  F1: 0.82
+  Validation took: 0:00:46
+Finished evaluation: test data
+Finished experiment execution

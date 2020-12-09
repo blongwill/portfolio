@@ -1,0 +1,213 @@
+DATASETS: ['/home2/simnayak/ling575_neural_models/src/../datasets/indonesian_processed_nostop.txt']###
+Experiment config settings:
+config_name: indonesian_2
+random_seed: 121
+dataset: indonesian_processed_nostop
+model_type: bert-base-multilingual-uncased
+optimizer: AdamW
+learning_rate: 2e-5
+epsilon: 1e-8
+num_training_epochs: 2
+num_warmup_steps: 0
+num_classifier_labels: 3
+output_attentions: True
+output_hidden_states: True
+batch_size: 16
+max_tokens_length: 77
+###
+Starting experiment execution
+There are 1 GPU(s) available.
+We will use the GPU:Tesla P4
+Starting load dataset
+First data label: 1
+Finished load dataset
+Loading BERT tokenizer...
+Starting split dataset
+Input IDs dimension-1 size: 9843
+Input IDs dimension-2 size: 77
+Input Labels dimension-1 size: 9843
+Input Masks dimension-1 size: 9843
+Input Masks dimension-2 size: 77
+Train inputs dimension-1 size: 8858
+Train inputs dimension-2 size: 77
+Train labels dimension-1 size: 8858
+Train masks dimension-1 size: 8858
+Train masks dimension-2 size: 77
+Finished split dataset
+Made it here
+Starting to Load BertForSequenceClassification
+Finished initializing model
+Starting train hate speech model
+
+======== Epoch 1 / 2 ========
+Training...
+  Batch    40  of    554.    Elapsed: 0:00:13.
+  Batch    80  of    554.    Elapsed: 0:00:27.
+  Batch   120  of    554.    Elapsed: 0:00:40.
+  Batch   160  of    554.    Elapsed: 0:00:53.
+  Batch   200  of    554.    Elapsed: 0:01:07.
+  Batch   240  of    554.    Elapsed: 0:01:20.
+  Batch   280  of    554.    Elapsed: 0:01:33.
+  Batch   320  of    554.    Elapsed: 0:01:47.
+  Batch   360  of    554.    Elapsed: 0:02:00.
+  Batch   400  of    554.    Elapsed: 0:02:14.
+  Batch   440  of    554.    Elapsed: 0:02:27.
+  Batch   480  of    554.    Elapsed: 0:02:40.
+  Batch   520  of    554.    Elapsed: 0:02:54.
+
+  Average training loss: 0.54
+  Training epcoh took: 0:03:05
+
+======== Epoch 2 / 2 ========
+Training...
+  Batch    40  of    554.    Elapsed: 0:00:13.
+  Batch    80  of    554.    Elapsed: 0:00:27.
+  Batch   120  of    554.    Elapsed: 0:00:40.
+  Batch   160  of    554.    Elapsed: 0:00:54.
+  Batch   200  of    554.    Elapsed: 0:01:07.
+  Batch   240  of    554.    Elapsed: 0:01:21.
+  Batch   280  of    554.    Elapsed: 0:01:34.
+  Batch   320  of    554.    Elapsed: 0:01:48.
+  Batch   360  of    554.    Elapsed: 0:02:01.
+  Batch   400  of    554.    Elapsed: 0:02:15.
+  Batch   440  of    554.    Elapsed: 0:02:28.
+  Batch   480  of    554.    Elapsed: 0:02:42.
+  Batch   520  of    554.    Elapsed: 0:02:55.
+
+  Average training loss: 0.29
+  Training epcoh took: 0:03:07
+
+Training complete!
+Finished train hate speech model
+Starting evaluation: test data
+  Accuracy: 0.86
+  F1: 0.86
+  Validation took: 0:00:05
+Finished evaluation: test data
+Finished experiment execution
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input " Ngakunya org pintar dan beragama, emangnya agama mana yg memperbolehkan menista dan menghujat org lain???. Jgnkan orang bodoh, org yg ( maaf) sejak lahir idiot sekalipun dia, kita hrs hargain sebagai sesama ciptaan Tuhan. Ingat : iblis itu juga pintar dan sangat licik!!!'"
+
+HTML file saved to viz/indonesian_2/indonesian_abusive/" Ngakunya
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input Eh kenapa muka merah2 tu? Tak dpt cendol ke? Bukan la setan cuaca skrg ni panas
+
+HTML file saved to viz/indonesian_2/indonesian_abusive/Eh kenapa 
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input we ada pipis onta tercecer di mari pantes bau pesing
+
+HTML file saved to viz/indonesian_2/indonesian_abusive/we ada pip
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input " Owwwwh, bokong supirnya besar ya cs mknya sampek duduk di besi? Baru ngeh aku.. Hahahahah
+
+HTML file saved to viz/indonesian_2/indonesian_abusive/" Owwwwh, 
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input Tidak semua laki laki brengsek, tapi laki laki brengsek itu benar benar ada di dunia ini
+HTML file saved to viz/indonesian_2/indonesian_abusive/Tidak semu
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input RT Ayohbangsa indonesia bersihkan etnis cina perompak aset negara
+
+HTML file saved to viz/indonesian_2/indonesian_hate/RT Ayohban
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input RT Hahaha tereak2 cina lu gak ngaca ye junjungan lu itu keturunan etnis ape ?
+
+HTML file saved to viz/indonesian_2/indonesian_hate/RT Hahaha 
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input Mana bisa percya lagi,sdgkan induknya penista smp skrg lum ditahan tp malah dibela.
+
+HTML file saved to viz/indonesian_2/indonesian_hate/Mana bisa 
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input pencitraan silakan nyebur aja di laut selatan ya.
+
+HTML file saved to viz/indonesian_2/indonesian_hate/pencitraan
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input Ok kalo bgt kita usir minoritas umat budha di indonesia kita barter sama umat Islam nya.
+HTML file saved to viz/indonesian_2/indonesian_hate/Ok kalo bg
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input Kalo belajar ekonomi mestinya jago memprivatisasi hati orang. Duh.. ironi
+
+HTML file saved to viz/indonesian_2/indonesian_normal/Kalo belaj
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input Bandara Udara Internasional Kertajati dibangun oleh Gubernur Ahmad Heryawan tanpa gunakan APBN pemerintah pusat. Insya Allah siap beroperasi bulan depan;
+
+HTML file saved to viz/indonesian_2/indonesian_normal/Bandara Ud
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input "Bung Karno anti asing dan beliau dari Jawa, coba deh adain konsensus lebih banyak mana Jawa yang anti asing atau pro asing karena kebo*ohannya. Kalau kami keliru kami tutup akun'"
+
+HTML file saved to viz/indonesian_2/indonesian_normal/"Bung Karn
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input "Ha .. ha .. Banyak baca biar pintar ... JEPANG, AMERIKA, CHINA... Utang sama siapa ... Anda tau enggak ..?"
+
+HTML file saved to viz/indonesian_2/indonesian_normal/"Ha .. ha 
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input USER Jgn lupa juga kang.... Umat katolik dan minorutas lainnya diperhatika. Gubernur untuk semua golongan bukan satu golongan.'
+HTML file saved to viz/indonesian_2/indonesian_normal/USER Jgn l
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input " Ngakunya org pintar dan beragama, emangnya agama mana yg memperbolehkan menista dan menghujat org lain???. Jgnkan orang bodoh, org yg ( maaf) sejak lahir idiot sekalipun dia, kita hrs hargain sebagai sesama ciptaan Tuhan. Ingat : iblis itu juga pintar dan sangat licik!!!'"
+
+HTML file saved to viz/indonesian_2/indonesian_abusive/" Ngakunya
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input Eh kenapa muka merah2 tu? Tak dpt cendol ke? Bukan la setan cuaca skrg ni panas
+
+HTML file saved to viz/indonesian_2/indonesian_abusive/Eh kenapa 
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input we ada pipis onta tercecer di mari pantes bau pesing
+
+HTML file saved to viz/indonesian_2/indonesian_abusive/we ada pip
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input " Owwwwh, bokong supirnya besar ya cs mknya sampek duduk di besi? Baru ngeh aku.. Hahahahah
+
+HTML file saved to viz/indonesian_2/indonesian_abusive/" Owwwwh, 
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input Tidak semua laki laki brengsek, tapi laki laki brengsek itu benar benar ada di dunia ini
+HTML file saved to viz/indonesian_2/indonesian_abusive/Tidak semu
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input RT Ayohbangsa indonesia bersihkan etnis cina perompak aset negara
+
+HTML file saved to viz/indonesian_2/indonesian_hate/RT Ayohban
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input RT Hahaha tereak2 cina lu gak ngaca ye junjungan lu itu keturunan etnis ape ?
+
+HTML file saved to viz/indonesian_2/indonesian_hate/RT Hahaha 
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input Mana bisa percya lagi,sdgkan induknya penista smp skrg lum ditahan tp malah dibela.
+
+HTML file saved to viz/indonesian_2/indonesian_hate/Mana bisa 
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input pencitraan silakan nyebur aja di laut selatan ya.
+
+HTML file saved to viz/indonesian_2/indonesian_hate/pencitraan
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input Ok kalo bgt kita usir minoritas umat budha di indonesia kita barter sama umat Islam nya.
+HTML file saved to viz/indonesian_2/indonesian_hate/Ok kalo bg
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input Kalo belajar ekonomi mestinya jago memprivatisasi hati orang. Duh.. ironi
+
+HTML file saved to viz/indonesian_2/indonesian_normal/Kalo belaj
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input Bandara Udara Internasional Kertajati dibangun oleh Gubernur Ahmad Heryawan tanpa gunakan APBN pemerintah pusat. Insya Allah siap beroperasi bulan depan;
+
+HTML file saved to viz/indonesian_2/indonesian_normal/Bandara Ud
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input "Bung Karno anti asing dan beliau dari Jawa, coba deh adain konsensus lebih banyak mana Jawa yang anti asing atau pro asing karena kebo*ohannya. Kalau kami keliru kami tutup akun'"
+
+HTML file saved to viz/indonesian_2/indonesian_normal/"Bung Karn
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input "Ha .. ha .. Banyak baca biar pintar ... JEPANG, AMERIKA, CHINA... Utang sama siapa ... Anda tau enggak ..?"
+
+HTML file saved to viz/indonesian_2/indonesian_normal/"Ha .. ha 
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input USER Jgn lupa juga kang.... Umat katolik dan minorutas lainnya diperhatika. Gubernur untuk semua golongan bukan satu golongan.'
+HTML file saved to viz/indonesian_2/indonesian_normal/USER Jgn l

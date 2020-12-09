@@ -1,0 +1,613 @@
+DATASETS: ['/home2/longwill/ling575_neural_models/src/../datasets/arabic_processed_nostop.txt']###
+Experiment config settings:
+config_name: arabic_2
+random_seed: 121
+dataset: arabic_processed_nostop
+model_type: bert-base-multilingual-uncased
+optimizer: AdamW
+learning_rate: 2e-5
+epsilon: 1e-8
+num_training_epochs: 2
+num_warmup_steps: 0
+num_classifier_labels: 3
+output_attentions: True
+output_hidden_states: True
+batch_size: 16
+max_tokens_length: 67
+###
+Starting experiment execution
+There are 1 GPU(s) available.
+We will use the GPU:Tesla M10
+Starting load dataset
+First data label: 0
+Finished load dataset
+Loading BERT tokenizer...
+Starting split dataset
+Input IDs dimension-1 size: 5847
+Input IDs dimension-2 size: 67
+Input Labels dimension-1 size: 5847
+Input Masks dimension-1 size: 5847
+Input Masks dimension-2 size: 67
+Train inputs dimension-1 size: 5262
+Train inputs dimension-2 size: 67
+Train labels dimension-1 size: 5262
+Train masks dimension-1 size: 5262
+Train masks dimension-2 size: 67
+Finished split dataset
+Made it here
+Starting to Load BertForSequenceClassification
+Finished initializing model
+Starting train hate speech model
+
+======== Epoch 1 / 2 ========
+Training...
+  Batch    40  of    329.    Elapsed: 0:00:35.
+  Batch    80  of    329.    Elapsed: 0:01:11.
+  Batch   120  of    329.    Elapsed: 0:01:46.
+  Batch   160  of    329.    Elapsed: 0:02:21.
+  Batch   200  of    329.    Elapsed: 0:02:57.
+  Batch   240  of    329.    Elapsed: 0:03:32.
+  Batch   280  of    329.    Elapsed: 0:04:07.
+  Batch   320  of    329.    Elapsed: 0:04:43.
+
+  Average training loss: 0.72
+  Training epcoh took: 0:04:51
+
+======== Epoch 2 / 2 ========
+Training...
+  Batch    40  of    329.    Elapsed: 0:00:35.
+  Batch    80  of    329.    Elapsed: 0:01:11.
+  Batch   120  of    329.    Elapsed: 0:01:46.
+  Batch   160  of    329.    Elapsed: 0:02:22.
+  Batch   200  of    329.    Elapsed: 0:02:57.
+  Batch   240  of    329.    Elapsed: 0:03:32.
+  Batch   280  of    329.    Elapsed: 0:04:08.
+  Batch   320  of    329.    Elapsed: 0:04:43.
+
+  Average training loss: 0.49
+  Training epcoh took: 0:04:51
+
+Training complete!
+Finished train hate speech model
+Starting evaluation: test data
+  Accuracy: 0.78
+  F1: 0.76
+  Validation took: 0:00:08
+Finished evaluation: test data
+Finished experiment execution
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input شو بتلبقلك كلمة خنزير بتجي مفصله على قياسك وشكلك
+
+HTML file saved to viz/arabic_2/arabic_abusive/شو بت�
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input عقبال يغرقوا التنين بالمجارير
+
+HTML file saved to viz/arabic_2/arabic_abusive/عقبال
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input كثروا المنافقين اصحاب المصالح هاذا اكبر كلب لأيران في لبنان ، تابع هالفديوا وتعرف هالمرتزق
+
+HTML file saved to viz/arabic_2/arabic_abusive/كثروا
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input خلعتك ضربة ع وترك الحساس تا فعت هالفوعة؟؟؟ ههههه الله يشفيك يا حمار يا زبالة
+
+HTML file saved to viz/arabic_2/arabic_abusive/خلعتك
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input دئما يلحق بك الدمااار
+HTML file saved to viz/arabic_2/arabic_abusive/دئما �
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input يا عيبو عليكي يا إيران عم تحوي إرهابيين تعلمي من السعودية درسيهم عندك وبعتيهم لبرا
+
+HTML file saved to viz/arabic_2/arabic_hate/يا عي�
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input لا كل الثواار كلاب متل النظام هيك جملة سهل قولها وما بتوجع الراس وبتريحك من كتير وجع راس وتفكير الكل كلاب 
+
+HTML file saved to viz/arabic_2/arabic_hate/لا كل 
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input ليش اهتم او ادعم طرف؟
+
+HTML file saved to viz/arabic_2/arabic_hate/ليش ا�
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input أذا جبران باسيل يقودكم والجاهل شيخ الجاهلية يصفق للقرد   	اكيد بيكون ي…	
+
+HTML file saved to viz/arabic_2/arabic_hate/أذا ج�
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input دميم الكلب ليس له مكان بين العرب اﻻشراف انه حثالة وأمير الشواذ والمخنثين ﻻ مرحبا به في أي مكان أو زمان…
+
+HTML file saved to viz/arabic_2/arabic_hate/دميم �
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input على من تقرأ مزاميرك يا داوود؟ وليد جان بولاد أصلو تركماني لا يمكن أن تترجى أو تتمنى عليه فهو مجرم موص… 
+HTML file saved to viz/arabic_2/arabic_hate/على م�
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input سوف يتحاسبو جميعالان الحق سلطان
+
+HTML file saved to viz/arabic_2/arabic_normal/سوف ي�
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input لبنان علّم العالم الأبجدية وكيف بيمشي البلد بلا دولة
+
+HTML file saved to viz/arabic_2/arabic_normal/لبنان
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input بدك تعمل برنامج ينجح؟ حكي عن جبران باسيل مياومو الإعلام
+
+HTML file saved to viz/arabic_2/arabic_normal/بدك ت�
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input يا زلمي انت عندك مشكلة لازم تحلها او انو الانكليزي صعب عليك
+
+HTML file saved to viz/arabic_2/arabic_normal/يا زل�
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input نبيه بري علاقتي ممتازة مع فخامة الرئيس
+HTML file saved to viz/arabic_2/arabic_normal/نبيه �
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input شو بتلبقلك كلمة خنزير بتجي مفصله على قياسك وشكلك
+
+HTML file saved to viz/arabic_2/arabic_abusive/شو بت�
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input عقبال يغرقوا التنين بالمجارير
+
+HTML file saved to viz/arabic_2/arabic_abusive/عقبال
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input كثروا المنافقين اصحاب المصالح هاذا اكبر كلب لأيران في لبنان ، تابع هالفديوا وتعرف هالمرتزق
+
+HTML file saved to viz/arabic_2/arabic_abusive/كثروا
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input خلعتك ضربة ع وترك الحساس تا فعت هالفوعة؟؟؟ ههههه الله يشفيك يا حمار يا زبالة
+
+HTML file saved to viz/arabic_2/arabic_abusive/خلعتك
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input دئما يلحق بك الدمااار
+HTML file saved to viz/arabic_2/arabic_abusive/دئما �
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input يا عيبو عليكي يا إيران عم تحوي إرهابيين تعلمي من السعودية درسيهم عندك وبعتيهم لبرا
+
+HTML file saved to viz/arabic_2/arabic_hate/يا عي�
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input لا كل الثواار كلاب متل النظام هيك جملة سهل قولها وما بتوجع الراس وبتريحك من كتير وجع راس وتفكير الكل كلاب 
+
+HTML file saved to viz/arabic_2/arabic_hate/لا كل 
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input ليش اهتم او ادعم طرف؟
+
+HTML file saved to viz/arabic_2/arabic_hate/ليش ا�
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input أذا جبران باسيل يقودكم والجاهل شيخ الجاهلية يصفق للقرد   	اكيد بيكون ي…	
+
+HTML file saved to viz/arabic_2/arabic_hate/أذا ج�
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input دميم الكلب ليس له مكان بين العرب اﻻشراف انه حثالة وأمير الشواذ والمخنثين ﻻ مرحبا به في أي مكان أو زمان…
+
+HTML file saved to viz/arabic_2/arabic_hate/دميم �
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input على من تقرأ مزاميرك يا داوود؟ وليد جان بولاد أصلو تركماني لا يمكن أن تترجى أو تتمنى عليه فهو مجرم موص… 
+HTML file saved to viz/arabic_2/arabic_hate/على م�
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input سوف يتحاسبو جميعالان الحق سلطان
+
+HTML file saved to viz/arabic_2/arabic_normal/سوف ي�
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input لبنان علّم العالم الأبجدية وكيف بيمشي البلد بلا دولة
+
+HTML file saved to viz/arabic_2/arabic_normal/لبنان
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input بدك تعمل برنامج ينجح؟ حكي عن جبران باسيل مياومو الإعلام
+
+HTML file saved to viz/arabic_2/arabic_normal/بدك ت�
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input يا زلمي انت عندك مشكلة لازم تحلها او انو الانكليزي صعب عليك
+
+HTML file saved to viz/arabic_2/arabic_normal/يا زل�
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input نبيه بري علاقتي ممتازة مع فخامة الرئيس
+HTML file saved to viz/arabic_2/arabic_normal/نبيه �
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input شو بتلبقلك كلمة خنزير بتجي مفصله على قياسك وشكلك
+
+HTML file saved to viz/arabic_2/arabic_abusive/شو بت�
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input عقبال يغرقوا التنين بالمجارير
+
+HTML file saved to viz/arabic_2/arabic_abusive/عقبال
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input كثروا المنافقين اصحاب المصالح هاذا اكبر كلب لأيران في لبنان ، تابع هالفديوا وتعرف هالمرتزق
+
+HTML file saved to viz/arabic_2/arabic_abusive/كثروا
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input خلعتك ضربة ع وترك الحساس تا فعت هالفوعة؟؟؟ ههههه الله يشفيك يا حمار يا زبالة
+
+HTML file saved to viz/arabic_2/arabic_abusive/خلعتك
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input دئما يلحق بك الدمااار
+HTML file saved to viz/arabic_2/arabic_abusive/دئما �
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input يا عيبو عليكي يا إيران عم تحوي إرهابيين تعلمي من السعودية درسيهم عندك وبعتيهم لبرا
+
+HTML file saved to viz/arabic_2/arabic_hate/يا عي�
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input لا كل الثواار كلاب متل النظام هيك جملة سهل قولها وما بتوجع الراس وبتريحك من كتير وجع راس وتفكير الكل كلاب 
+
+HTML file saved to viz/arabic_2/arabic_hate/لا كل 
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input ليش اهتم او ادعم طرف؟
+
+HTML file saved to viz/arabic_2/arabic_hate/ليش ا�
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input أذا جبران باسيل يقودكم والجاهل شيخ الجاهلية يصفق للقرد   	اكيد بيكون ي…	
+
+HTML file saved to viz/arabic_2/arabic_hate/أذا ج�
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input دميم الكلب ليس له مكان بين العرب اﻻشراف انه حثالة وأمير الشواذ والمخنثين ﻻ مرحبا به في أي مكان أو زمان…
+
+HTML file saved to viz/arabic_2/arabic_hate/دميم �
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input على من تقرأ مزاميرك يا داوود؟ وليد جان بولاد أصلو تركماني لا يمكن أن تترجى أو تتمنى عليه فهو مجرم موص… 
+HTML file saved to viz/arabic_2/arabic_hate/على م�
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input سوف يتحاسبو جميعالان الحق سلطان
+
+HTML file saved to viz/arabic_2/arabic_normal/سوف ي�
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input لبنان علّم العالم الأبجدية وكيف بيمشي البلد بلا دولة
+
+HTML file saved to viz/arabic_2/arabic_normal/لبنان
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input بدك تعمل برنامج ينجح؟ حكي عن جبران باسيل مياومو الإعلام
+
+HTML file saved to viz/arabic_2/arabic_normal/بدك ت�
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input يا زلمي انت عندك مشكلة لازم تحلها او انو الانكليزي صعب عليك
+
+HTML file saved to viz/arabic_2/arabic_normal/يا زل�
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input نبيه بري علاقتي ممتازة مع فخامة الرئيس
+HTML file saved to viz/arabic_2/arabic_normal/نبيه �
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input شو بتلبقلك كلمة خنزير بتجي مفصله على قياسك وشكلك
+
+HTML file saved to viz/arabic_2/arabic_abusive/شو بت�
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input عقبال يغرقوا التنين بالمجارير
+
+HTML file saved to viz/arabic_2/arabic_abusive/عقبال
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input كثروا المنافقين اصحاب المصالح هاذا اكبر كلب لأيران في لبنان ، تابع هالفديوا وتعرف هالمرتزق
+
+HTML file saved to viz/arabic_2/arabic_abusive/كثروا
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input خلعتك ضربة ع وترك الحساس تا فعت هالفوعة؟؟؟ ههههه الله يشفيك يا حمار يا زبالة
+
+HTML file saved to viz/arabic_2/arabic_abusive/خلعتك
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input دئما يلحق بك الدمااار
+HTML file saved to viz/arabic_2/arabic_abusive/دئما �
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input يا عيبو عليكي يا إيران عم تحوي إرهابيين تعلمي من السعودية درسيهم عندك وبعتيهم لبرا
+
+HTML file saved to viz/arabic_2/arabic_hate/يا عي�
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input لا كل الثواار كلاب متل النظام هيك جملة سهل قولها وما بتوجع الراس وبتريحك من كتير وجع راس وتفكير الكل كلاب 
+
+HTML file saved to viz/arabic_2/arabic_hate/لا كل 
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input ليش اهتم او ادعم طرف؟
+
+HTML file saved to viz/arabic_2/arabic_hate/ليش ا�
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input أذا جبران باسيل يقودكم والجاهل شيخ الجاهلية يصفق للقرد   	اكيد بيكون ي…	
+
+HTML file saved to viz/arabic_2/arabic_hate/أذا ج�
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input دميم الكلب ليس له مكان بين العرب اﻻشراف انه حثالة وأمير الشواذ والمخنثين ﻻ مرحبا به في أي مكان أو زمان…
+
+HTML file saved to viz/arabic_2/arabic_hate/دميم �
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input على من تقرأ مزاميرك يا داوود؟ وليد جان بولاد أصلو تركماني لا يمكن أن تترجى أو تتمنى عليه فهو مجرم موص… 
+HTML file saved to viz/arabic_2/arabic_hate/على م�
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input سوف يتحاسبو جميعالان الحق سلطان
+
+HTML file saved to viz/arabic_2/arabic_normal/سوف ي�
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input لبنان علّم العالم الأبجدية وكيف بيمشي البلد بلا دولة
+
+HTML file saved to viz/arabic_2/arabic_normal/لبنان
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input بدك تعمل برنامج ينجح؟ حكي عن جبران باسيل مياومو الإعلام
+
+HTML file saved to viz/arabic_2/arabic_normal/بدك ت�
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input يا زلمي انت عندك مشكلة لازم تحلها او انو الانكليزي صعب عليك
+
+HTML file saved to viz/arabic_2/arabic_normal/يا زل�
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input نبيه بري علاقتي ممتازة مع فخامة الرئيس
+HTML file saved to viz/arabic_2/arabic_normal/نبيه �
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input شو بتلبقلك كلمة خنزير بتجي مفصله على قياسك وشكلك
+
+HTML file saved to viz/arabic_2/arabic_abusive/arabic_0
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input عقبال يغرقوا التنين بالمجارير
+
+HTML file saved to viz/arabic_2/arabic_abusive/arabic_1
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input كثروا المنافقين اصحاب المصالح هاذا اكبر كلب لأيران في لبنان ، تابع هالفديوا وتعرف هالمرتزق
+
+HTML file saved to viz/arabic_2/arabic_abusive/arabic_2
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input خلعتك ضربة ع وترك الحساس تا فعت هالفوعة؟؟؟ ههههه الله يشفيك يا حمار يا زبالة
+
+HTML file saved to viz/arabic_2/arabic_abusive/arabic_3
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input دئما يلحق بك الدمااار
+HTML file saved to viz/arabic_2/arabic_abusive/arabic_4
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input يا عيبو عليكي يا إيران عم تحوي إرهابيين تعلمي من السعودية درسيهم عندك وبعتيهم لبرا
+
+HTML file saved to viz/arabic_2/arabic_hate/arabic_0
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input لا كل الثواار كلاب متل النظام هيك جملة سهل قولها وما بتوجع الراس وبتريحك من كتير وجع راس وتفكير الكل كلاب 
+
+HTML file saved to viz/arabic_2/arabic_hate/arabic_1
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input ليش اهتم او ادعم طرف؟
+
+HTML file saved to viz/arabic_2/arabic_hate/arabic_2
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input أذا جبران باسيل يقودكم والجاهل شيخ الجاهلية يصفق للقرد   	اكيد بيكون ي…	
+
+HTML file saved to viz/arabic_2/arabic_hate/arabic_3
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input دميم الكلب ليس له مكان بين العرب اﻻشراف انه حثالة وأمير الشواذ والمخنثين ﻻ مرحبا به في أي مكان أو زمان…
+
+HTML file saved to viz/arabic_2/arabic_hate/arabic_4
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input على من تقرأ مزاميرك يا داوود؟ وليد جان بولاد أصلو تركماني لا يمكن أن تترجى أو تتمنى عليه فهو مجرم موص… 
+HTML file saved to viz/arabic_2/arabic_hate/arabic_5
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input سوف يتحاسبو جميعالان الحق سلطان
+
+HTML file saved to viz/arabic_2/arabic_normal/arabic_0
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input لبنان علّم العالم الأبجدية وكيف بيمشي البلد بلا دولة
+
+HTML file saved to viz/arabic_2/arabic_normal/arabic_1
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input بدك تعمل برنامج ينجح؟ حكي عن جبران باسيل مياومو الإعلام
+
+HTML file saved to viz/arabic_2/arabic_normal/arabic_2
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input يا زلمي انت عندك مشكلة لازم تحلها او انو الانكليزي صعب عليك
+
+HTML file saved to viz/arabic_2/arabic_normal/arabic_3
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input نبيه بري علاقتي ممتازة مع فخامة الرئيس
+HTML file saved to viz/arabic_2/arabic_normal/arabic_4
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input شو بتلبقلك كلمة خنزير بتجي مفصله على قياسك وشكلك
+
+HTML file saved to viz/arabic_2/arabic_abusive/arabic_0
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input عقبال يغرقوا التنين بالمجارير
+
+HTML file saved to viz/arabic_2/arabic_abusive/arabic_1
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input كثروا المنافقين اصحاب المصالح هاذا اكبر كلب لأيران في لبنان ، تابع هالفديوا وتعرف هالمرتزق
+
+HTML file saved to viz/arabic_2/arabic_abusive/arabic_2
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input خلعتك ضربة ع وترك الحساس تا فعت هالفوعة؟؟؟ ههههه الله يشفيك يا حمار يا زبالة
+
+HTML file saved to viz/arabic_2/arabic_abusive/arabic_3
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input دئما يلحق بك الدمااار
+HTML file saved to viz/arabic_2/arabic_abusive/arabic_4
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input يا عيبو عليكي يا إيران عم تحوي إرهابيين تعلمي من السعودية درسيهم عندك وبعتيهم لبرا
+
+HTML file saved to viz/arabic_2/arabic_hate/arabic_0
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input لا كل الثواار كلاب متل النظام هيك جملة سهل قولها وما بتوجع الراس وبتريحك من كتير وجع راس وتفكير الكل كلاب 
+
+HTML file saved to viz/arabic_2/arabic_hate/arabic_1
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input ليش اهتم او ادعم طرف؟
+
+HTML file saved to viz/arabic_2/arabic_hate/arabic_2
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input أذا جبران باسيل يقودكم والجاهل شيخ الجاهلية يصفق للقرد   	اكيد بيكون ي…	
+
+HTML file saved to viz/arabic_2/arabic_hate/arabic_3
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input دميم الكلب ليس له مكان بين العرب اﻻشراف انه حثالة وأمير الشواذ والمخنثين ﻻ مرحبا به في أي مكان أو زمان…
+
+HTML file saved to viz/arabic_2/arabic_hate/arabic_4
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input على من تقرأ مزاميرك يا داوود؟ وليد جان بولاد أصلو تركماني لا يمكن أن تترجى أو تتمنى عليه فهو مجرم موص… 
+HTML file saved to viz/arabic_2/arabic_hate/arabic_5
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input سوف يتحاسبو جميعالان الحق سلطان
+
+HTML file saved to viz/arabic_2/arabic_normal/arabic_0
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input لبنان علّم العالم الأبجدية وكيف بيمشي البلد بلا دولة
+
+HTML file saved to viz/arabic_2/arabic_normal/arabic_1
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input بدك تعمل برنامج ينجح؟ حكي عن جبران باسيل مياومو الإعلام
+
+HTML file saved to viz/arabic_2/arabic_normal/arabic_2
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input يا زلمي انت عندك مشكلة لازم تحلها او انو الانكليزي صعب عليك
+
+HTML file saved to viz/arabic_2/arabic_normal/arabic_3
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input نبيه بري علاقتي ممتازة مع فخامة الرئيس
+HTML file saved to viz/arabic_2/arabic_normal/arabic_4
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input شو بتلبقلك كلمة خنزير بتجي مفصله على قياسك وشكلك
+
+HTML file saved to viz/arabic_2/arabic_abusive/arabic_abusive_0
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input عقبال يغرقوا التنين بالمجارير
+
+HTML file saved to viz/arabic_2/arabic_abusive/arabic_abusive_1
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input كثروا المنافقين اصحاب المصالح هاذا اكبر كلب لأيران في لبنان ، تابع هالفديوا وتعرف هالمرتزق
+
+HTML file saved to viz/arabic_2/arabic_abusive/arabic_abusive_2
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input خلعتك ضربة ع وترك الحساس تا فعت هالفوعة؟؟؟ ههههه الله يشفيك يا حمار يا زبالة
+
+HTML file saved to viz/arabic_2/arabic_abusive/arabic_abusive_3
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input دئما يلحق بك الدمااار
+HTML file saved to viz/arabic_2/arabic_abusive/arabic_abusive_4
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input يا عيبو عليكي يا إيران عم تحوي إرهابيين تعلمي من السعودية درسيهم عندك وبعتيهم لبرا
+
+HTML file saved to viz/arabic_2/arabic_hate/arabic_hate_0
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input لا كل الثواار كلاب متل النظام هيك جملة سهل قولها وما بتوجع الراس وبتريحك من كتير وجع راس وتفكير الكل كلاب 
+
+HTML file saved to viz/arabic_2/arabic_hate/arabic_hate_1
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input ليش اهتم او ادعم طرف؟
+
+HTML file saved to viz/arabic_2/arabic_hate/arabic_hate_2
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input أذا جبران باسيل يقودكم والجاهل شيخ الجاهلية يصفق للقرد   	اكيد بيكون ي…	
+
+HTML file saved to viz/arabic_2/arabic_hate/arabic_hate_3
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input دميم الكلب ليس له مكان بين العرب اﻻشراف انه حثالة وأمير الشواذ والمخنثين ﻻ مرحبا به في أي مكان أو زمان…
+
+HTML file saved to viz/arabic_2/arabic_hate/arabic_hate_4
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input على من تقرأ مزاميرك يا داوود؟ وليد جان بولاد أصلو تركماني لا يمكن أن تترجى أو تتمنى عليه فهو مجرم موص… 
+HTML file saved to viz/arabic_2/arabic_hate/arabic_hate_5
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input سوف يتحاسبو جميعالان الحق سلطان
+
+HTML file saved to viz/arabic_2/arabic_normal/arabic_normal_0
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input لبنان علّم العالم الأبجدية وكيف بيمشي البلد بلا دولة
+
+HTML file saved to viz/arabic_2/arabic_normal/arabic_normal_1
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input بدك تعمل برنامج ينجح؟ حكي عن جبران باسيل مياومو الإعلام
+
+HTML file saved to viz/arabic_2/arabic_normal/arabic_normal_2
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input يا زلمي انت عندك مشكلة لازم تحلها او انو الانكليزي صعب عليك
+
+HTML file saved to viz/arabic_2/arabic_normal/arabic_normal_3
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input نبيه بري علاقتي ممتازة مع فخامة الرئيس
+HTML file saved to viz/arabic_2/arabic_normal/arabic_normal_4
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input شو بتلبقلك كلمة خنزير بتجي مفصله على قياسك وشكلك
+
+HTML file saved to viz/arabic_2/arabic_abusive/arabic_abusive_0
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input عقبال يغرقوا التنين بالمجارير
+
+HTML file saved to viz/arabic_2/arabic_abusive/arabic_abusive_1
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input كثروا المنافقين اصحاب المصالح هاذا اكبر كلب لأيران في لبنان ، تابع هالفديوا وتعرف هالمرتزق
+
+HTML file saved to viz/arabic_2/arabic_abusive/arabic_abusive_2
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input خلعتك ضربة ع وترك الحساس تا فعت هالفوعة؟؟؟ ههههه الله يشفيك يا حمار يا زبالة
+
+HTML file saved to viz/arabic_2/arabic_abusive/arabic_abusive_3
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input دئما يلحق بك الدمااار
+HTML file saved to viz/arabic_2/arabic_abusive/arabic_abusive_4
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input يا عيبو عليكي يا إيران عم تحوي إرهابيين تعلمي من السعودية درسيهم عندك وبعتيهم لبرا
+
+HTML file saved to viz/arabic_2/arabic_hate/arabic_hate_0
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input لا كل الثواار كلاب متل النظام هيك جملة سهل قولها وما بتوجع الراس وبتريحك من كتير وجع راس وتفكير الكل كلاب 
+
+HTML file saved to viz/arabic_2/arabic_hate/arabic_hate_1
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input ليش اهتم او ادعم طرف؟
+
+HTML file saved to viz/arabic_2/arabic_hate/arabic_hate_2
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input أذا جبران باسيل يقودكم والجاهل شيخ الجاهلية يصفق للقرد   	اكيد بيكون ي…	
+
+HTML file saved to viz/arabic_2/arabic_hate/arabic_hate_3
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input دميم الكلب ليس له مكان بين العرب اﻻشراف انه حثالة وأمير الشواذ والمخنثين ﻻ مرحبا به في أي مكان أو زمان…
+
+HTML file saved to viz/arabic_2/arabic_hate/arabic_hate_4
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input على من تقرأ مزاميرك يا داوود؟ وليد جان بولاد أصلو تركماني لا يمكن أن تترجى أو تتمنى عليه فهو مجرم موص… 
+HTML file saved to viz/arabic_2/arabic_hate/arabic_hate_5
+Starting visualization of trained model
+Loading BERT tokenizer...
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input سوف يتحاسبو جميعالان الحق سلطان
+
+HTML file saved to viz/arabic_2/arabic_normal/arabic_normal_0
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input لبنان علّم العالم الأبجدية وكيف بيمشي البلد بلا دولة
+
+HTML file saved to viz/arabic_2/arabic_normal/arabic_normal_1
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input بدك تعمل برنامج ينجح؟ حكي عن جبران باسيل مياومو الإعلام
+
+HTML file saved to viz/arabic_2/arabic_normal/arabic_normal_2
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input يا زلمي انت عندك مشكلة لازم تحلها او انو الانكليزي صعب عليك
+
+HTML file saved to viz/arabic_2/arabic_normal/arabic_normal_3
+No GPU available, using the CPU instead.
+Finished visualization of trained model given input نبيه بري علاقتي ممتازة مع فخامة الرئيس
+HTML file saved to viz/arabic_2/arabic_normal/arabic_normal_4
