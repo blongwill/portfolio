@@ -1,0 +1,58 @@
+****************** Preliminary Evaluation ******************
+
+BERT Perplexity: 290.04
+BERT self-BLEU: 8.93
+BERT-TBC BLEU: 7.92
+BERT-Wiki103 BLEU: 9.09
+BERT-{TBC + Wiki103} BLEU: 9.54
+BERT unique 1-grams relative to Wiki: 9.55
+BERT unique 2-grams relative to Wiki: 58.86
+BERT unique 3-grams relative to Wiki: 92.02
+BERT unique 4-grams relative to Wiki: 98.81
+BERT unique 1-grams relative to TBC: 12.19
+BERT unique 2-grams relative to TBC: 61.82
+BERT unique 3-grams relative to TBC: 92.51
+BERT unique 4-grams relative to TBC: 98.85
+BERT unique 1-grams relative to self: 12.36
+BERT unique 2-grams relative to self: 62.79
+BERT unique 3-grams relative to self: 93.04
+BERT unique 4-grams relative to self: 98.77
+
+GPT Perplexity: 170.06
+OpenAI self-BLEU: 39.39
+GPT-TBC BLEU: 30.27
+GPT-Wiki103 BLEU: 10.46
+GPT-{TBC + Wiki103} BLEU: 25.52
+GPT unique 1-grams relative to Wiki: 3.01
+GPT unique 2-grams relative to Wiki: 33.46
+GPT unique 3-grams relative to Wiki: 73.29
+GPT unique 4-grams relative to Wiki: 91.64
+GPT unique 1-grams relative to TBC: 1.92
+GPT unique 2-grams relative to TBC: 25.57
+GPT unique 3-grams relative to TBC: 65.46
+GPT unique 4-grams relative to TBC: 88.84
+GPT unique 1-grams relative to self: 4.07
+GPT unique 2-grams relative to self: 31.03
+GPT unique 3-grams relative to self: 67.62
+GPT unique 4-grams relative to self: 87.82
+
+****************** Evaluation ******************
+
+BERT Perplexity: 254.20
+BERT self-BLEU: 9.78
+BERT-TBC BLEU: 10.40
+BERT-Wiki103 BLEU: 9.18
+BERT-{TBC + Wiki103} BLEU: 10.84
+BERT unique 1-grams relative to Wiki: 8.16
+BERT unique 2-grams relative to Wiki: 55.81
+BERT unique 3-grams relative to Wiki: 90.85
+BERT unique 4-grams relative to Wiki: 98.33
+BERT unique 1-grams relative to TBC: 10.03
+BERT unique 2-grams relative to TBC: 56.29
+BERT unique 3-grams relative to TBC: 90.31
+BERT unique 4-grams relative to TBC: 98.11
+BERT unique 1-grams relative to self: 10.87
+BERT unique 2-grams relative to self: 59.56
+BERT unique 3-grams relative to self: 91.43
+BERT unique 4-grams relative to self: 98.02
+
