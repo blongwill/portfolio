@@ -255,7 +255,7 @@ def train_gan(self, training_dataloader: DataLoader, validation_dataloader: Data
                 print(logits, flush=True)
                 # Calculate the acc for this batch of mixed real and generated validation
 
-                tmp_eval_accuracy = self._flat_accuracy(preds=logits, labels=torch.stack(labels))
+                tmp_eval_accuracy = _flat_accuracy(preds=logits, labels=torch.stack(labels))
 
                 # save total acc
                 eval_accuracy += tmp_eval_accuracy
