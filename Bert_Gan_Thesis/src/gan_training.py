@@ -97,7 +97,7 @@ def train_gan(self, training_dataloader: DataLoader, validation_dataloader: Data
                 # - Real samples only to maximize log(D(x)) + log(1 - D(G(z)))
             self.discriminator.train()
             self.generator.train()
-            self.discriminator.requries_grad = True
+            self.discriminator.requires_grad = True
 
             #clears previously accumulated gradients by setting to all zeros
             self.discriminator.zero_grad()
@@ -153,7 +153,7 @@ def train_gan(self, training_dataloader: DataLoader, validation_dataloader: Data
                 # - Generated samples only to maximizes log(D(G(z)))
 
             #Save gpu memory by untracking discriminator gradients
-            self.discriminator.requries_grad = False
+            self.discriminator.requires_grad = False
 
             ## Train with generated batch
             D_G_z2, generator_loss = self.generator.train_generator(generated_input_ids, self.real_labels, self.discriminator)
