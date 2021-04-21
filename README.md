@@ -1,5 +1,5 @@
 # phd-portfolio
-This repository holds a sample of projects as supplementary material to be reviewed as part of an application for Ph.D. study.
+This repository holds a sample of projects as supplementary material to be reviewed as part of an application.
 ____________________________________________________________________________________________
 
 
