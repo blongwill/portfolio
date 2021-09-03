@@ -1,5 +1,10 @@
 #!/bin/sh
 
+#Benny Longwill
+#07/10/2019
+#Ling575 Information Extraction Final Project
+#Runs evaluation classification procedure and compares relation counts
+
 
 ./src/run_classifier.py ./rec/testing_vecs/binary_testing_vecs/annotated_binary_10.txt ./rec/language_models/binary_language_model.txt ./output/binary_sys_output_10.txt ./output/binary_acc_10.txt True
 ./src/run_classifier.py ./rec/testing_vecs/binary_testing_vecs/annotated_binary_25.txt ./rec/language_models/binary_language_model.txt ./output/binary_sys_output_25.txt ./output/binary_acc_25.txt True

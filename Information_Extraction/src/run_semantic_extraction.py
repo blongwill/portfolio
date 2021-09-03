@@ -1,12 +1,14 @@
 #!/opt/python-3.6/bin/python3
-#/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
 import sys
 from extract_semantic_relations import extract_to_file
 from run_classifier import naive_bayes_classifier
 
-
+#Benny Longwill
+#07/10/2019
+#Ling575 Information Extraction Final Project
+# Script for extracting semantic relations from
 
 def main():
 
@@ -53,7 +55,3 @@ def main():
     nbc.classify(test_vectors=semantic_relations_present, data_is_labeled=class_classifier_input_is_labeled, sys_file_path=class_sys_output_file,acc_file_path=class_acc_output_file)
 
 
-
-
-if __name__ == "__main__":
-    main()
