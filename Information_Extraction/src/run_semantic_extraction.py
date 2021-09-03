@@ -8,7 +8,7 @@ from run_classifier import naive_bayes_classifier
 #Benny Longwill
 #07/10/2019
 #Ling575 Information Extraction Final Project
-# Script for extracting semantic relations from
+# Script for extracting semantic relations from sentence
 
 def main():
 

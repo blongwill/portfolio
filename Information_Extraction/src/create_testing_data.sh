@@ -1,5 +1,10 @@
 #!/bin/sh
 
+#Benny Longwill
+#07/10/2019
+#Ling575 Information Extraction Final Project
+#ssh file that calls all the methods with hardcoded file paths to create testing data vectors for later use with extraction
+
 ##### Extracts training sentences from wikipedia 
 ./src/extract_wiki_data.py ./rec/name_lists/testing_names.txt ./rec/testing_vecs/class_testing.vectors.txt ./rec/testing_vecs/binary_testing.vectors.txt 80 False
 

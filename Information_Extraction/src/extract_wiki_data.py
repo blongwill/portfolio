@@ -47,7 +47,7 @@ hdr = {"User-Agent": "My Agent"}
 
 '''
 Takes a single sentence or document and the relation name that is represented in the sentence.
-Writes to output_file as a single document vector in the format: relation\tfeature:frequency
+Writes to output_file as a single document vector in the format: relation\sfeature:frequency
 If used for training data is additionally proccessed to capture the context of the relation. \
 #           In training data is stemmed and removes the relation/entities to the relation, specific parts of speech, numbers and stop words
 '''
@@ -86,8 +86,8 @@ class Relation:
 #Method takes input and removes parens and brackets along with their contents using regex
 def clean(input):
   clnr = re.compile('\[.*?\]|\(.*?\)|/.*?/')
-  cleantext = re.sub(clnr, "", input)
-  return cleantext
+  clntxt = re.sub(clnr, "", input)
+  return clntxt
 
 
 # Parses beautiful soup object parse and collects infobox table from famous actor wikipedias

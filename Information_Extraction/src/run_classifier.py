@@ -1,17 +1,44 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+#Benny Longwill
+#07/10/2019
+#Ling575 Information Extraction Final Project
+
+'''
+File contains NB classifier class object and main runs the classifier
+
+Params:
+    1.) test_vector_file_path:str - path to file containing word sequences separated by newline
+    2.) language_model_file_path:str - path to file containing class class prior and feature log probabilities
+    3.) sys_file_path:str - path to output file for sample index and confidence of classification by class
+    4.) acc_file_path:str - path to output file for confusion matrix of testing data.
+    5.) data_is_labeled:bool - Allows classifier to know when to self evaluate
+
+Features used were real value numbers of occurrences and included add-one smoothing in or-der to return a smooth confidence percentage for each classification.
+Unknownw ords were skipped when calculating classification
+
+Example call:
+./run_classifier.py test_vector binary_language_model.txt, class_language_model, binary_sys_out_file_name:str binary_acc_file_name:str data_is_labele:bool class_language_model.txt class_sys_out_file_name class_acc_file_name
+
+'''
+
+
+#Script dependenecies
 import math
 from collections import defaultdict
 import sys
 import nltk
+#Uses the porterstemmer for stemming test sentences
 ps = nltk.PorterStemmer()
 
-#All sentences are part of a document of either Topic or Document type
 class naive_bayes_classifier:
     def __init__(self, language_model_file):
         self.class_priors,self.cond_probs=self.configure_classifier(language_model_file)
 
+    #Configures the naive bayes classifier based by reading in a language model file
+    #Parses file by splitting and then reading lines
+    #Stores probabilities in default dictionary data structure -- Which are later stored as class attributes
     def configure_classifier(self, language_model_file):
         class_priors = {}
         cond_probs = defaultdict(lambda: defaultdict(lambda:0))
@@ -32,43 +59,41 @@ class naive_bayes_classifier:
 
         return class_priors, cond_probs
 
-    #### Used for classifier evaluation purposes
-    #binary or relation
+    #### Used for classifier evaluation purposes for test time
+    #binary or mutliclass relation depending on language model input file
+    #This is a decoding procedure
     def classify(self,test_vectors:list, data_is_labeled:bool, sys_file_path:str, acc_file_path:str):
         with open(sys_file_path, 'w') as sys_file:
 
             total_test_vectors = len(test_vectors)
             prediction_counts = defaultdict(lambda: defaultdict(lambda: 0))
 
+            #Itterates test word sequences
             for vector in test_vectors:
 
                 test_conditional_log_sum = defaultdict(lambda: 0)
                 final_probabilities = defaultdict(lambda: 0)
 
-
+                #Gets relation index -- e.g 1-2 for the wikipedia entry and sequence number
                 relation_index, vector=vector.split(" ",maxsplit=1)
 
                 if data_is_labeled:
-                    #print(vector.split(" ", maxsplit=1))
                     gold_label, features = vector.split(" ", maxsplit=1)
                 else:
                     features = vector
                     gold_label=None
 
-
+                #Itterates across each class to create probability distribution
                 for relation_class, prior in self.class_priors.items():
 
                     test_conditional_log_sum[relation_class] = float(prior)
 
-                    #for pair in features.split():
-                        #word = pair.split(":")[0]
-
+                    #Adds log probabilities for each word (The same as multiplying regular propabilities)
                     for word in nltk.word_tokenize(features):
                         word = ps.stem(word).lower()  # Stems the tests words
                         test_conditional_log_sum[relation_class] += float(self.cond_probs[relation_class][word])
-                        #print(relation_class +"  "+word +" " + str(self.cond_probs[relation_class][word]))
 
-                #### Funny ones smoothing output method
+                #### "Funny ones" method to avoid underflow
                 for relation, current_value in test_conditional_log_sum.items():
                     final_probability = 1 / sum([math.pow(10, math.fabs(current_value) + class_value) for class_value in
                                                  test_conditional_log_sum.values()])
@@ -76,6 +101,7 @@ class naive_bayes_classifier:
 
                 sorted_probabilities = sorted(final_probabilities.items(), key=lambda x: x[1], reverse=True)
 
+                #Relation index kept the same in output file
                 sys_file.write(relation_index + " ")
 
                 if data_is_labeled:
@@ -86,6 +112,8 @@ class naive_bayes_classifier:
                     sys_file.write(relation + " " + str(final_probability) + " ")
                 sys_file.write("\n")
 
+            #If data is labeled classifier can then produce accuracy file
+            #Self Evaluation takes place below
             if data_is_labeled:
                 with open(acc_file_path, 'w') as acc_file:
                     accuracy_count = 0
@@ -106,14 +134,11 @@ class naive_bayes_classifier:
                                 accuracy_count += predictions[prediction]
                                 precisions[gold_label]=float(predictions[prediction])/sum(predictions.values())
 
-
-
-
                             acc_file.write("\t" + str(predictions[prediction]))
+
                         acc_file.write("\t |" + gold_label[:3] + ":")
                         current_recall=float(predictions[gold_label])/recalls[gold_label]
                         acc_file.write(" P=" + str(precisions[gold_label]) + " R=" + str(current_recall) + " F1=" + str((2.0*precisions[gold_label]*current_recall)/(precisions[gold_label]+current_recall)) )
-                        # acc_file.write("\t" + str(predictions[prediction]/sum(predictions.values())) + "\n")
                         acc_file.write("\n")
 
                     acc_file.write("\t Test accuracy=" + str(accuracy_count / total_test_vectors) + "\n")
@@ -122,9 +147,9 @@ class naive_bayes_classifier:
 
 
 
-#./run_classifier.py test_vector binary_language_model.txt, class_language_model, binary_sys_out_file_name:str binary_acc_file_name:str data_is_labele:bool class_language_model.txt class_sys_out_file_name class_acc_file_name
 
 def main():
+
     test_vectors = open(sys.argv[1]).readlines()
 
     language_model_file = sys.argv[2]
@@ -140,56 +165,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-
-
-
-'''
-class Relation:
-    def __init__(self, name:str=None):
-        self.name=name
-        self.features={} # 'word'-freq bag of words and 'speaker' - freq count and 'episode-name' -freq count
-    def __repr__(self):
-        return self.name
-
-def cosine_similarity(input:str, entity):
-    """
-    returns cosine similarity of two sentence objects
-    """
-    sentence_1=Counter((nltk.word_tokenize(input.lower())))
-
-    numerator = 0
-    denominator_1 = 0
-    denominator_2 = 0
-    for i in sentence_1:
-        numerator += sentence_1.get(i) * entity.features.get(i, 0.0)
-        denominator_1 += sentence_1.get(i) ** 2
-    for i in entity.features.values():
-        denominator_2 += i * i
-    denominator = math.sqrt(denominator_1 * denominator_2)
-    if denominator != 0:
-        return numerator / denominator
-    else:
-        return denominator
-
-
-relations={}
-
-for relation_vector in relation_vectors:
-    relation_name, vector = relation_vector.split(":",maxsplit=1)
-    split_vec=vector.split()
-    current_relation = Relation(relation_name)
-    current_relation.features= {k: int(v) for k, v in zip(split_vec[::2], split_vec[1::2])}
-    relations.update({current_relation.name : current_relation})
-
-
-counts={}
-for relation in relations.values():
-    counts.update({relation.name : cosine_similarity(
-        "His body was cremated at Montes Chapel of the Hills in San Anselmo "
-        "and his ashes were scattered over San Francisco Bay the day after his death.", relation) })
-
-
-print(sorted(counts.items(), key=lambda x: x[1]))
-
-'''
