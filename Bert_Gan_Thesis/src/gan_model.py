@@ -8,18 +8,25 @@
 #A new GAN is instantiated using class name (GAN) followed by open and close parens (i.e., GAN())
 #Separately Generator/Discriminator objects have the possiblity of being initialized with a previous model file (i.e., Generator(model_file_path:str)) -- Mostly used for eval
 
-
+'''
 ###### Acknowledgments ##########################
-#- Model objects Generator and Discriminator was based on:
-#       @misc{mccormick_ryan_2019, title={BERT Fine-Tuning Tutorial with PyTorch},
-#       url={https://mccormickml.com/2019/07/22/BERT-fine-tuning}, author={McCormick, Chris and Ryan, Nick}, year={2019}, month={Jul}}
-#- Generation procedure and code modified from:
-#       @inproceedings{wang2019bert,
+
+- The following methods were modified from Wang & Cho (2019)
+            __generate_step : added gumbel softmax functionality for backpropogation which changed the sampling procedure
+            __get_init_text : samples samples of variable length within a batch and completed ranom token sequence functionality
+            generate : modified by changing the generation procedures
+             __training_generation : modified in order to allow for signel pass training generation and also for backpropogation of gradients. Also added generation of a group of indicies of a single pass.
+
+- The following methods were applied directly from Wang & Cho (2019) due to reproducibility of results:
+           _eval_generate_step, __evaluation_generation, tokenize_batch, untokenize_batch, and detokenize
+
+       @inproceedings{wang2019bert,
         #title = "{BERT} has a Mouth, and It Must Speak: {BERT} as a {M}arkov Random Field Language Model",
         #author = "Wang, Alex  and  Cho, Kyunghyun", month = jun, year = "2019"
         #https://github.com/nyu-dl/bert-gen/blob/master/bert-babble.ipynb
-###############################
 
+###############################
+'''
 #Dependenciest
 import torch.nn as nn
 from utility_models import settings, tokenizer, device
@@ -29,7 +36,6 @@ from transformers import BertForSequenceClassification, BertTokenizer, BertForMa
 import math, time
 import gc
 import torch
-
 
 # Set the seed value all over the place to make this reproducible.
 seed_val = settings.get_random_state()
@@ -48,10 +54,10 @@ class GAN(nn.Module):
         self.generator = GAN.Generator(gen_file_path)
         self.discriminator = GAN.Discriminator(disc_file_path)
 
-    #Import object attributes from another file
+    #Import object attributes from file
     from gan_training import initialize_training, train_gan, format_time, _flat_accuracy
 
-    #Generator objects has the possiblity of being initialized twith a model file
+    #Generator objects has the possiblity of being initialized with a model file
     class Generator(nn.Module):
         def __init__(self, path=None):
             super(GAN.Generator, self).__init__()
@@ -72,15 +78,15 @@ class GAN(nn.Module):
                                    eps=10e-4
                                    )
         ### Forward pass on generator is called
-        def forward(self, b_input_ids, b_labels, discriminator):
+        def forward(self, batch, labels, discriminator):
 
             #Puts the discriminator into evaluation mode only for getting logits here
             discriminator.eval()
-            discriminator_logits, _ = discriminator(b_input_ids)
+            discriminator_logits, _ = discriminator(batch)
             discriminator.train()
 
             #### Reparameterization Trick used to work around the discrete labels going into discriminator
-            loss = self.loss_fct((discriminator_logits - b_input_ids.sum(-1).unsqueeze(-1)).detach() + b_input_ids.sum(-1).unsqueeze(-1), b_labels)
+            loss = self.loss_fct((discriminator_logits - batch.sum(-1).unsqueeze(-1)).detach() + labels.sum(-1).unsqueeze(-1), labels)
 
             return discriminator_logits.mean().item(), loss
 
@@ -105,34 +111,30 @@ class GAN(nn.Module):
 
             return " ".join(new_sent)
 
-        def __generate_step(self, out: torch.tensor, gen_idx, temperature=None, top_k=0, sample=False,
+        #This method was modified by removing the for loop and allowing for training generation from bert in a single pass
+        #Additionally the gumbel softmax was implemented in order to sample in a differentiable procedure
+        def __generate_step(self, bert_output: torch.tensor, gen_idx, temperature=None, top_k=0, sample=False,
                             return_list=True):
-            """ Generate a word from from out[gen_idx]
+            #Generates a singl word token from bert propability distribution at gen_idx
+            #Temperature controls the uniformity of the given probability distribution
+            #Topk is the list of top probabilities in the distribution
 
-            args:
-                - out (torch.Tensor): tensor of logits of size batch_size x seq_len x vocab_size
-                - gen_idx (int): location for which to generate for
-                - top_k (int): if >0, only sample from the top k most probable words
-                - sample (Bool): if True, sample from full distribution. Overridden by top_k
-            """
-
-            logits = out[:, gen_idx]
+            logits = bert_output[:, gen_idx]
 
             if temperature is not None:
                 logits = logits / temperature
             if top_k > 0:
-
-                ###### I think something is happening in gumbel softmax that breaks computation graph if topk==1
+                ###### topk=1 is the same as using argmax. Caution! Breaks computation bc non-differentiable
+                #Gumbel Softmax is implemented to allow for sampling with backprop
                 kth_vals, kth_idx = torch.topk(logits, top_k, dim=-1)
                 gumbel_reps = torch.nn.functional.gumbel_softmax(logits=kth_vals, hard=True)
                 idx = torch.sum(torch.mul(gumbel_reps, kth_idx), dim=-1)
 
-                # del kth_vals, kth_idx
-                # torch.cuda.empty_cache()
             elif sample:
                 gumbel_reps = torch.nn.functional.gumbel_softmax(logits=logits, hard=True)
                 idx = torch.sum(torch.mul(gumbel_reps, torch.tensor(range(0, len(tokenizer.vocab))).to(device)), dim=-1)
             else:
+                #Argmax does not allow for backpropogation
                 idx = torch.argmax(logits, dim=-1)
                 settings.write_debug("ERRORRRRR!!!!!!")
 
@@ -145,9 +147,10 @@ class GAN(nn.Module):
 
             return idx.tolist() if return_list else idx
 
+        #This method was modified to include variable smaple lengths within a batch
         def __get_init_text(self, seed_text, max_len, batch_size=1, rand_init=False, sample_lens=None):
-            """ Get initial sentence by padding seed_text with either masks or random words to max_len """
-
+            #Creates starting vector of either masked tokens or random words tokens
+            #Sample lens is a list of sequence lengths for the batch to allow for variable length sequences that require padding
             if sample_lens:
                 batch = [
                     seed_text + [tokenizer.mask_token] * sample_len + [tokenizer.sep_token] + [tokenizer.pad_token] * (
@@ -221,13 +224,12 @@ class GAN(nn.Module):
 
             return batch
 
+        #This method was modified such that the a loop was removed in order to allow for signel pass training generation.
+        #This method also had modifications that allow for backpropogation of gradients
         def __training_generation(self, seed_text, batch_size=10, max_len=15, top_k=0, temperature=None, max_iter=300,
                                   burnin=200, sample_lens=None, print_every=10, verbose=True):
-            """ Generate for one random position at a timestep
+            #This method in the final project samples all tokens at once from the distribution created from just a single pass through bert
 
-            args:
-                - burnin: during burn-in period, sample from full distribution; afterwards take argmax
-            """
             seed_len = len(seed_text)
 
             noise_input = torch.tensor(
@@ -246,6 +248,7 @@ class GAN(nn.Module):
                 random.shuffle(raw_idxs)
                 rand_idxs = np.array_split(raw_idxs, num_groups)
 
+                #A group represents 1 or more randomly selected indicies from the input vector
                 for group in rand_idxs:
 
                     out = self.map1(batch.long())[0]
@@ -267,13 +270,12 @@ class GAN(nn.Module):
                                 jj]):  #### If the index is less than the max len
                                 batch[jj][seed_len + kk] = idxs[jj]
 
-                        # del idxs
-                        # torch.cuda.empty_cache()
                     out.detach()
                     del out
 
             return batch
 
+        #This method was modified to include only two generation procedures and to allow for backpropogation of gradients
         def generate(self, n_samples, seed_text="[CLS]", batch_size=10, max_len=25, sample_lens=None,
                      generation_mode="parallel-sequential",
                      sample=True, top_k=100, temperature=1.0, burnin=200, max_iter=500, print_every=1):
@@ -317,7 +319,6 @@ class GAN(nn.Module):
 
             loss.backward()
 
-            # Clip the norm of the gradients to 1 to prevent explosions
             torch.nn.utils.clip_grad_norm_(self.parameters(), 1.0)
 
             settings.write_debug("Finish training generator")
@@ -351,15 +352,14 @@ class GAN(nn.Module):
                                    eps=1e-8
                                    )
 
-        def forward(self, b_input_ids, b_labels=None):
-            output = self.map1(input_ids=b_input_ids.long())[0]
+        def forward(self, batch, labels=None):
+            output = self.map1(input_ids=batch.long())[0]
 
-            if b_labels is not None:
-                loss = self.loss_f(output, b_labels)
+            if batch is not None:
+                loss = self.loss_f(output, labels)
             else:
                 loss=None
 
-            # return output[0] #### Output is either loss or logits depending on if labels were given
             return output, loss
 
         def train_discriminator(self, batch, labels):
@@ -367,9 +367,9 @@ class GAN(nn.Module):
 
             output, loss = self(batch, labels)
 
+            #Backward pass to accumulate the gradients
             loss.backward()
-
-            # Clip the norm of the gradients to 1 so no explosion
+            #Clipts gradients that rise above 1.0 to prevent explosion
             torch.nn.utils.clip_grad_norm_(self.parameters(), 1.0)
 
             settings.write_debug("Ending Train Discriminator")

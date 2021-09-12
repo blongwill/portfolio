@@ -9,7 +9,8 @@
 
 
 ###### Acknowledgments ####################################################
-#- Much of Evaluation procedure and code was copied directly for reproducibility:
+#In this file I am only responsible for formulating the wrapper methods that facilitate evaluation for the current study.
+#-Evaluation procedure and code was copied directly for reproducibility of results from:
 #  @inproceedings{wang2019bert,
     #title = "{BERT} has a Mouth, and It Must Speak: {BERT} as a {M}arkov Random Field Language Model",
     #author = "Wang, Alex  and  Cho, Kyunghyun", month = jun, year = "2019"
@@ -42,8 +43,7 @@ def evaluate_bert(generator, output_file_path:str):
     settings.write_debug("Entering Bleu EVAL")
     with torch.no_grad():
 
-
-        ### Using 1 eval topk here seems to break computation for some reason
+        ### Using 1 eval topk here breaks computation because it is essentially argmax and non-differentiable
         # Choose the prefix context
         generated_input_ids = generator.generate(settings.get_num_eval_samples(),
                                                  seed_text=settings.get_eval_seed_text().split(),

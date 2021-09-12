@@ -9,9 +9,8 @@
 #Writes batches to file in order to be used later
 
 
-
 ###### Acknowledgments ##########################
-#- Preparation code borrowed for reproducibility from:
+#- Prepare_data, prepare wiki, prepare_tbc copied for reproducibility from:
 #  @inproceedings{wang2019bert,
     #title = "{BERT} has a Mouth, and It Must Speak: {BERT} as a {M}arkov Random Field Language Model",
     #author = "Wang, Alex  and  Cho, Kyunghyun", month = jun, year = "2019"

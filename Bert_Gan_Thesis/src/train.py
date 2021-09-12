@@ -8,7 +8,7 @@
 #train.py can be run from the base directory by calling ./src/train.py config_file_name (not including .txt extension)
 
 #Dependencies
-from utility_models import device, tokenizer
+from utility_models import device
 from configuration import settings
 from data_collection import create_smart_batches
 from gan_model import GAN

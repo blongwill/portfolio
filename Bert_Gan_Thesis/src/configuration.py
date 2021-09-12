@@ -8,7 +8,7 @@ import sys
 #Holds Settings object that reads in parameters and required parts
 
 ###### Acknowledgments ###############################################################################################################
-#This Settings object was modified from code used in a my group project for UW LING 575 Winter 2020: Analyzing Neural Language Models.
+#This Settings object was built upon from code used in a my group project for UW LING 575 Winter 2020: Analyzing Neural Language Models.
 ######################################################################################################################################
 
 class Settings:
