@@ -355,7 +355,7 @@ class GAN(nn.Module):
         def forward(self, batch, labels=None):
             output = self.map1(input_ids=batch.long())[0]
 
-            if batch is not None:
+            if labels is not None:
                 loss = self.loss_f(output, labels)
             else:
                 loss=None
