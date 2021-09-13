@@ -86,7 +86,7 @@ class GAN(nn.Module):
             discriminator.train()
 
             #### Reparameterization Trick used to work around the discrete labels going into discriminator
-            loss = self.loss_fct((discriminator_logits - batch.sum(-1).unsqueeze(-1)).detach() + labels.sum(-1).unsqueeze(-1), labels)
+            loss = self.loss_fct((discriminator_logits - batch.sum(-1).unsqueeze(-1)).detach() + batch.sum(-1).unsqueeze(-1), labels)
 
             return discriminator_logits.mean().item(), loss
 
