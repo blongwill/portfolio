@@ -41,6 +41,8 @@ def get_data():
     tbc_data= prepare_tbc(tbc_file_path)
     input_sents = wiki_data + tbc_data
 
+    input_sents = [" ".join(sent).replace("\n"," ") for sent in input_sents]
+
     #Method groups batches of data by normalizing length of BERt tokens
     smart_batches = create_smart_batches(input_sents, batch_size=settings.get_batch_size())
 
@@ -49,10 +51,13 @@ def get_data():
 
     #Writes prepared data to file to be saved
     with open(settings.get_train_inputs_path(), 'w+') as f:
-        [f.write(" ".join(tokenizer.convert_ids_to_tokens(sent)[1:-1]) + "\n") for batch in train_inputs for sent in batch]
+        f.write(str(train_inputs))
+        #[f.write(" ".join(tokenizer.convert_ids_to_tokens(sent)[1:-1]) + "\n") for batch in train_inputs for sent in batch]
+
 
     with open(settings.get_validation_inputs_path(), 'w+') as f:
-        [f.write(" ".join(tokenizer.convert_ids_to_tokens(sent)[1:-1]) + "\n") for batch in validation_inputs for sent in batch]
+        f.write(str(validation_inputs))
+        #[f.write(" ".join(tokenizer.convert_ids_to_tokens(sent)[1:-1]) + "\n") for batch in validation_inputs for sent in batch]
 
     with open(settings.get_proc_wiki_path(), 'wb') as f:
         pickle.dump(wiki_data, f)

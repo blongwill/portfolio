@@ -22,8 +22,8 @@ def main():
     with open(settings.get_train_inputs_path()) as train_f, open(settings.get_validation_inputs_path()) as validation_f :
 
         #Uses the creates smart_batches from data_collection.py to create batches of equal size given the training and validation datasets
-        train_inputs=create_smart_batches([x.split() for x in train_f.read().splitlines()], settings.get_batch_size())
-        validation_inputs=create_smart_batches([x.split() for x in validation_f.read().splitlines()], settings.get_batch_size())
+        train_inputs=eval(train_f.read())
+        validation_inputs=eval(validation_f.read())
 
         #Begins the Gan training
         gan.train_gan(train_inputs,validation_inputs)
