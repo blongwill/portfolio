@@ -10,7 +10,7 @@
 #Dependencies
 from utility_models import device
 from configuration import settings
-from data_collection import create_smart_batches
+from torch import tensor
 from gan_model import GAN
 
 def main():
