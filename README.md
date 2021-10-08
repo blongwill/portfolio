@@ -5,7 +5,7 @@ ________________________________________________________________________________
 
 Greetings! 
 
-My name is Benny Longwill and I finished my final quarter in the Computational Linguistics Master Program (CLMS) at The University of Washington in December and I look forward
+My name is Benny Longwill and I finished my final quarter in the Computational Linguistics Master Program (CLMS) in December 2020 at The University of Washington in December and I look forward
 to making a career in research!
 
 My current research interests lie in the investigation of alternative training methods for neural language models to better generate natural language. 
